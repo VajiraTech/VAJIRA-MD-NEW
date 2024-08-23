@@ -55,7 +55,7 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://tall-buffy-vajiratech-a63ef97e.koyeb.app/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://sessionid-de1572610649.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
 <hr>
