@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+    <img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg"  width="700px">
 </a>
 <hr>
 
