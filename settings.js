@@ -1,4 +1,4 @@
-const fs = require('fs');
+ const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
@@ -11,7 +11,7 @@ const FOOTERNAME = '> ＶＡＪＩＲＡ -  ＭＤ - Ｖ4';
 global.owner = process.env.OWNER_NUMBER  || '94701992015' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || ' VAJIRA-MD=ydVnmCJC#-iIKS0xWQiVTRvgamMB1R_kMyNycX3snCswB4rpAeVI' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=ydVnmCJC#-iIKS0xWQiVTRvgamMB1R_kMyNycX3snCswB4rpAeVI' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "0770811929,0770811929" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
