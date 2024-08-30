@@ -4,7 +4,7 @@
   "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "main":"index.js",
   "scripts":{
-    "start":"pm2 start index.js --deep-monitoring --attach --name vajira"
+    "start":"pm2 start index.js --deep-monitoring --attach --name vajira",
     "stop":"pm2 stop vajira",
     "restart":"pm2 restart vajira"},
   "dependencies":{
