@@ -9,7 +9,7 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
+* Project name - VAJIRA- MD. 
 * Author - Vajira Rathnayaka
 * Team - Technical Cybers 
 * Version - V6
