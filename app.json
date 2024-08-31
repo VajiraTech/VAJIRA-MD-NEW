@@ -26,6 +26,11 @@
             "required": true,
             "value": ""
         },
+    "POSTGRESQL_URL": {
+            "description": "Put Any postgres url here",
+            "required": true,
+            "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
+        },
     "OWNER_NUMBER": {
             "description": "Put Your number here / ඔබගෙ දුරකතන අංකය දමන්න",
             "required": true,
