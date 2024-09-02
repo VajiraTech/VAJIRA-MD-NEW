@@ -1,12 +1,12 @@
 {
-  "name":"VAJIRA-MD",
+  "name":"KARANJA-MD",
   "version":"2.1.2",
-  "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"KARANJA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "main":"index.js",
   "scripts":{
     "start":"pm2 start index.js --deep-monitoring --attach --name vajira",
-    "stop":"pm2 stop vajira",
-    "restart":"pm2 restart vajira"},
+    "stop":"pm2 stop karanja",
+    "restart":"pm2 restart karanja"},
   "dependencies":{
     "@adiwajshing/keyed-db":"^0.2.4",
     "@blackamda/telegram-image-url":"^1.0.0",

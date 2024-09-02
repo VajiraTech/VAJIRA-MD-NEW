@@ -1,5 +1,5 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "KARANJA-MD",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️ / සැම දෙයක්ම එක තනකින් බය නතුව හදන්න ඔබගෙ whatsapp හී ආරක්ශාවන්ගැන බය නොවි.",
   "logo": "https://telegra.ph/file/b11123c61f6b970118a46.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
@@ -9,10 +9,10 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=rIkkGKZI#BEUszCCerfwKLrgu0yZXTLcFTJa8xCiQ4eH7DhG5GsM"
         },
     "COMMAND_TYPE": {
-            "description": "Put correct spelling button or nonbutton here to change mode / මෙයට button හෝ nonbutton ලෙස නිවැරදිව නොවරදවා දමන්න",
+            "description": " button ",
             "required": true,
             "value": "button"
         },
@@ -32,9 +32,9 @@
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
         },
     "OWNER_NUMBER": {
-            "description": "Put Your number here / ඔබගෙ දුරකතන අංකය දමන්න",
+            "description": "+254740704963",
             "required": true,
-            "value": "9471xxxxxxx"
+            "value": "2547xxxxxxx"
 }
 
     },
