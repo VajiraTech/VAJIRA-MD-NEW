@@ -1,10 +1,10 @@
 {
-  "name":"VAJIRA-MD",
+  "name":"🔥🌟CYBER_FLAW🌟🔥-MD",
   "version":"2.1.2",
-  "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"MADE BY 🔥🌟CYBER_FLAW🌟🔥",
   "main":"index.js",
   "scripts":{
-    "start":"pm2 start index.js --deep-monitoring --attach --name vajira",
+    "start":"pm2 start index.js --deep-monitoring --attach --name CYBER_FLAW",
     "stop":"pm2 stop vajira",
     "restart":"pm2 restart vajira"},
   "dependencies":{
