@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=DNtzjZiQ#uxnaaFXLX9Q7HUnCUsZfQPfb6NJ8GrftCAK7SZdLaec"
         },
     "COMMAND_TYPE": {
             "description": "Put correct spelling button or nonbutton here to change mode / මෙයට button හෝ nonbutton ලෙස නිවැරදිව නොවරදවා දමන්න",
