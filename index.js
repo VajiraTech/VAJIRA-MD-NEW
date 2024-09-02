@@ -10,12 +10,12 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - KARANJA- MD 
-* Author - karanja kanji
+* Project name - Vajira
+* Author - Vajira Rathnayaka
 * Team - Technical Cybers 
 * Version - V6
 
-World best and powerfull whatsapp user bot in Kenya*/
+World best and powerfull whatsapp user bot in Sri lanka*/
 
 
 
