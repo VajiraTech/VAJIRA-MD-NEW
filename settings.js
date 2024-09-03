@@ -41,5 +41,5 @@ HEROKU_APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HE
 LOGO: process.env.LOGO || `https://telegra.ph/file/d485addfa8c0a29c694fd.jpg` ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,    
 ANTI_DELETE : process.env.ANTI_DELETE || true ,
-DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO        
+DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '923082741184' : process.env.DELETEMSGSENDTO        
 };
