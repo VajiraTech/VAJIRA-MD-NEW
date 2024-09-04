@@ -1,0 +1,107 @@
+[
+  {
+    "key": {
+      "remoteJid": "94782033975@s.whatsapp.net",
+      "fromMe": false,
+      "id": "1TAFPMKUB7SRDF5X3QOADS0HN0KUM4UZ"
+    },
+    "messageTimestamp": 1725336664,
+    "pushName": "....",
+    "broadcast": false,
+    "message": {
+      "viewOnceMessage": {
+        "message": {
+          "messageContextInfo": {
+            "deviceListMetadata": {},
+            "deviceListMetadataVersion": 2
+          },
+          "interactiveMessage": {
+            "header": {
+              "title": "",
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-a9704677-c6a0-4eb4-91ee-c72bd9726478?ccb=9-4&oh=01_Q5AaIBPQS4k88lb71lZtrNUPWomsB2W5w5o1L4pzB5Y0G25x&oe=66FE0803&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+                "fileLength": "24331",
+                "height": 591,
+                "width": 1280,
+                "mediaKey": "UQny7PsRtW58GbKICDmGH4tmpL2xZokolc670jEbvkc=",
+                "fileEncSha256": "kGrAnEEQldKXnN7DxH2krM5M4J3Fi9QCAxbxH+93j+Y=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-a9704677-c6a0-4eb4-91ee-c72bd9726478?ccb=9-4&oh=01_Q5AaIBPQS4k88lb71lZtrNUPWomsB2W5w5o1L4pzB5Y0G25x&oe=66FE0803&_nc_sid=000000",
+                "mediaKeyTimestamp": "1725336663",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "*HELLO ....*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 196.31MB / 7930MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 1 hour, 12 minutes, 21 seconds\n*╰──────────●●►*\n"
+            },
+            "footer": {
+              "text": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029VaMduczBKfhwsLRoPx12\",\"merchant_url\":\"https://whatsapp.com/channel/0029VaMduczBKfhwsLRoPx12\"}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        }
+      }
+    },
+    "id": "1TAFPMKUB7SRDF5X3QOADS0HN0KUM4UZ",
+    "chat": "94782033975@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94782033975@s.whatsapp.net",
+    "type": "viewOnceMessage",
+    "msg": {
+      "header": {
+        "title": "",
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-a9704677-c6a0-4eb4-91ee-c72bd9726478?ccb=9-4&oh=01_Q5AaIBPQS4k88lb71lZtrNUPWomsB2W5w5o1L4pzB5Y0G25x&oe=66FE0803&_nc_sid=000000&mms3=true",
+          "mimetype": "image/jpeg",
+          "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+          "fileLength": "24331",
+          "height": 591,
+          "width": 1280,
+          "mediaKey": "UQny7PsRtW58GbKICDmGH4tmpL2xZokolc670jEbvkc=",
+          "fileEncSha256": "kGrAnEEQldKXnN7DxH2krM5M4J3Fi9QCAxbxH+93j+Y=",
+          "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-a9704677-c6a0-4eb4-91ee-c72bd9726478?ccb=9-4&oh=01_Q5AaIBPQS4k88lb71lZtrNUPWomsB2W5w5o1L4pzB5Y0G25x&oe=66FE0803&_nc_sid=000000",
+          "mediaKeyTimestamp": "1725336663",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+        },
+        "hasMediaAttachment": true
+      },
+      "body": {
+        "text": "*HELLO ....*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 196.31MB / 7930MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 1 hour, 12 minutes, 21 seconds\n*╰──────────●●►*\n"
+      },
+      "footer": {
+        "text": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ"
+      },
+      "nativeFlowMessage": {
+        "buttons": [
+          {
+            "name": "cta_url",
+            "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029VaMduczBKfhwsLRoPx12\",\"merchant_url\":\"https://whatsapp.com/channel/0029VaMduczBKfhwsLRoPx12\"}"
+          },
+          {
+            "name": "single_select",
+            "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+          }
+        ],
+        "messageParamsJson": ""
+      }
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

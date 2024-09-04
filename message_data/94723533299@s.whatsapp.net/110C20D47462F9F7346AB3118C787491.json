@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "110C20D47462F9F7346AB3118C787491"
+    },
+    "messageTimestamp": 1725296998,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ඇතුලෙද",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB0917EF1CB60BCBD4265",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "puttalame kiuwata puttalame neme"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "110C20D47462F9F7346AB3118C787491",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ඇතුලෙද",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0917EF1CB60BCBD4265",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "puttalame kiuwata puttalame neme"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "ඇතුලෙද",
+    "quoted": {
+      "conversation": "puttalame kiuwata puttalame neme"
+    }
+  }
+]

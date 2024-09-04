@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "70F5CC032799C6DB69589C41E3E77E77"
+    },
+    "messageTimestamp": 1725296802,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "එවා ලියා ගත්තා",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB02B80B6A03FD6E89022",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "deshagune"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "70F5CC032799C6DB69589C41E3E77E77",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "එවා ලියා ගත්තා",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB02B80B6A03FD6E89022",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "deshagune"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "එවා ලියා ගත්තා",
+    "quoted": {
+      "conversation": "deshagune"
+    }
+  }
+]

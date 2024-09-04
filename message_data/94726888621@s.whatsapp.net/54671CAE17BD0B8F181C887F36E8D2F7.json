@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94726888621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "54671CAE17BD0B8F181C887F36E8D2F7"
+    },
+    "messageTimestamp": 1725244675,
+    "pushName": "𝔄𝔑𝔊𝔈𝔏 >>>",
+    "broadcast": false,
+    "message": {
+      "conversation": ".gemini පත්තිනි පිළිබඳ කතා පුවත්",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "54671CAE17BD0B8F181C887F36E8D2F7",
+    "chat": "94726888621@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94726888621@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".gemini පත්තිනි පිළිබඳ කතා පුවත්",
+    "mentionUser": [],
+    "body": ".gemini පත්තිනි පිළිබඳ කතා පුවත්",
+    "quoted": null
+  }
+]

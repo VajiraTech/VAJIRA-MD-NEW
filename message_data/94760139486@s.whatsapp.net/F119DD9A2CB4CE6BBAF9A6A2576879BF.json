@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94760139486@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F119DD9A2CB4CE6BBAF9A6A2576879BF"
+    },
+    "messageTimestamp": 1725301085,
+    "pushName": "🙂🤍✨",
+    "broadcast": false,
+    "message": {
+      "conversation": "Aye em mktwenne n",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F119DD9A2CB4CE6BBAF9A6A2576879BF",
+    "chat": "94760139486@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94760139486@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Aye em mktwenne n",
+    "mentionUser": [],
+    "body": "Aye em mktwenne n",
+    "quoted": null
+  }
+]

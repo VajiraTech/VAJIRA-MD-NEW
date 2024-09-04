@@ -1,0 +1,81 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "14589743067AACF90219317BF72CE440"
+    },
+    "messageTimestamp": 1725451857,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ඔවු අයියා",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB0DFC92824ED4A757DCB",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "balamiko neda"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "y+dOmfYAfbSPeQHnePxdwBFiXCvO5kLdXhKGiJQB8io="
+      }
+    },
+    "id": "14589743067AACF90219317BF72CE440",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ඔවු අයියා",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0DFC92824ED4A757DCB",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "balamiko neda"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "ඔවු අයියා",
+    "quoted": {
+      "conversation": "balamiko neda"
+    }
+  }
+]

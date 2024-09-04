@@ -1,0 +1,99 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703168288@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CB7DB289819A40A6AE991CB1B52D90D5"
+    },
+    "messageTimestamp": 1725450422,
+    "pushName": "Malani Weerasinghe.",
+    "broadcast": false,
+    "message": {
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "IEXvKaRfeDAloHas+uiE5iIJuoIX/zrQxiJQwOjulDE="
+      },
+      "interactiveResponseMessage": {
+        "body": {
+          "text": "DOWNLOAD MENU",
+          "format": "DEFAULT"
+        },
+        "nativeFlowResponseMessage": {
+          "name": "menu_options",
+          "paramsJson": "{\"id\":\".category DOWNLOAD\",\"description\":\"\"}"
+        }
+      }
+    },
+    "id": "CB7DB289819A40A6AE991CB1B52D90D5",
+    "chat": "94703168288@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703168288@s.whatsapp.net",
+    "type": "interactiveResponseMessage",
+    "msg": {
+      "body": {
+        "text": "DOWNLOAD MENU",
+        "format": "DEFAULT"
+      },
+      "nativeFlowResponseMessage": {
+        "name": "menu_options",
+        "paramsJson": "{\"id\":\".category DOWNLOAD\",\"description\":\"\"}"
+      }
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-3e5070ea-2d3e-408d-aa43-713f94b78fa5?ccb=9-4&oh=01_Q5AaIK1NmrRZaEP2aK_qdESFT9LqxOXPoov4710DbCTFEWsD&oe=66FFAEA1&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "hs+qcSJLIpf4yAsfkaCUJRATotO1c6ie4Ho/CI3O3JM=",
+            "fileLength": "118506",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "w0/7/PY7axIm25nhKIffS3chAUOShPY4s6vE24MmmjA=",
+            "fileEncSha256": "eMGGV8h3c0vsBeBTONDiRrZU0DbXcUHyLIUD0XiywU4=",
+            "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-3e5070ea-2d3e-408d-aa43-713f94b78fa5?ccb=9-4&oh=01_Q5AaIK1NmrRZaEP2aK_qdESFT9LqxOXPoov4710DbCTFEWsD&oe=66FFAEA1&_nc_sid=000000",
+            "mediaKeyTimestamp": "1725450404",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABIAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AKlp4fmaVN6r5SkM5c4AGec167rQUXZ6nB7OpzbFPVdOW2k2xHeoGSwOcHj2HHPB75FRR96neT1uVWajOy0LC6FIukC6MUkkkp2qAh+U5wP8+px1oXJzOIm24qSMlrWQIXKttHVtpwP85H51SpJE+2u7XO2/t2zurOWMMiIBhweMqTg9x2J/OvLSfU9KW2hHrFzDcmJhcny12yeYjnkMMbQuTj7mfTJ9eTtRqOm7pGFSjGqrSIrbWbmFY4IHtUhVA2XYA475+YDcc9OOevsT5ZNyl1BRlCKjHY52aZkbynkVokGMB9wx+BIz0rsVaL944nQa0S1KC8nmvNPSJ5ppX8vdI7ZJzlic1Qyq5O48mkSNpAf/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "❖👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻❖\n\t    \n```👋 Hello Malani Weerasinghe.```\n\n╭───═❮ *ᴍᴇɴᴜ ʟɪsᴛ* ❯═───❖\n│ *🚀𝙑𝙀𝙍𝙎𝙄𝙊𝙉:* 2.1.2\n│ *⌛𝙈𝙀𝙈𝙊𝙍𝙔:* 118.34MB / 7930MB\n│ *🕒𝙍𝙐𝙉𝙏𝙄𝙈𝙀:* 29 minutes, 27 seconds\n│ *📍𝙋𝙇𝘼𝙏𝙁𝙊𝙍𝙈:* codespaces-cb14a9\n╰━━━━━━━━━━━━━━━┈⊷"
+        },
+        "footer": {
+          "text": "👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow US\",\"url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\",\"merchant_url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\"}"
+            },
+            {
+              "name": "single_select",
+              "buttonParamsJson": "{\"title\":\"Select a SubMenu\",\"sections\":[{\"title\":\"Please select a SubMenu\",\"highlight_label\":\"ᴠᴀᴊɪʀᴀ-ᴍᴅ\",\"rows\":[{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".category MAIN\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".category DOWNLOAD\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".category GROUP\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".category SEARCH\"},{\"header\":\"\",\"title\":\"OTHER MENU\",\"description\":\"\",\"id\":\".category OTHER\"},{\"header\":\"\",\"title\":\"BUG MENU\",\"description\":\"\",\"id\":\".category BUG\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".category CONVERT\"},{\"header\":\"\",\"title\":\"MISC MENU\",\"description\":\"\",\"id\":\".category MISC\"},{\"header\":\"\",\"title\":\"LOGO MENU\",\"description\":\"\",\"id\":\".category LOGO\"},{\"header\":\"\",\"title\":\"MOVIE MENU\",\"description\":\"\",\"id\":\".category MOVIE\"}]}]}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94703168288@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "key": {
+      "remoteJid": "94782033975@s.whatsapp.net",
+      "fromMe": false,
+      "id": "17F0DA63DBF4BB36AC3FFD5DECFBE3FB"
+    },
+    "messageTimestamp": 1725302816,
+    "pushName": "....",
+    "broadcast": false,
+    "message": {
+      "conversation": ".fb https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "Z3YJTDRdDUCv2Q==",
+          "senderTimestamp": "1725282779",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "17F0DA63DBF4BB36AC3FFD5DECFBE3FB",
+    "chat": "94782033975@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94782033975@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".fb https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v",
+    "mentionUser": [],
+    "body": ".fb https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v",
+    "quoted": null
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "724E9A66EC43A5B3AC2FACF9DD6DCC7E"
+    },
+    "messageTimestamp": 1725259185,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "මට වජිර md bor ගෙ github link එක දාන්න පුළුවන් ද 🥹",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1723559752",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "simzrT9nuH5BGw==",
+          "senderTimestamp": "1725164065",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "`PANCHA´",
+    "id": "724E9A66EC43A5B3AC2FACF9DD6DCC7E",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "මට වජිර md bor ගෙ github link එක දාන්න පුළුවන් ද 🥹",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1723559752",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "මට වජිර md bor ගෙ github link එක දාන්න පුළුවන් ද 🥹",
+    "quoted": null
+  }
+]

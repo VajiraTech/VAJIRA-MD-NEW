@@ -1,0 +1,261 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "04B4049F39E0D563A558396484B84D55"
+    },
+    "messageTimestamp": 1725259649,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".menu",
+        "selectedDisplayText": "Get Menu",
+        "contextInfo": {
+          "stanzaId": "1DB437B6599821E3081A4BE7C7099450",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-5e33bb40-b863-4131-9347-17de614dbe6f?ccb=9-4&oh=01_Q5AaIBISRjc1X3nkOsLUK6WGl5uQohfxpNhFhnaO_Oq4y5Pn&oe=66FCD4E9&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "hs+qcSJLIpf4yAsfkaCUJRATotO1c6ie4Ho/CI3O3JM=",
+                  "fileLength": "118506",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "UsLjqm59W6naIn46Qeh+kSKGksImERl+GsTFpYIHYfM=",
+                  "fileEncSha256": "B2gZ7pwD7c3FVJPKWCHlXIK6a0Z2s98/dZWcztKmCSU=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-5e33bb40-b863-4131-9347-17de614dbe6f?ccb=9-4&oh=01_Q5AaIBISRjc1X3nkOsLUK6WGl5uQohfxpNhFhnaO_Oq4y5Pn&oe=66FCD4E9&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1725259352",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABIAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AKlp4fmaVN6r5SkM5c4AGec167rQUXZ6nB7OpzbFPVdOW2k2xHeoGSwOcHj2HHPB75FRR96neT1uVWajOy0LC6FIukC6MUkkkp2qAh+U5wP8+px1oXJzOIm24qSMlrWQIXKttHVtpwP85H51SpJE+2u7XO2/t2zurOWMMiIBhweMqTg9x2J/OvLSfU9KW2hHrFzDcmJhcny12yeYjnkMMbQuTj7mfTJ9eTtRqOm7pGFSjGqrSIrbWbmFY4IHtUhVA2XYA475+YDcc9OOevsT5ZNyl1BRlCKjHY52aZkbynkVokGMB9wx+BIz0rsVaL944nQa0S1KC8nmvNPSJ5ppX8vdI7ZJzlic1Qyq5O48mkSNpAf/2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "```👋 Hello `PANCHA´```\n\n*👾 VAJIRA-MD commands menu...*\n  \n> *Version:* 2.1.2\n> *Memory:* 113.93MB / 7930MB\n> *Runtime:* 10 minutes, 49 seconds\n> *Platform:* codespaces-cb14a9\n  *VAJIRA MD WHATSAPP USER BOT* 💫\n\n                     *OUR MISSION*\n\n🐼This is the result of our teams hard work and our technical cybers team owns the bots rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances And 100 Commands And logo, thumbnail,banner Maker Commands Ai Chatbot feathers On Our Bot\n\n\n🐼 The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier\n\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"YT CHANNEL\",\"url\":\"https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol\",\"merchant_url\":\"https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol\"}"
+                  },
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"FB PAGE\",\"url\":\"https://www.facebook.com/WMRTECH\",\"merchant_url\":\"https://www.facebook.com/WMRTECH\"}"
+                  },
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"MY WA NUMBER\",\"url\":\"https://wa.me/94719199757\",\"merchant_url\":\"https://wa.me/94719199757\"}"
+                  },
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"MY WA CHANNEL\",\"url\":\"https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24\"}"
+                  },
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"MY BOT REPO\",\"url\":\"https://github.com/VajiraTech/VAJIRA-MD\",\"merchant_url\":\"https://github.com/VajiraTech/VAJIRA-MD\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Get Menu\",\"id\":\".menu\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94766087184@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1723559752",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "selectedIndex": 5
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "simzrT9nuH5BGw==",
+          "senderTimestamp": "1725164065",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "`PANCHA´",
+    "id": "04B4049F39E0D563A558396484B84D55",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".menu",
+      "selectedDisplayText": "Get Menu",
+      "contextInfo": {
+        "stanzaId": "1DB437B6599821E3081A4BE7C7099450",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-5e33bb40-b863-4131-9347-17de614dbe6f?ccb=9-4&oh=01_Q5AaIBISRjc1X3nkOsLUK6WGl5uQohfxpNhFhnaO_Oq4y5Pn&oe=66FCD4E9&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "hs+qcSJLIpf4yAsfkaCUJRATotO1c6ie4Ho/CI3O3JM=",
+                "fileLength": "118506",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "UsLjqm59W6naIn46Qeh+kSKGksImERl+GsTFpYIHYfM=",
+                "fileEncSha256": "B2gZ7pwD7c3FVJPKWCHlXIK6a0Z2s98/dZWcztKmCSU=",
+                "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-5e33bb40-b863-4131-9347-17de614dbe6f?ccb=9-4&oh=01_Q5AaIBISRjc1X3nkOsLUK6WGl5uQohfxpNhFhnaO_Oq4y5Pn&oe=66FCD4E9&_nc_sid=000000",
+                "mediaKeyTimestamp": "1725259352",
+                "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABIAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AKlp4fmaVN6r5SkM5c4AGec167rQUXZ6nB7OpzbFPVdOW2k2xHeoGSwOcHj2HHPB75FRR96neT1uVWajOy0LC6FIukC6MUkkkp2qAh+U5wP8+px1oXJzOIm24qSMlrWQIXKttHVtpwP85H51SpJE+2u7XO2/t2zurOWMMiIBhweMqTg9x2J/OvLSfU9KW2hHrFzDcmJhcny12yeYjnkMMbQuTj7mfTJ9eTtRqOm7pGFSjGqrSIrbWbmFY4IHtUhVA2XYA475+YDcc9OOevsT5ZNyl1BRlCKjHY52aZkbynkVokGMB9wx+BIz0rsVaL944nQa0S1KC8nmvNPSJ5ppX8vdI7ZJzlic1Qyq5O48mkSNpAf/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "```👋 Hello `PANCHA´```\n\n*👾 VAJIRA-MD commands menu...*\n  \n> *Version:* 2.1.2\n> *Memory:* 113.93MB / 7930MB\n> *Runtime:* 10 minutes, 49 seconds\n> *Platform:* codespaces-cb14a9\n  *VAJIRA MD WHATSAPP USER BOT* 💫\n\n                     *OUR MISSION*\n\n🐼This is the result of our teams hard work and our technical cybers team owns the bots rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances And 100 Commands And logo, thumbnail,banner Maker Commands Ai Chatbot feathers On Our Bot\n\n\n🐼 The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier\n\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"YT CHANNEL\",\"url\":\"https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol\",\"merchant_url\":\"https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol\"}"
+                },
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"FB PAGE\",\"url\":\"https://www.facebook.com/WMRTECH\",\"merchant_url\":\"https://www.facebook.com/WMRTECH\"}"
+                },
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"MY WA NUMBER\",\"url\":\"https://wa.me/94719199757\",\"merchant_url\":\"https://wa.me/94719199757\"}"
+                },
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"MY WA CHANNEL\",\"url\":\"https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24\"}"
+                },
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"MY BOT REPO\",\"url\":\"https://github.com/VajiraTech/VAJIRA-MD\",\"merchant_url\":\"https://github.com/VajiraTech/VAJIRA-MD\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Get Menu\",\"id\":\".menu\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94766087184@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1723559752",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "selectedIndex": 5
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": ".menu",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-5e33bb40-b863-4131-9347-17de614dbe6f?ccb=9-4&oh=01_Q5AaIBISRjc1X3nkOsLUK6WGl5uQohfxpNhFhnaO_Oq4y5Pn&oe=66FCD4E9&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "hs+qcSJLIpf4yAsfkaCUJRATotO1c6ie4Ho/CI3O3JM=",
+            "fileLength": "118506",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "UsLjqm59W6naIn46Qeh+kSKGksImERl+GsTFpYIHYfM=",
+            "fileEncSha256": "B2gZ7pwD7c3FVJPKWCHlXIK6a0Z2s98/dZWcztKmCSU=",
+            "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-5e33bb40-b863-4131-9347-17de614dbe6f?ccb=9-4&oh=01_Q5AaIBISRjc1X3nkOsLUK6WGl5uQohfxpNhFhnaO_Oq4y5Pn&oe=66FCD4E9&_nc_sid=000000",
+            "mediaKeyTimestamp": "1725259352",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABIAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AKlp4fmaVN6r5SkM5c4AGec167rQUXZ6nB7OpzbFPVdOW2k2xHeoGSwOcHj2HHPB75FRR96neT1uVWajOy0LC6FIukC6MUkkkp2qAh+U5wP8+px1oXJzOIm24qSMlrWQIXKttHVtpwP85H51SpJE+2u7XO2/t2zurOWMMiIBhweMqTg9x2J/OvLSfU9KW2hHrFzDcmJhcny12yeYjnkMMbQuTj7mfTJ9eTtRqOm7pGFSjGqrSIrbWbmFY4IHtUhVA2XYA475+YDcc9OOevsT5ZNyl1BRlCKjHY52aZkbynkVokGMB9wx+BIz0rsVaL944nQa0S1KC8nmvNPSJ5ppX8vdI7ZJzlic1Qyq5O48mkSNpAf/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "```👋 Hello `PANCHA´```\n\n*👾 VAJIRA-MD commands menu...*\n  \n> *Version:* 2.1.2\n> *Memory:* 113.93MB / 7930MB\n> *Runtime:* 10 minutes, 49 seconds\n> *Platform:* codespaces-cb14a9\n  *VAJIRA MD WHATSAPP USER BOT* 💫\n\n                     *OUR MISSION*\n\n🐼This is the result of our teams hard work and our technical cybers team owns the bots rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances And 100 Commands And logo, thumbnail,banner Maker Commands Ai Chatbot feathers On Our Bot\n\n\n🐼 The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier\n\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"YT CHANNEL\",\"url\":\"https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol\",\"merchant_url\":\"https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol\"}"
+            },
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"FB PAGE\",\"url\":\"https://www.facebook.com/WMRTECH\",\"merchant_url\":\"https://www.facebook.com/WMRTECH\"}"
+            },
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"MY WA NUMBER\",\"url\":\"https://wa.me/94719199757\",\"merchant_url\":\"https://wa.me/94719199757\"}"
+            },
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"MY WA CHANNEL\",\"url\":\"https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24\"}"
+            },
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"MY BOT REPO\",\"url\":\"https://github.com/VajiraTech/VAJIRA-MD\",\"merchant_url\":\"https://github.com/VajiraTech/VAJIRA-MD\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Get Menu\",\"id\":\".menu\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94766087184@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "key": {
+      "remoteJid": "94740342731@s.whatsapp.net",
+      "fromMe": false,
+      "id": "14B8600F3E0E7D361B43CBEEBD2C24F1"
+    },
+    "messageTimestamp": 1725206406,
+    "pushName": "Ss",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "මේ කටහඩ ඔයාගේ ද",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "C6F9579FA96B1785AEA34D31B521315A",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "audioMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7114-24/11963376_1978881099230223_8460969858790371134_n.enc?ccb=11-4&oh=01_Q5AaIMur2nQFzylDuwdzJ3tVpzEnan085kjPHXT17xfj2Rg7&oe=66FC0AF7&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "audio/mpeg",
+              "fileSha256": "W+uPdOTQ27k9ckRkULbbkWstjQ56cI+ZWOljc0Me1Q8=",
+              "fileLength": "836052",
+              "seconds": 28,
+              "ptt": true,
+              "mediaKey": "qsLyCsjLSo6MK8Xu7jbcUqufxxT/P9RTi5KzzB6WIdM=",
+              "fileEncSha256": "+lZZgnqyEJTMIsha4vzt9M9Db3TQI9197Ws87v1kveM=",
+              "directPath": "/v/t62.7114-24/11963376_1978881099230223_8460969858790371134_n.enc?ccb=11-4&oh=01_Q5AaIMur2nQFzylDuwdzJ3tVpzEnan085kjPHXT17xfj2Rg7&oe=66FC0AF7&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1725206099"
+            }
+          },
+          "remoteJid": "120363305776472816@g.us",
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "14B8600F3E0E7D361B43CBEEBD2C24F1",
+    "chat": "94740342731@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94740342731@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "මේ කටහඩ ඔයාගේ ද",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "C6F9579FA96B1785AEA34D31B521315A",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "audioMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7114-24/11963376_1978881099230223_8460969858790371134_n.enc?ccb=11-4&oh=01_Q5AaIMur2nQFzylDuwdzJ3tVpzEnan085kjPHXT17xfj2Rg7&oe=66FC0AF7&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "audio/mpeg",
+            "fileSha256": "W+uPdOTQ27k9ckRkULbbkWstjQ56cI+ZWOljc0Me1Q8=",
+            "fileLength": "836052",
+            "seconds": 28,
+            "ptt": true,
+            "mediaKey": "qsLyCsjLSo6MK8Xu7jbcUqufxxT/P9RTi5KzzB6WIdM=",
+            "fileEncSha256": "+lZZgnqyEJTMIsha4vzt9M9Db3TQI9197Ws87v1kveM=",
+            "directPath": "/v/t62.7114-24/11963376_1978881099230223_8460969858790371134_n.enc?ccb=11-4&oh=01_Q5AaIMur2nQFzylDuwdzJ3tVpzEnan085kjPHXT17xfj2Rg7&oe=66FC0AF7&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1725206099"
+          }
+        },
+        "remoteJid": "120363305776472816@g.us",
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "මේ කටහඩ ඔයාගේ ද",
+    "quoted": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7114-24/11963376_1978881099230223_8460969858790371134_n.enc?ccb=11-4&oh=01_Q5AaIMur2nQFzylDuwdzJ3tVpzEnan085kjPHXT17xfj2Rg7&oe=66FC0AF7&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/mpeg",
+        "fileSha256": "W+uPdOTQ27k9ckRkULbbkWstjQ56cI+ZWOljc0Me1Q8=",
+        "fileLength": "836052",
+        "seconds": 28,
+        "ptt": true,
+        "mediaKey": "qsLyCsjLSo6MK8Xu7jbcUqufxxT/P9RTi5KzzB6WIdM=",
+        "fileEncSha256": "+lZZgnqyEJTMIsha4vzt9M9Db3TQI9197Ws87v1kveM=",
+        "directPath": "/v/t62.7114-24/11963376_1978881099230223_8460969858790371134_n.enc?ccb=11-4&oh=01_Q5AaIMur2nQFzylDuwdzJ3tVpzEnan085kjPHXT17xfj2Rg7&oe=66FC0AF7&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1725206099"
+      }
+    }
+  }
+]

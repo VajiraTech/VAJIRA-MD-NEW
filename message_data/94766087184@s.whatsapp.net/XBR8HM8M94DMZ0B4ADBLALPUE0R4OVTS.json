@@ -1,0 +1,83 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "XBR8HM8M94DMZ0B4ADBLALPUE0R4OVTS"
+    },
+    "messageTimestamp": 1725451756,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7114-24/11972148_1716209025796586_4603886405241470843_n.enc?ccb=11-4&oh=01_Q5AaIN0_d_hDW78IzfIGvj06P7sSA7-UBiHh291ZpCRaHhPs&oe=66FFCBB2&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/mpeg",
+        "fileSha256": "MtrtTA/L4Jjv6wKj34VNGaQ7TfYfGiZ9V8LnHT6SDgs=",
+        "fileLength": "9442",
+        "seconds": 4,
+        "ptt": true,
+        "mediaKey": "gNm2h79j7GLkBkU/1bpyy+rAkZUYFMe8v/KDOedlfxE=",
+        "fileEncSha256": "xAs/wkyNoMmqWN7Bx/kw0KhWLZ6ZTuF/Y9P4xm6YXlQ=",
+        "directPath": "/v/t62.7114-24/11972148_1716209025796586_4603886405241470843_n.enc?ccb=11-4&oh=01_Q5AaIN0_d_hDW78IzfIGvj06P7sSA7-UBiHh291ZpCRaHhPs&oe=66FFCBB2&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1725451754",
+        "contextInfo": {
+          "stanzaId": "3EB02EF060F0110F38CAA1",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "dan mk",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "waveform": "AAkXHic4OD0ZFi8jNzM+TkE8V2RUPEo0PDo0MiYGAwMCAgEBAgUQBCc5S1VNJSsYCQQVFyIqKj80PUooCwQCAQ=="
+      }
+    },
+    "verifiedBizName": "`PANCHA´",
+    "id": "XBR8HM8M94DMZ0B4ADBLALPUE0R4OVTS",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/11972148_1716209025796586_4603886405241470843_n.enc?ccb=11-4&oh=01_Q5AaIN0_d_hDW78IzfIGvj06P7sSA7-UBiHh291ZpCRaHhPs&oe=66FFCBB2&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mpeg",
+      "fileSha256": "MtrtTA/L4Jjv6wKj34VNGaQ7TfYfGiZ9V8LnHT6SDgs=",
+      "fileLength": "9442",
+      "seconds": 4,
+      "ptt": true,
+      "mediaKey": "gNm2h79j7GLkBkU/1bpyy+rAkZUYFMe8v/KDOedlfxE=",
+      "fileEncSha256": "xAs/wkyNoMmqWN7Bx/kw0KhWLZ6ZTuF/Y9P4xm6YXlQ=",
+      "directPath": "/v/t62.7114-24/11972148_1716209025796586_4603886405241470843_n.enc?ccb=11-4&oh=01_Q5AaIN0_d_hDW78IzfIGvj06P7sSA7-UBiHh291ZpCRaHhPs&oe=66FFCBB2&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1725451754",
+      "contextInfo": {
+        "stanzaId": "3EB02EF060F0110F38CAA1",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "dan mk",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "waveform": "AAkXHic4OD0ZFi8jNzM+TkE8V2RUPEo0PDo0MiYGAwMCAgEBAgUQBCc5S1VNJSsYCQQVFyIqKj80PUooCwQCAQ=="
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "dan mk",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

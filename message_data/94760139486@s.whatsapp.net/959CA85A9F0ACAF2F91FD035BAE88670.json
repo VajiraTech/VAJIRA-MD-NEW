@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94760139486@s.whatsapp.net",
+      "fromMe": false,
+      "id": "959CA85A9F0ACAF2F91FD035BAE88670"
+    },
+    "messageTimestamp": 1725301805,
+    "pushName": "🙂🤍✨",
+    "broadcast": false,
+    "message": {
+      "conversation": ".gemini මට මන් ගැනම වරදකාරී හැගීමක් දැනෙනව",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "959CA85A9F0ACAF2F91FD035BAE88670",
+    "chat": "94760139486@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94760139486@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".gemini මට මන් ගැනම වරදකාරී හැගීමක් දැනෙනව",
+    "mentionUser": [],
+    "body": ".gemini මට මන් ගැනම වරදකාරී හැගීමක් දැනෙනව",
+    "quoted": null
+  }
+]

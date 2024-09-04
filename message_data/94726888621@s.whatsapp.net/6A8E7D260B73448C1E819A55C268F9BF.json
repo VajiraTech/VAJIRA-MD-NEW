@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94726888621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6A8E7D260B73448C1E819A55C268F9BF"
+    },
+    "messageTimestamp": 1725244603,
+    "pushName": "𝔄𝔑𝔊𝔈𝔏 >>>",
+    "broadcast": false,
+    "message": {
+      "conversation": ".gemini",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "6A8E7D260B73448C1E819A55C268F9BF",
+    "chat": "94726888621@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94726888621@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".gemini",
+    "mentionUser": [],
+    "body": ".gemini",
+    "quoted": null
+  }
+]

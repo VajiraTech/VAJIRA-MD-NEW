@@ -1,0 +1,50 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "8CC25F942B3CDD727AB7D23471062619"
+    },
+    "messageTimestamp": 1725452010,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "94766087184@s.whatsapp.net",
+          "fromMe": false,
+          "id": "C76A71C591D358F68E2ED238144F40D1"
+        },
+        "text": "😢",
+        "senderTimestampMs": "1725452010268"
+      }
+    },
+    "id": "8CC25F942B3CDD727AB7D23471062619",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "94766087184@s.whatsapp.net",
+        "fromMe": false,
+        "id": "C76A71C591D358F68E2ED238144F40D1"
+      },
+      "text": "😢",
+      "senderTimestampMs": "1725452010268"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "A8FE7B7AAA376CC53885B9ED94AABEB5"
+    },
+    "messageTimestamp": 1725451772,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ඇයි අයියා එහෙම වෙන්නේ",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "M/rXsAUJ1SwE2b1fBqVsMSSt4DHKHftnw6pJJBFSoqQ="
+      }
+    },
+    "id": "A8FE7B7AAA376CC53885B9ED94AABEB5",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ඇයි අයියා එහෙම වෙන්නේ",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "ඇයි අයියා එහෙම වෙන්නේ",
+    "quoted": null
+  }
+]

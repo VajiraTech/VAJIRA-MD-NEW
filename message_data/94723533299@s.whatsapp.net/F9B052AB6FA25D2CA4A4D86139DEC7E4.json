@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F9B052AB6FA25D2CA4A4D86139DEC7E4"
+    },
+    "messageTimestamp": 1725296522,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "කොහෙද ස්කොලෙ",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB0C8857E8924DE963B81",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ooo"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F9B052AB6FA25D2CA4A4D86139DEC7E4",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "කොහෙද ස්කොලෙ",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0C8857E8924DE963B81",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ooo"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "කොහෙද ස්කොලෙ",
+    "quoted": {
+      "conversation": "ooo"
+    }
+  }
+]

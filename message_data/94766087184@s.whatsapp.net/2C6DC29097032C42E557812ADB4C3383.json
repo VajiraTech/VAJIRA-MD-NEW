@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "2C6DC29097032C42E557812ADB4C3383"
+    },
+    "messageTimestamp": 1725451877,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "අයියා මේ මැඩම් කෙනෙක් ට බොට් කෙනෙක් හදලා ඕන කිවුවා ඒකට හොද bot කවුද",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "EZBGXndee9iXV+iGDeOluweLtnQG0B6DGYVX3Ltcqvc="
+      }
+    },
+    "id": "2C6DC29097032C42E557812ADB4C3383",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "අයියා මේ මැඩම් කෙනෙක් ට බොට් කෙනෙක් හදලා ඕන කිවුවා ඒකට හොද bot කවුද",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "අයියා මේ මැඩම් කෙනෙක් ට බොට් කෙනෙක් හදලා ඕන කිවුවා ඒකට හොද bot කවුද",
+    "quoted": null
+  }
+]

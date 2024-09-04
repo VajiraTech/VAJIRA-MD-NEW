@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "0F4FB008B851F8FE822CD6371D4BDD2F"
+    },
+    "messageTimestamp": 1725451847,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "අවුලක් නෑ මේ බොට් ඇති නේ අයියා",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "qnVRD9at1ydkICGqOM9M3Zf3j9gcCMObrEFd0RIwn7A="
+      }
+    },
+    "id": "0F4FB008B851F8FE822CD6371D4BDD2F",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "අවුලක් නෑ මේ බොට් ඇති නේ අයියා",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "අවුලක් නෑ මේ බොට් ඇති නේ අයියා",
+    "quoted": null
+  }
+]

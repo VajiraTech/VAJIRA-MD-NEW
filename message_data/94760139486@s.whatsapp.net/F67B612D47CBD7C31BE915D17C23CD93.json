@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94760139486@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F67B612D47CBD7C31BE915D17C23CD93"
+    },
+    "messageTimestamp": 1725301343,
+    "pushName": "🙂🤍✨",
+    "broadcast": false,
+    "message": {
+      "conversation": "මන් බ්ලොක් කරගන යන්නම්",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F67B612D47CBD7C31BE915D17C23CD93",
+    "chat": "94760139486@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94760139486@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "මන් බ්ලොක් කරගන යන්නම්",
+    "mentionUser": [],
+    "body": "මන් බ්ලොක් කරගන යන්නම්",
+    "quoted": null
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "5E471B8F1B29F3703C0B5C1DBBD8EFD7"
+    },
+    "messageTimestamp": 1725260120,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "එතකොට මේ බොට් free හදන්න පුළුවන් ද හෙරකු වලින් නැතුව",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB0C2C6EE5FCC87570CCA",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+              "matchedText": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+              "canonicalUrl": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+              "description": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+              "title": "github.com",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1723559752",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "simzrT9nuH5BGw==",
+          "senderTimestamp": "1725164065",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "`PANCHA´",
+    "id": "5E471B8F1B29F3703C0B5C1DBBD8EFD7",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "එතකොට මේ බොට් free හදන්න පුළුවන් ද හෙරකු වලින් නැතුව",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0C2C6EE5FCC87570CCA",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+            "matchedText": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+            "canonicalUrl": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+            "description": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+            "title": "github.com",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1723559752",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "එතකොට මේ බොට් free හදන්න පුළුවන් ද හෙරකු වලින් නැතුව",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+        "matchedText": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+        "canonicalUrl": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+        "description": "https://github.com/VajiraTech/VAJIRA-MD-NEW",
+        "title": "github.com",
+        "previewType": "NONE",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

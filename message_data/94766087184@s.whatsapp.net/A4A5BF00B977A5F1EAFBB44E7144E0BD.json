@@ -1,0 +1,81 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "A4A5BF00B977A5F1EAFBB44E7144E0BD"
+    },
+    "messageTimestamp": 1725451805,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "වෙන එකක් තියෙනවා අයියා හැබැයි ආය vajira md හැදුවොත් කෙල වෙයිද",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB0561C7C3006DA36BA17",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "aluth ekak hadanna"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "rmNdvjJ7+WGnWq0xkcx0bi3oAHES9sg0XLAiknqWSno="
+      }
+    },
+    "id": "A4A5BF00B977A5F1EAFBB44E7144E0BD",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "වෙන එකක් තියෙනවා අයියා හැබැයි ආය vajira md හැදුවොත් කෙල වෙයිද",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0561C7C3006DA36BA17",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "aluth ekak hadanna"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "වෙන එකක් තියෙනවා අයියා හැබැයි ආය vajira md හැදුවොත් කෙල වෙයිද",
+    "quoted": {
+      "conversation": "aluth ekak hadanna"
+    }
+  }
+]
