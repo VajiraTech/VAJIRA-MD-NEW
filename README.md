@@ -75,7 +75,7 @@
 
 ## 🎀 STEP 02 -  Get Session
 
-<a href="https://wee-jelene-vajiratech-ba273ade.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://vajirapair-3ea4809cee5a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 
 <br>
