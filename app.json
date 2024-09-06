@@ -32,9 +32,9 @@
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
         },
     "OWNER_NUMBER": {
-            "description": "Dont change this number will not work bot",
+            "description": "Put your number here",
             "required": true,
-            "value": "94743548986"
+            "value": "9471xxxxxxx"
 }
 
     },
