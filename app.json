@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=zU9hiLST#JcgANM9WebFtyu-wCi_4ARCpML3Ssf8760NlUk0XlRE"
         },
     "COMMAND_TYPE": {
             "description": "Put correct spelling button or nonbutton here to change mode / මෙයට button හෝ nonbutton ලෙස නිවැරදිව නොවරදවා දමන්න",
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
             "description": "Dont change this numner then will comes error",
             "required": true,
-            "value": "94762898541"
+            "value": "255749522657"
 }
 
     },
