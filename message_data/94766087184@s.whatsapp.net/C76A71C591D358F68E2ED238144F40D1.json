@@ -1,0 +1,81 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "C76A71C591D358F68E2ED238144F40D1"
+    },
+    "messageTimestamp": 1725451925,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "😟",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "2C6DC29097032C42E557812ADB4C3383",
+          "participant": "94766087184@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "අයියා මේ මැඩම් කෙනෙක් ට බොට් කෙනෙක් හදලා ඕන කිවුවා ඒකට හොද bot කවුද"
+          },
+          "mentionedJid": [
+            "94766087184@s.whatsapp.net"
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "/EFgzU6zV16BF6tFAkCgAp3pygUJdoHWFOfaCmmGqdA="
+      }
+    },
+    "id": "C76A71C591D358F68E2ED238144F40D1",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "😟",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "2C6DC29097032C42E557812ADB4C3383",
+        "participant": "94766087184@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "අයියා මේ මැඩම් කෙනෙක් ට බොට් කෙනෙක් හදලා ඕන කිවුවා ඒකට හොද bot කවුද"
+        },
+        "mentionedJid": [
+          "94766087184@s.whatsapp.net"
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94766087184@s.whatsapp.net"
+    ],
+    "body": "😟",
+    "quoted": {
+      "conversation": "අයියා මේ මැඩම් කෙනෙක් ට බොට් කෙනෙක් හදලා ඕන කිවුවා ඒකට හොද bot කවුද"
+    }
+  }
+]

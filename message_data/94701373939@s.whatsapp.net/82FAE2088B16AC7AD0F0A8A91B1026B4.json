@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701373939@s.whatsapp.net",
+      "fromMe": false,
+      "id": "82FAE2088B16AC7AD0F0A8A91B1026B4"
+    },
+    "messageTimestamp": 1725286940,
+    "pushName": "Asha Weerasingha",
+    "broadcast": false,
+    "message": {
+      "conversation": "Hari halo thankq",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "82FAE2088B16AC7AD0F0A8A91B1026B4",
+    "chat": "94701373939@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701373939@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Hari halo thankq",
+    "mentionUser": [],
+    "body": "Hari halo thankq",
+    "quoted": null
+  }
+]

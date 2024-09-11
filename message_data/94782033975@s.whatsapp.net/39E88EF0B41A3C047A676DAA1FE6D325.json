@@ -1,0 +1,210 @@
+[
+  {
+    "key": {
+      "remoteJid": "94782033975@s.whatsapp.net",
+      "fromMe": false,
+      "id": "39E88EF0B41A3C047A676DAA1FE6D325"
+    },
+    "messageTimestamp": 1725302831,
+    "pushName": "....",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".downfb https://video-xsp2-1.xx.fbcdn.net/o1/v/t2/f2/m69/An8FYulZRwJPgL0bpVBuDoXyVLHe--l-FGncH1_w9A12NmwyTOQHCTV8VZ5fX3_I2QbnRYv220H_EFbyVxn4A60b.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=video-xsp2-1.xx.fbcdn.net&_nc_cat=109&strext=1&vs=8843c5942403669f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTERMUkJ0QW1QdVU5dE1FQU9pb05UTjVxdDVWYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMWVHaGJONmUyWVBUVUJBRVk4VGkxYV9COTZidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsDny62cuZgEFQIoAkMzGAt2dHNfcHJldmlldxwXQF2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAUxNjAwNxFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzE5MjQxNzk3MDUxOTM1NRJvZW1fdmlkZW9fYXNzZXRfaWQPNTc5MTEwMjgwODkzODM5FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTc5NjU5NTIzNDIyNjg4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTYxNjc2NTQ3NTg1NDY1Mw52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTcwOQJjZAoyMDIzLTA4LTI4A3JjYgUxNjAwMANhcHAURmFjZWJvb2sgZm9yIEFuZHJvaWQCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBzExOC40MjICdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYD78rMsnJjY26TzzjaNACvxFhf7m3TDglOS9FrCEW8xcg&oe=66D7E1B8&_nc_sid=1d576d&_nc_rid=682223188345997&_nc_store_type=1",
+        "selectedDisplayText": "HD Quality",
+        "contextInfo": {
+          "stanzaId": "0256F67D33EB2ECED1B1B00CF3DDE381",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-65b1561d-6158-4261-a93f-8b983b1c46b5?ccb=9-4&oh=01_Q5AaIA238EjGAaUNrO3Jlr_oVDr9whhdwuxvjD6pkM4lzLdr&oe=66FD5F6F&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "qDoyBr/PJMegqF97+r0R3oZ50JVnS8KNTq4PEJiVuIQ=",
+                  "fileLength": "34918",
+                  "height": 960,
+                  "width": 540,
+                  "mediaKey": "fZc+2mEjnFnuWp2v6YiOc8BnPxvOY2KoVq+TUWOVkPg=",
+                  "fileEncSha256": "zuNIZihD5LBK3gyZsTcmBsc28qhOGjI1KAdSbaLxYVE=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-65b1561d-6158-4261-a93f-8b983b1c46b5?ccb=9-4&oh=01_Q5AaIA238EjGAaUNrO3Jlr_oVDr9whhdwuxvjD6pkM4lzLdr&oe=66FD5F6F&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1725302820",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIADkAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP6ACgAoAKACgC99ksTpqTDUgLtid1sYWwoGcfP0OcD/vr60AP+xaeGus6sm2NWMGIHzMcnAxj5c4HU8ZHXnABnUAdzquj2NpdS26TCJo9p3SwwPnOCflVd2cE9u1P3bauzF719FdGXLYrCX86/skVXKqfs0TFhgnOB06d/X8KaSbtcmTklsNjtraTJXU7LYM5JskB4x2P1/TvWvsV3MnWkt4kVxCI2Cw3FtNy2SLSLAxjnjPBz+lY1LQ2dzWEnLdWOrCd8V4p9CmU9Tto5IY2mA8uN97ZGR0I5/OujD6S0MMQuaOo21020S4e6g2HcoQqgwoPU8du1aYqb5FFGeHpJScgu4UKnjFccG0zecItGohg+zySyXMMflnG1mAJ+lVTpuWv/AADGrioU3yt6iSW0d/G9vy6AB28sqRtByTnPPYfjX0FF01TXLG1zxKjnKfM581hY9PGnr5YwEfaeh+8eDk9Ow6elZYivCjS+G6/4F/MdOFSpNO9n5FfT4otXvPISQqPKMnGPmxjgc+/+c15dOjztvY9ipWcEk9Tgv7Sv8EfbbnB6jzW5/WvQWmx5jSYR6lfxKFivblFHQLKwA/WhaaILIedY1M9dRu/+/wC3+NAyS1vL1vNmOqTQmMEg+c252OcADPfHJ6fiQCkktUO992Z1MQUAFABQAUAFABQAUAf/2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Watch on Facebook\",\"url\":\"https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v\",\"merchant_url\":\"https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"SD Quality\",\"id\":\".downfb https://video-xsp1-1.xx.fbcdn.net/v/t42.1790-2/370834637_522559633385707_5721324717986445092_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMzMSwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjE5MjQxNzk3MDUxOTM1NX0%3D&_nc_ohc=3g5A7yOoY5IQ7kNvgFDCnn-&rl=331&vabr=184&_nc_ht=video-xsp1-1.xx&_nc_gid=Aaa5mvEdMsk9RlPdz9jvXFd&oh=00_AYBSlvSg4JXECRRJaFAkpFai6nIDivjEe1HnCVsLfNV9HA&oe=66DBD8C7\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"HD Quality\",\"id\":\".downfb https://video-xsp2-1.xx.fbcdn.net/o1/v/t2/f2/m69/An8FYulZRwJPgL0bpVBuDoXyVLHe--l-FGncH1_w9A12NmwyTOQHCTV8VZ5fX3_I2QbnRYv220H_EFbyVxn4A60b.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=video-xsp2-1.xx.fbcdn.net&_nc_cat=109&strext=1&vs=8843c5942403669f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTERMUkJ0QW1QdVU5dE1FQU9pb05UTjVxdDVWYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMWVHaGJONmUyWVBUVUJBRVk4VGkxYV9COTZidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsDny62cuZgEFQIoAkMzGAt2dHNfcHJldmlldxwXQF2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAUxNjAwNxFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzE5MjQxNzk3MDUxOTM1NRJvZW1fdmlkZW9fYXNzZXRfaWQPNTc5MTEwMjgwODkzODM5FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTc5NjU5NTIzNDIyNjg4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTYxNjc2NTQ3NTg1NDY1Mw52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTcwOQJjZAoyMDIzLTA4LTI4A3JjYgUxNjAwMANhcHAURmFjZWJvb2sgZm9yIEFuZHJvaWQCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBzExOC40MjICdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYD78rMsnJjY26TzzjaNACvxFhf7m3TDglOS9FrCEW8xcg&oe=66D7E1B8&_nc_sid=1d576d&_nc_rid=682223188345997&_nc_store_type=1\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94779407995@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 2
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "Z3YJTDRdDUCv2Q==",
+          "senderTimestamp": "1725282779",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "39E88EF0B41A3C047A676DAA1FE6D325",
+    "chat": "94782033975@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94782033975@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".downfb https://video-xsp2-1.xx.fbcdn.net/o1/v/t2/f2/m69/An8FYulZRwJPgL0bpVBuDoXyVLHe--l-FGncH1_w9A12NmwyTOQHCTV8VZ5fX3_I2QbnRYv220H_EFbyVxn4A60b.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=video-xsp2-1.xx.fbcdn.net&_nc_cat=109&strext=1&vs=8843c5942403669f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTERMUkJ0QW1QdVU5dE1FQU9pb05UTjVxdDVWYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMWVHaGJONmUyWVBUVUJBRVk4VGkxYV9COTZidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsDny62cuZgEFQIoAkMzGAt2dHNfcHJldmlldxwXQF2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAUxNjAwNxFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzE5MjQxNzk3MDUxOTM1NRJvZW1fdmlkZW9fYXNzZXRfaWQPNTc5MTEwMjgwODkzODM5FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTc5NjU5NTIzNDIyNjg4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTYxNjc2NTQ3NTg1NDY1Mw52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTcwOQJjZAoyMDIzLTA4LTI4A3JjYgUxNjAwMANhcHAURmFjZWJvb2sgZm9yIEFuZHJvaWQCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBzExOC40MjICdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYD78rMsnJjY26TzzjaNACvxFhf7m3TDglOS9FrCEW8xcg&oe=66D7E1B8&_nc_sid=1d576d&_nc_rid=682223188345997&_nc_store_type=1",
+      "selectedDisplayText": "HD Quality",
+      "contextInfo": {
+        "stanzaId": "0256F67D33EB2ECED1B1B00CF3DDE381",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-65b1561d-6158-4261-a93f-8b983b1c46b5?ccb=9-4&oh=01_Q5AaIA238EjGAaUNrO3Jlr_oVDr9whhdwuxvjD6pkM4lzLdr&oe=66FD5F6F&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "qDoyBr/PJMegqF97+r0R3oZ50JVnS8KNTq4PEJiVuIQ=",
+                "fileLength": "34918",
+                "height": 960,
+                "width": 540,
+                "mediaKey": "fZc+2mEjnFnuWp2v6YiOc8BnPxvOY2KoVq+TUWOVkPg=",
+                "fileEncSha256": "zuNIZihD5LBK3gyZsTcmBsc28qhOGjI1KAdSbaLxYVE=",
+                "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-65b1561d-6158-4261-a93f-8b983b1c46b5?ccb=9-4&oh=01_Q5AaIA238EjGAaUNrO3Jlr_oVDr9whhdwuxvjD6pkM4lzLdr&oe=66FD5F6F&_nc_sid=000000",
+                "mediaKeyTimestamp": "1725302820",
+                "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIADkAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP6ACgAoAKACgC99ksTpqTDUgLtid1sYWwoGcfP0OcD/vr60AP+xaeGus6sm2NWMGIHzMcnAxj5c4HU8ZHXnABnUAdzquj2NpdS26TCJo9p3SwwPnOCflVd2cE9u1P3bauzF719FdGXLYrCX86/skVXKqfs0TFhgnOB06d/X8KaSbtcmTklsNjtraTJXU7LYM5JskB4x2P1/TvWvsV3MnWkt4kVxCI2Cw3FtNy2SLSLAxjnjPBz+lY1LQ2dzWEnLdWOrCd8V4p9CmU9Tto5IY2mA8uN97ZGR0I5/OujD6S0MMQuaOo21020S4e6g2HcoQqgwoPU8du1aYqb5FFGeHpJScgu4UKnjFccG0zecItGohg+zySyXMMflnG1mAJ+lVTpuWv/AADGrioU3yt6iSW0d/G9vy6AB28sqRtByTnPPYfjX0FF01TXLG1zxKjnKfM581hY9PGnr5YwEfaeh+8eDk9Ow6elZYivCjS+G6/4F/MdOFSpNO9n5FfT4otXvPISQqPKMnGPmxjgc+/+c15dOjztvY9ipWcEk9Tgv7Sv8EfbbnB6jzW5/WvQWmx5jSYR6lfxKFivblFHQLKwA/WhaaILIedY1M9dRu/+/wC3+NAyS1vL1vNmOqTQmMEg+c252OcADPfHJ6fiQCkktUO992Z1MQUAFABQAUAFABQAUAf/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Watch on Facebook\",\"url\":\"https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v\",\"merchant_url\":\"https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"SD Quality\",\"id\":\".downfb https://video-xsp1-1.xx.fbcdn.net/v/t42.1790-2/370834637_522559633385707_5721324717986445092_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMzMSwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjE5MjQxNzk3MDUxOTM1NX0%3D&_nc_ohc=3g5A7yOoY5IQ7kNvgFDCnn-&rl=331&vabr=184&_nc_ht=video-xsp1-1.xx&_nc_gid=Aaa5mvEdMsk9RlPdz9jvXFd&oh=00_AYBSlvSg4JXECRRJaFAkpFai6nIDivjEe1HnCVsLfNV9HA&oe=66DBD8C7\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"HD Quality\",\"id\":\".downfb https://video-xsp2-1.xx.fbcdn.net/o1/v/t2/f2/m69/An8FYulZRwJPgL0bpVBuDoXyVLHe--l-FGncH1_w9A12NmwyTOQHCTV8VZ5fX3_I2QbnRYv220H_EFbyVxn4A60b.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=video-xsp2-1.xx.fbcdn.net&_nc_cat=109&strext=1&vs=8843c5942403669f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTERMUkJ0QW1QdVU5dE1FQU9pb05UTjVxdDVWYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMWVHaGJONmUyWVBUVUJBRVk4VGkxYV9COTZidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsDny62cuZgEFQIoAkMzGAt2dHNfcHJldmlldxwXQF2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAUxNjAwNxFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzE5MjQxNzk3MDUxOTM1NRJvZW1fdmlkZW9fYXNzZXRfaWQPNTc5MTEwMjgwODkzODM5FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTc5NjU5NTIzNDIyNjg4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTYxNjc2NTQ3NTg1NDY1Mw52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTcwOQJjZAoyMDIzLTA4LTI4A3JjYgUxNjAwMANhcHAURmFjZWJvb2sgZm9yIEFuZHJvaWQCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBzExOC40MjICdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYD78rMsnJjY26TzzjaNACvxFhf7m3TDglOS9FrCEW8xcg&oe=66D7E1B8&_nc_sid=1d576d&_nc_rid=682223188345997&_nc_store_type=1\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94779407995@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 2
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": ".downfb https://video-xsp2-1.xx.fbcdn.net/o1/v/t2/f2/m69/An8FYulZRwJPgL0bpVBuDoXyVLHe--l-FGncH1_w9A12NmwyTOQHCTV8VZ5fX3_I2QbnRYv220H_EFbyVxn4A60b.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=video-xsp2-1.xx.fbcdn.net&_nc_cat=109&strext=1&vs=8843c5942403669f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTERMUkJ0QW1QdVU5dE1FQU9pb05UTjVxdDVWYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMWVHaGJONmUyWVBUVUJBRVk4VGkxYV9COTZidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsDny62cuZgEFQIoAkMzGAt2dHNfcHJldmlldxwXQF2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAUxNjAwNxFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzE5MjQxNzk3MDUxOTM1NRJvZW1fdmlkZW9fYXNzZXRfaWQPNTc5MTEwMjgwODkzODM5FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTc5NjU5NTIzNDIyNjg4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTYxNjc2NTQ3NTg1NDY1Mw52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTcwOQJjZAoyMDIzLTA4LTI4A3JjYgUxNjAwMANhcHAURmFjZWJvb2sgZm9yIEFuZHJvaWQCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBzExOC40MjICdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYD78rMsnJjY26TzzjaNACvxFhf7m3TDglOS9FrCEW8xcg&oe=66D7E1B8&_nc_sid=1d576d&_nc_rid=682223188345997&_nc_store_type=1",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-65b1561d-6158-4261-a93f-8b983b1c46b5?ccb=9-4&oh=01_Q5AaIA238EjGAaUNrO3Jlr_oVDr9whhdwuxvjD6pkM4lzLdr&oe=66FD5F6F&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "qDoyBr/PJMegqF97+r0R3oZ50JVnS8KNTq4PEJiVuIQ=",
+            "fileLength": "34918",
+            "height": 960,
+            "width": 540,
+            "mediaKey": "fZc+2mEjnFnuWp2v6YiOc8BnPxvOY2KoVq+TUWOVkPg=",
+            "fileEncSha256": "zuNIZihD5LBK3gyZsTcmBsc28qhOGjI1KAdSbaLxYVE=",
+            "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-65b1561d-6158-4261-a93f-8b983b1c46b5?ccb=9-4&oh=01_Q5AaIA238EjGAaUNrO3Jlr_oVDr9whhdwuxvjD6pkM4lzLdr&oe=66FD5F6F&_nc_sid=000000",
+            "mediaKeyTimestamp": "1725302820",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIADkAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP6ACgAoAKACgC99ksTpqTDUgLtid1sYWwoGcfP0OcD/vr60AP+xaeGus6sm2NWMGIHzMcnAxj5c4HU8ZHXnABnUAdzquj2NpdS26TCJo9p3SwwPnOCflVd2cE9u1P3bauzF719FdGXLYrCX86/skVXKqfs0TFhgnOB06d/X8KaSbtcmTklsNjtraTJXU7LYM5JskB4x2P1/TvWvsV3MnWkt4kVxCI2Cw3FtNy2SLSLAxjnjPBz+lY1LQ2dzWEnLdWOrCd8V4p9CmU9Tto5IY2mA8uN97ZGR0I5/OujD6S0MMQuaOo21020S4e6g2HcoQqgwoPU8du1aYqb5FFGeHpJScgu4UKnjFccG0zecItGohg+zySyXMMflnG1mAJ+lVTpuWv/AADGrioU3yt6iSW0d/G9vy6AB28sqRtByTnPPYfjX0FF01TXLG1zxKjnKfM581hY9PGnr5YwEfaeh+8eDk9Ow6elZYivCjS+G6/4F/MdOFSpNO9n5FfT4otXvPISQqPKMnGPmxjgc+/+c15dOjztvY9ipWcEk9Tgv7Sv8EfbbnB6jzW5/WvQWmx5jSYR6lfxKFivblFHQLKwA/WhaaILIedY1M9dRu/+/wC3+NAyS1vL1vNmOqTQmMEg+c252OcADPfHJ6fiQCkktUO992Z1MQUAFABQAUAFABQAUAf/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Watch on Facebook\",\"url\":\"https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v\",\"merchant_url\":\"https://www.facebook.com/reel/192417970519355?mibextid=rS40aB7S9Ucbxw6v\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"SD Quality\",\"id\":\".downfb https://video-xsp1-1.xx.fbcdn.net/v/t42.1790-2/370834637_522559633385707_5721324717986445092_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMzMSwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjE5MjQxNzk3MDUxOTM1NX0%3D&_nc_ohc=3g5A7yOoY5IQ7kNvgFDCnn-&rl=331&vabr=184&_nc_ht=video-xsp1-1.xx&_nc_gid=Aaa5mvEdMsk9RlPdz9jvXFd&oh=00_AYBSlvSg4JXECRRJaFAkpFai6nIDivjEe1HnCVsLfNV9HA&oe=66DBD8C7\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"HD Quality\",\"id\":\".downfb https://video-xsp2-1.xx.fbcdn.net/o1/v/t2/f2/m69/An8FYulZRwJPgL0bpVBuDoXyVLHe--l-FGncH1_w9A12NmwyTOQHCTV8VZ5fX3_I2QbnRYv220H_EFbyVxn4A60b.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=video-xsp2-1.xx.fbcdn.net&_nc_cat=109&strext=1&vs=8843c5942403669f&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTERMUkJ0QW1QdVU5dE1FQU9pb05UTjVxdDVWYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBMWVHaGJONmUyWVBUVUJBRVk4VGkxYV9COTZidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsDny62cuZgEFQIoAkMzGAt2dHNfcHJldmlldxwXQF2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAUxNjAwNxFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzE5MjQxNzk3MDUxOTM1NRJvZW1fdmlkZW9fYXNzZXRfaWQPNTc5MTEwMjgwODkzODM5FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTc5NjU5NTIzNDIyNjg4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTYxNjc2NTQ3NTg1NDY1Mw52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMENTcwOQJjZAoyMDIzLTA4LTI4A3JjYgUxNjAwMANhcHAURmFjZWJvb2sgZm9yIEFuZHJvaWQCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zBzExOC40MjICdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYD78rMsnJjY26TzzjaNACvxFhf7m3TDglOS9FrCEW8xcg&oe=66D7E1B8&_nc_sid=1d576d&_nc_rid=682223188345997&_nc_store_type=1\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

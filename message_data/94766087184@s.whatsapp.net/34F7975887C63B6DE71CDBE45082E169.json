@@ -1,0 +1,65 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "34F7975887C63B6DE71CDBE45082E169"
+    },
+    "messageTimestamp": 1725367949,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "බොට් වැඩ නැද්ද අයියා",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1723559752",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "UNKNOWN"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "/SZxNCED/55AUZb7m+p2VqcZ18Ixf6Srn2MqngJzTyM="
+      }
+    },
+    "id": "34F7975887C63B6DE71CDBE45082E169",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "බොට් වැඩ නැද්ද අයියා",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1723559752",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "UNKNOWN"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "බොට් වැඩ නැද්ද අයියා",
+    "quoted": null
+  }
+]

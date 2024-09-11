@@ -1,0 +1,101 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "471D0A6B55F637E50630D4CEB49C065B"
+    },
+    "messageTimestamp": 1725451687,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/31807674_455268840865433_1080008168250043381_n.enc?ccb=11-4&oh=01_Q5AaIEv13aoAN0DDu_Q2qT6H9IGXjn8SzPtTb5EnMVP-uOXU&oe=66FFBFAC&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "😭",
+        "fileSha256": "GXp+UjM4+RjtgZkOpqr14KlIQiGXoyzHnbkMNuJ02zA=",
+        "fileLength": "18228",
+        "height": 1280,
+        "width": 576,
+        "mediaKey": "4fwn2Q8l8tNboiIgUF7iHr44Pq728cJ+ioSHxQpdDuY=",
+        "fileEncSha256": "pqJ7cfnhxTHBiXSsQZHz+KRu7wtgKyiKrY+aa6ur8Ss=",
+        "directPath": "/v/t62.7118-24/31807674_455268840865433_1080008168250043381_n.enc?ccb=11-4&oh=01_Q5AaIEv13aoAN0DDu_Q2qT6H9IGXjn8SzPtTb5EnMVP-uOXU&oe=66FFBFAC&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1725451685",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIAMBIgACEQEDEQH/xAArAAEBAAMBAAAAAAAAAAAAAAAAAgEDBAYBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPOttnO6IMJFJAAAAGoAH//EAB0QAAICAgMBAAAAAAAAAAAAAAABAhEQEjFBYUD/2gAIAQEAAT8AqQoM1kuCpU8RS7ZJLrFm3ht4bfPZZ//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8AL//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8AL//Z",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1725451015",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_OTHER",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "scansSidecar": "2Lt+n64zIw2h/I+oJuomgZY93ityDxJfsMDyZ5S9h7xstknkH630dg==",
+        "scanLengths": [
+          2975,
+          8897,
+          3027,
+          3329
+        ],
+        "midQualityFileSha256": "HcBAngX4ZbWgqEfyCwlexSG51yuqNjewhAPlFV6ZnRU="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "iZnKriuJGd08zw==",
+          "senderTimestamp": "1725274061",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "IsUeoEKPBWVceD2vUMAA9KwZ77HEiJ7UZPNmOe7TZYA="
+      }
+    },
+    "id": "471D0A6B55F637E50630D4CEB49C065B",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/31807674_455268840865433_1080008168250043381_n.enc?ccb=11-4&oh=01_Q5AaIEv13aoAN0DDu_Q2qT6H9IGXjn8SzPtTb5EnMVP-uOXU&oe=66FFBFAC&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "😭",
+      "fileSha256": "GXp+UjM4+RjtgZkOpqr14KlIQiGXoyzHnbkMNuJ02zA=",
+      "fileLength": "18228",
+      "height": 1280,
+      "width": 576,
+      "mediaKey": "4fwn2Q8l8tNboiIgUF7iHr44Pq728cJ+ioSHxQpdDuY=",
+      "fileEncSha256": "pqJ7cfnhxTHBiXSsQZHz+KRu7wtgKyiKrY+aa6ur8Ss=",
+      "directPath": "/v/t62.7118-24/31807674_455268840865433_1080008168250043381_n.enc?ccb=11-4&oh=01_Q5AaIEv13aoAN0DDu_Q2qT6H9IGXjn8SzPtTb5EnMVP-uOXU&oe=66FFBFAC&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1725451685",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIAMBIgACEQEDEQH/xAArAAEBAAMBAAAAAAAAAAAAAAAAAgEDBAYBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPOttnO6IMJFJAAAAGoAH//EAB0QAAICAgMBAAAAAAAAAAAAAAABAhEQEjFBYUD/2gAIAQEAAT8AqQoM1kuCpU8RS7ZJLrFm3ht4bfPZZ//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8AL//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8AL//Z",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1725451015",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_OTHER",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "scansSidecar": "2Lt+n64zIw2h/I+oJuomgZY93ityDxJfsMDyZ5S9h7xstknkH630dg==",
+      "scanLengths": [
+        2975,
+        8897,
+        3027,
+        3329
+      ],
+      "midQualityFileSha256": "HcBAngX4ZbWgqEfyCwlexSG51yuqNjewhAPlFV6ZnRU="
+    },
+    "mentionUser": [],
+    "body": "😭",
+    "quoted": null
+  }
+]

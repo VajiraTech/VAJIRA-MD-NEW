@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "0C819145EFE5F4713782D42DA446C862"
+    },
+    "messageTimestamp": 1725296491,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Apit heta geography",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "0C819145EFE5F4713782D42DA446C862",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Apit heta geography",
+    "mentionUser": [],
+    "body": "Apit heta geography",
+    "quoted": null
+  }
+]

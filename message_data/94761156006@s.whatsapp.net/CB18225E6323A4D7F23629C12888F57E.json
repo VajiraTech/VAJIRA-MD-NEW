@@ -1,0 +1,96 @@
+[
+  {
+    "key": {
+      "remoteJid": "94761156006@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CB18225E6323A4D7F23629C12888F57E"
+    },
+    "messageTimestamp": 1725295691,
+    "pushName": "Chani",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ඒ මොකො",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "19A882192DFD56523AC0BF13512B6C2C",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "⚠️︱Call rejected automaticaly Because owner is busy right now\nහිමිකරු දැන් කාර්ය බහුල බැවින් ඇමතුම ස්වයංක්‍රීයව ප්‍රතික්ෂේප විය",
+              "previewType": "NONE",
+              "contextInfo": {
+                "mentionedJid": [
+                  "94761156006@s.whatsapp.net",
+                  ""
+                ]
+              },
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "NSBBA+z+E5mNlg==",
+          "senderTimestamp": "1725087047",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "CB18225E6323A4D7F23629C12888F57E",
+    "chat": "94761156006@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94761156006@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ඒ මොකො",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "19A882192DFD56523AC0BF13512B6C2C",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "⚠️︱Call rejected automaticaly Because owner is busy right now\nහිමිකරු දැන් කාර්ය බහුල බැවින් ඇමතුම ස්වයංක්‍රීයව ප්‍රතික්ෂේප විය",
+            "previewType": "NONE",
+            "contextInfo": {
+              "mentionedJid": [
+                "94761156006@s.whatsapp.net",
+                ""
+              ]
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "ඒ මොකො",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "⚠️︱Call rejected automaticaly Because owner is busy right now\nහිමිකරු දැන් කාර්ය බහුල බැවින් ඇමතුම ස්වයංක්‍රීයව ප්‍රතික්ෂේප විය",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            "94761156006@s.whatsapp.net",
+            ""
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

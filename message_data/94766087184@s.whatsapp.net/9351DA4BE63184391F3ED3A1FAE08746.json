@@ -1,0 +1,105 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "9351DA4BE63184391F3ED3A1FAE08746"
+    },
+    "messageTimestamp": 1725260052,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "තෑන්ස් බන් 🫂",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB066875DEEB6FC56055A",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "https://github.com/VAJIRA-MD-NEW",
+              "matchedText": "https://github.com/VAJIRA-MD-NEW",
+              "canonicalUrl": "https://github.com/VAJIRA-MD-NEW",
+              "description": "https://github.com/VAJIRA-MD-NEW",
+              "title": "github.com",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ],
+          "expiration": 604800,
+          "ephemeralSettingTimestamp": "1723559752",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "simzrT9nuH5BGw==",
+          "senderTimestamp": "1725164065",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "`PANCHA´",
+    "id": "9351DA4BE63184391F3ED3A1FAE08746",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "තෑන්ස් බන් 🫂",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB066875DEEB6FC56055A",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "https://github.com/VAJIRA-MD-NEW",
+            "matchedText": "https://github.com/VAJIRA-MD-NEW",
+            "canonicalUrl": "https://github.com/VAJIRA-MD-NEW",
+            "description": "https://github.com/VAJIRA-MD-NEW",
+            "title": "github.com",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ],
+        "expiration": 604800,
+        "ephemeralSettingTimestamp": "1723559752",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "තෑන්ස් බන් 🫂",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "https://github.com/VAJIRA-MD-NEW",
+        "matchedText": "https://github.com/VAJIRA-MD-NEW",
+        "canonicalUrl": "https://github.com/VAJIRA-MD-NEW",
+        "description": "https://github.com/VAJIRA-MD-NEW",
+        "title": "github.com",
+        "previewType": "NONE",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

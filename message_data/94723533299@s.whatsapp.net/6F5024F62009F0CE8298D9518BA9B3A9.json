@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6F5024F62009F0CE8298D9518BA9B3A9"
+    },
+    "messageTimestamp": 1725296972,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "පුත්තලමේ ආවා හලො 2 වසරෙදි",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "6F5024F62009F0CE8298D9518BA9B3A9",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "පුත්තලමේ ආවා හලො 2 වසරෙදි",
+    "mentionUser": [],
+    "body": "පුත්තලමේ ආවා හලො 2 වසරෙදි",
+    "quoted": null
+  }
+]

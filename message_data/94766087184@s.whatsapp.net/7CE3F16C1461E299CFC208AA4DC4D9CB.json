@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94766087184@s.whatsapp.net",
+      "fromMe": false,
+      "id": "7CE3F16C1461E299CFC208AA4DC4D9CB"
+    },
+    "messageTimestamp": 1725260177,
+    "pushName": "`PANCHA´",
+    "broadcast": false,
+    "message": {
+      "protocolMessage": {
+        "key": {
+          "remoteJid": "94779407995@s.whatsapp.net",
+          "fromMe": true
+        },
+        "type": "EPHEMERAL_SYNC_RESPONSE",
+        "ephemeralExpiration": 604800,
+        "ephemeralSettingTimestamp": "1723559752",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "simzrT9nuH5BGw==",
+          "senderTimestamp": "1725164065",
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "`PANCHA´",
+    "id": "7CE3F16C1461E299CFC208AA4DC4D9CB",
+    "chat": "94766087184@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94766087184@s.whatsapp.net",
+    "type": "protocolMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "94779407995@s.whatsapp.net",
+        "fromMe": true
+      },
+      "type": "EPHEMERAL_SYNC_RESPONSE",
+      "ephemeralExpiration": 604800,
+      "ephemeralSettingTimestamp": "1723559752",
+      "disappearingMode": {
+        "initiator": "INITIATED_BY_ME",
+        "trigger": "ACCOUNT_SETTING",
+        "initiatedByMe": true
+      }
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

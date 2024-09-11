@@ -1,0 +1,88 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "DBDA14FD205271EBFF14CF0F4A2A0D56"
+    },
+    "messageTimestamp": 1725296562,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/11841891_1938418639954452_8883100533941505347_n.enc?ccb=11-4&oh=01_Q5AaIG5EvswC9jvLgY0CdLV8lrC3rv0v1D6WYdQWfWooKmfc&oe=66FD465E&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "J/oDacETu4tTz+rMg5s3ilh5rw8gJTMMg9tKCun4WYo=",
+        "fileEncSha256": "uvWwul8m5yF+DLZKImgIQQ47O2+pluXs7BtWUINJWHY=",
+        "mediaKey": "EWu8T9GZyxWcaG6Jnk4G2X4YtdQ1btqKU2rXxaJY9ko=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/11841891_1938418639954452_8883100533941505347_n.enc?ccb=11-4&oh=01_Q5AaIG5EvswC9jvLgY0CdLV8lrC3rv0v1D6WYdQWfWooKmfc&oe=66FD465E&_nc_sid=5e03e0",
+        "fileLength": "10234",
+        "mediaKeyTimestamp": "1725296560",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "3EB0667DA3445C52404BA0",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Anamaduwa National collage"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1725296560944",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "DBDA14FD205271EBFF14CF0F4A2A0D56",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/11841891_1938418639954452_8883100533941505347_n.enc?ccb=11-4&oh=01_Q5AaIG5EvswC9jvLgY0CdLV8lrC3rv0v1D6WYdQWfWooKmfc&oe=66FD465E&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "J/oDacETu4tTz+rMg5s3ilh5rw8gJTMMg9tKCun4WYo=",
+      "fileEncSha256": "uvWwul8m5yF+DLZKImgIQQ47O2+pluXs7BtWUINJWHY=",
+      "mediaKey": "EWu8T9GZyxWcaG6Jnk4G2X4YtdQ1btqKU2rXxaJY9ko=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/11841891_1938418639954452_8883100533941505347_n.enc?ccb=11-4&oh=01_Q5AaIG5EvswC9jvLgY0CdLV8lrC3rv0v1D6WYdQWfWooKmfc&oe=66FD465E&_nc_sid=5e03e0",
+      "fileLength": "10234",
+      "mediaKeyTimestamp": "1725296560",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "3EB0667DA3445C52404BA0",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Anamaduwa National collage"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1725296560944",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "Anamaduwa National collage"
+    }
+  }
+]

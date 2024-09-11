@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "ABE9904EF8384EB730E890146A6094D6"
+    },
+    "messageTimestamp": 1725296529,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "සංතෝසයි",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB01E1E341693088BBD34",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "math wayabe thama"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "ABE9904EF8384EB730E890146A6094D6",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "සංතෝසයි",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB01E1E341693088BBD34",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "math wayabe thama"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "සංතෝසයි",
+    "quoted": {
+      "conversation": "math wayabe thama"
+    }
+  }
+]

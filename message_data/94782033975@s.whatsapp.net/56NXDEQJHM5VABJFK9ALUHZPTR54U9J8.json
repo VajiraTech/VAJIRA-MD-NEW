@@ -1,0 +1,53 @@
+[
+  {
+    "key": {
+      "remoteJid": "94782033975@s.whatsapp.net",
+      "fromMe": false,
+      "id": "56NXDEQJHM5VABJFK9ALUHZPTR54U9J8"
+    },
+    "messageTimestamp": 1725343583,
+    "pushName": "....",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "❌ *දෝෂයක් ඇති විය!! කරුණාකර පසුව නැවත උත්සාහ කරන්න...*",
+        "contextInfo": {
+          "stanzaId": "73FE2568453B33161A925954B11A2A3C",
+          "participant": "94782033975@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".fb https://www.facebook.com/eel/1528937454413925?mibextid=rS40aB7S9Ucbxw6v"
+          },
+          "mentionedJid": [
+            "94782033975@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "56NXDEQJHM5VABJFK9ALUHZPTR54U9J8",
+    "chat": "94782033975@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94782033975@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "❌ *දෝෂයක් ඇති විය!! කරුණාකර පසුව නැවත උත්සාහ කරන්න...*",
+      "contextInfo": {
+        "stanzaId": "73FE2568453B33161A925954B11A2A3C",
+        "participant": "94782033975@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": ".fb https://www.facebook.com/eel/1528937454413925?mibextid=rS40aB7S9Ucbxw6v"
+        },
+        "mentionedJid": [
+          "94782033975@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94782033975@s.whatsapp.net"
+    ],
+    "body": "❌ *දෝෂයක් ඇති විය!! කරුණාකර පසුව නැවත උත්සාහ කරන්න...*",
+    "quoted": {
+      "conversation": ".fb https://www.facebook.com/eel/1528937454413925?mibextid=rS40aB7S9Ucbxw6v"
+    }
+  }
+]

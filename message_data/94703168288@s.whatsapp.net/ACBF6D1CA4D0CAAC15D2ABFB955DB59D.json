@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703168288@s.whatsapp.net",
+      "fromMe": false,
+      "id": "ACBF6D1CA4D0CAAC15D2ABFB955DB59D"
+    },
+    "messageTimestamp": 1725450455,
+    "pushName": "Malani Weerasinghe.",
+    "broadcast": false,
+    "message": {
+      "conversation": ".wallpaper Flower",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "u3T+8DnFRv3g75QaufeN+Fyql3GB1cmNOiczpdrAw3A="
+      }
+    },
+    "id": "ACBF6D1CA4D0CAAC15D2ABFB955DB59D",
+    "chat": "94703168288@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703168288@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".wallpaper Flower",
+    "mentionUser": [],
+    "body": ".wallpaper Flower",
+    "quoted": null
+  }
+]

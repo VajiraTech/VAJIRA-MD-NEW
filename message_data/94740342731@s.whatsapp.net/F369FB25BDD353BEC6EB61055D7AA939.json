@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94740342731@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F369FB25BDD353BEC6EB61055D7AA939"
+    },
+    "messageTimestamp": 1725241495,
+    "pushName": "Ss",
+    "broadcast": false,
+    "message": {
+      "conversation": "🌷",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F369FB25BDD353BEC6EB61055D7AA939",
+    "chat": "94740342731@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94740342731@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "🌷",
+    "mentionUser": [],
+    "body": "🌷",
+    "quoted": null
+  }
+]

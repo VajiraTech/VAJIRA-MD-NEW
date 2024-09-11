@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "695033F7AF3C0AD5D11045D596CE9D4C"
+    },
+    "messageTimestamp": 1725296685,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Aa hri hri",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3EB000159E86F1702FDA47",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "meka lap eke"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "695033F7AF3C0AD5D11045D596CE9D4C",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Aa hri hri",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB000159E86F1702FDA47",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "meka lap eke"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "Aa hri hri",
+    "quoted": {
+      "conversation": "meka lap eke"
+    }
+  }
+]

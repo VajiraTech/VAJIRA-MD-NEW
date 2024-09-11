@@ -1,0 +1,88 @@
+[
+  {
+    "key": {
+      "remoteJid": "94723533299@s.whatsapp.net",
+      "fromMe": false,
+      "id": "43A873FC7B0DF084D3ADF81A418B403A"
+    },
+    "messageTimestamp": 1725296953,
+    "pushName": "ADHI___❤️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/19395958_1703352573402655_5251890776365187116_n.enc?ccb=11-4&oh=01_Q5AaIDpC0mnAC983RnEKYBmbEUXxzjoVa5_HwPsl_yz_V2XZ&oe=66FD73DC&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "LZ7Aekbqc0L+lVIgtYfXpvuIwNXzwYrpTKc92qo6hpE=",
+        "fileEncSha256": "qb0pRUGb2ACBg4o7Uq1AnNR0Extxu+uIhxw9cEMNs4o=",
+        "mediaKey": "k3F6OmrlaTiXKQauthT0Pue4iNbgJx5sJ7byhTvhaJ0=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/19395958_1703352573402655_5251890776365187116_n.enc?ccb=11-4&oh=01_Q5AaIDpC0mnAC983RnEKYBmbEUXxzjoVa5_HwPsl_yz_V2XZ&oe=66FD73DC&_nc_sid=5e03e0",
+        "fileLength": "5362",
+        "mediaKeyTimestamp": "1709475673604",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "3EB069BCF3C7D260056CB3",
+          "participant": "94779407995@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "kohomath anura dinanakam padam karanna ba kelle"
+          },
+          "mentionedJid": [
+            "94779407995@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1725296952222",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "shSpoOT7wyCv8Q==",
+          "recipientTimestamp": "1725172141"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "43A873FC7B0DF084D3ADF81A418B403A",
+    "chat": "94723533299@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94723533299@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19395958_1703352573402655_5251890776365187116_n.enc?ccb=11-4&oh=01_Q5AaIDpC0mnAC983RnEKYBmbEUXxzjoVa5_HwPsl_yz_V2XZ&oe=66FD73DC&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "LZ7Aekbqc0L+lVIgtYfXpvuIwNXzwYrpTKc92qo6hpE=",
+      "fileEncSha256": "qb0pRUGb2ACBg4o7Uq1AnNR0Extxu+uIhxw9cEMNs4o=",
+      "mediaKey": "k3F6OmrlaTiXKQauthT0Pue4iNbgJx5sJ7byhTvhaJ0=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/19395958_1703352573402655_5251890776365187116_n.enc?ccb=11-4&oh=01_Q5AaIDpC0mnAC983RnEKYBmbEUXxzjoVa5_HwPsl_yz_V2XZ&oe=66FD73DC&_nc_sid=5e03e0",
+      "fileLength": "5362",
+      "mediaKeyTimestamp": "1709475673604",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "3EB069BCF3C7D260056CB3",
+        "participant": "94779407995@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "kohomath anura dinanakam padam karanna ba kelle"
+        },
+        "mentionedJid": [
+          "94779407995@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1725296952222",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94779407995@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "kohomath anura dinanakam padam karanna ba kelle"
+    }
+  }
+]
