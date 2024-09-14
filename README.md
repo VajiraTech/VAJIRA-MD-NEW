@@ -1,7 +1,7 @@
 
 <h1 align="center">VAJIRA-MD 6.O</h1>
 
-## Have anyone more tha 3 year old whatsapp number message to me now https://wa.me/94711453361
+## Have anyone more tha 3 year old whatsapp number message to me now  https://wa.me/94711453361
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
