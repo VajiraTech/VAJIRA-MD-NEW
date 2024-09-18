@@ -75,7 +75,7 @@
     "tech-news-scraper":"latest",
     "translate-google-api":"^1.0.4",
     "util":"^0.12.4","vm":"^0.1.0",
-    "wa-sticker-formatter":"^1.6.0",
+    "wa-sticker-formatter": "^4.3.2",
     "youtubedl-core":"^4.11.7",
     "body-parser": "^1.20.1",
     "awesome-phonenumber": "^2.64.0",
