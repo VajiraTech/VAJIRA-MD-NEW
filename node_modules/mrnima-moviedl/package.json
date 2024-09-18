@@ -1,0 +1,38 @@
+{
+  "name": "mrnima-moviedl",
+  "version": "1.0.0",
+  "description": "This is Unofficial Web scraper of sinhalasub.lk web site.",
+  "main": "index.js",
+  "keywords": [
+    "moviedl",
+    "movie",
+    "api",
+    "downloader",
+    "scraper",
+    "mrnima",
+    "sinhalasub"
+  ],
+  "scripts": {
+    "test": "echo Running Example Search && node example/example-enc.js search kgf"
+  },
+  "author": "MRNIMA (https://github.com/darkmakerofc)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkmakerofc/movie-dl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darkmakerofc/movie-dl/issues"
+  },
+  "homepage": "https://github.com/darkmakerofc/movie-dl#readme"
+}
