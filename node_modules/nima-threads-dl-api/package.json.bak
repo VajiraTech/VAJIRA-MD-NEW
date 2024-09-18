@@ -1,0 +1,32 @@
+{
+  "name": "nima-threads-dl-api",
+  "version": "0.0.3",
+  "description": "A Simple threads Video & image Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tes.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkMakerofc/Threads-Downloader.git"
+  },
+  "keywords": [
+    "nima",
+    "threads",
+    "video",
+    "image",
+    "download",
+    "api"
+  ],
+  "author": "mr nima <mnimaofc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "got": "^11.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMakerofc/Threads-Downloader/issues"
+  },
+  "homepage": "https://github.com/DarkMakerofc/Threads-Downloader#readme"
+}
