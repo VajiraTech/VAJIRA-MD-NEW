@@ -14,19 +14,7 @@ PREFIX: process.env.PREFIX || '.' ,
 FOOTER: process.env.FOOTER=== undefined ? '‌👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻': process.env.FOOTER,
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech' : process.env.POSTGRESQL_URL,
 MAX_SIZE: 500, 
-ALIVE:  process.env.ALIVE  || '🔥```Hello I am Alive Now !```🔥
-
-💫wₕₐₜ Dₒ yₒᵤ wₐₙₜ 🌈
-
-━━━━━━━━━━━━㋡
-| 🍁 ```vajira-MD``` 
-|🍃   ```2.1.2``` 
-|🪸 ```ꜱᴀɴᴋᴀʟᴘᴀ ᴍᴅ``` 
-────────────㋡
-
-*Thanks for using Me*🌸
-
-*© S A N K A L P A - ＭＤ  |  ２０２４*'  ,    
+ALIVE:  process.env.ALIVE  || '🔥```Hello I am Alive Now !``'  ,    
 OWNER_REACT:  process.env.OWNER_REACT  || true  ,
 ADMIN_EVENT:  process.env.ADMIN_EVENT  || true  ,   
 AUTO_BLOCK:  process.env.AUTO_BLOCK  || false  ,        
