@@ -1,0 +1,35 @@
+{
+  "name": "bare-stream",
+  "version": "2.3.0",
+  "description": "Streaming data for JavaScript",
+  "exports": {
+    ".": "./index.js",
+    "./package": "./package.json",
+    "./promises": "./promises.js"
+  },
+  "files": [
+    "index.js",
+    "promises.js"
+  ],
+  "scripts": {
+    "test": "standard && bare test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holepunchto/bare-stream.git"
+  },
+  "author": "Holepunch",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/bare-stream/issues"
+  },
+  "homepage": "https://github.com/holepunchto/bare-stream#readme",
+  "dependencies": {
+    "b4a": "^1.6.6",
+    "streamx": "^2.20.0"
+  },
+  "devDependencies": {
+    "brittle": "^3.5.2",
+    "standard": "^17.0.0"
+  }
+}
