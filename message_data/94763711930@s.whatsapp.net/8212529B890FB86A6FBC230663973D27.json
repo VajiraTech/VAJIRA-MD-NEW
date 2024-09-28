@@ -1,0 +1,34 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "8212529B890FB86A6FBC230663973D27"
+    },
+    "messageTimestamp": 1727484489,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "conversation": "🙂💔",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "8212529B890FB86A6FBC230663973D27",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "🙂💔",
+    "mentionUser": [],
+    "body": "🙂💔",
+    "quoted": null
+  }
+]

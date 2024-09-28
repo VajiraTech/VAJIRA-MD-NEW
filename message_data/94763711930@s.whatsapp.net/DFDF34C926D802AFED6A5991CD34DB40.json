@@ -1,0 +1,221 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "DFDF34C926D802AFED6A5991CD34DB40"
+    },
+    "messageTimestamp": 1727449307,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "interactiveResponseMessage": {
+        "body": {
+          "text": "240P VIDEO",
+          "format": "DEFAULT"
+        },
+        "nativeFlowResponseMessage": {
+          "name": "menu_options",
+          "paramsJson": "{\"id\":\".24phttps:\\/\\/youtube.com\\/watch?v=uyz1tFtrfu0\",\"description\":\"Download 240 quality video\"}"
+        },
+        "contextInfo": {
+          "stanzaId": "92954AC61CC939E5AFE87BE2B03FDE63",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-a0c8bf53-0590-4c61-9c8c-6c418a49bcfe?ccb=9-4&oh=01_Q5AaIBQb8UraKHvvk3WIuLG2pc5Amlx1OZ6fD-gq-voHFpV-&oe=671E2275&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "NQioGcYsSgq3NJ24/2mBbzZorlr52wt8a8hD5YIMAdY=",
+                  "fileLength": "74537",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "j5HvL3tGgZ0Q15vXu7RMBDQHQFoAKBvEN7V/EWFgkF4=",
+                  "fileEncSha256": "d5QmnJJOlCuIE/rsc+jU5m97OXQHtfADq0CTzG7uQIQ=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-a0c8bf53-0590-4c61-9c8c-6c418a49bcfe?ccb=9-4&oh=01_Q5AaIBQb8UraKHvvk3WIuLG2pc5Amlx1OZ6fD-gq-voHFpV-&oe=671E2275&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727449266",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUGA//EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUSIRMxQQYyUXEiYdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgX/xAAdEQACAgEFAAAAAAAAAAAAAAAAAQIDIQQREiJB/9oADAMBAAIRAxEAPwDN5wea7SMHgiCwbcZG8Z/M1S0lrazXrSXVsXlT2OrHZz5wP12qjHq8Yld2uLExqxCDpupJwOQOcdzReKZuysaeES/T+mHUbo5ClUx7u2T8/wAq8li0obE8fUG7Cc5O3v8AVSdGmgsb9UE6TrvWQFARkg8jnzirUd1arBMuJlllLFnUDt4X6+aHYouXYixz3wYilKUoSMkcg4IrSQEmFCTklRyaUoup8Ikf/9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗩𝗜𝗗𝗘𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n    \n> *`➤ Title` :* News 1st: Lunch Time Sinhala News |(27-09-2024 ) දහවල් ප්‍රධාන ප්‍රවෘත්ති\n    \n> *`➤ Views` :* 103149\n    \n> *`➤ Duration` :* 1520 seconds (25:20)\n    \n> *`➤ URL` :* https://youtube.com/watch?v=uyz1tFtrfu0\n    "
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow US\",\"url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\",\"merchant_url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\"}"
+                  },
+                  {
+                    "name": "single_select",
+                    "buttonParamsJson": "{\"title\":\"Normal type videos\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"VAJIRA-MD\",\"rows\":[{\"header\":\"Normal types videos\",\"title\":\"240P VIDEO\",\"description\":\"Download 240 quality video\",\"id\":\".240p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"360P VIDEO\",\"description\":\"Download 360 quality video\",\"id\":\".360p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"480P VIDEO\",\"description\":\"Download 480 quality video\",\"id\":\".480p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"720P VIDEO\",\"description\":\"Download 720 quality video\",\"id\":\".720p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"1080P VIDEO\",\"description\":\"Download 1080 quality video\",\"id\":\".1080p https://youtube.com/watch?v=uyz1tFtrfu0\"}]}]}"
+                  },
+                  {
+                    "name": "single_select",
+                    "buttonParamsJson": "{\"title\":\"Document type videos\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"VAJIRA-MD\",\"rows\":[{\"header\":\"Document type videos\",\"title\":\"240P VIDEO\",\"description\":\"Download 240 quality video\",\"id\":\".24phttps://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"360P VIDEO\",\"description\":\"Download 360 quality video\",\"id\":\".36p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"480P VIDEO\",\"description\":\"Download 480 quality video\",\"id\":\".48p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"720P VIDEO\",\"description\":\"Download 720 quality video\",\"id\":\".72p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"1080P VIDEO\",\"description\":\"Download 1080 quality video\",\"id\":\".108p https://youtube.com/watch?v=uyz1tFtrfu0\"}]}]}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "DFDF34C926D802AFED6A5991CD34DB40",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "interactiveResponseMessage",
+    "msg": {
+      "body": {
+        "text": "240P VIDEO",
+        "format": "DEFAULT"
+      },
+      "nativeFlowResponseMessage": {
+        "name": "menu_options",
+        "paramsJson": "{\"id\":\".24phttps:\\/\\/youtube.com\\/watch?v=uyz1tFtrfu0\",\"description\":\"Download 240 quality video\"}"
+      },
+      "contextInfo": {
+        "stanzaId": "92954AC61CC939E5AFE87BE2B03FDE63",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-a0c8bf53-0590-4c61-9c8c-6c418a49bcfe?ccb=9-4&oh=01_Q5AaIBQb8UraKHvvk3WIuLG2pc5Amlx1OZ6fD-gq-voHFpV-&oe=671E2275&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "NQioGcYsSgq3NJ24/2mBbzZorlr52wt8a8hD5YIMAdY=",
+                "fileLength": "74537",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "j5HvL3tGgZ0Q15vXu7RMBDQHQFoAKBvEN7V/EWFgkF4=",
+                "fileEncSha256": "d5QmnJJOlCuIE/rsc+jU5m97OXQHtfADq0CTzG7uQIQ=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-a0c8bf53-0590-4c61-9c8c-6c418a49bcfe?ccb=9-4&oh=01_Q5AaIBQb8UraKHvvk3WIuLG2pc5Amlx1OZ6fD-gq-voHFpV-&oe=671E2275&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727449266",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUGA//EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUSIRMxQQYyUXEiYdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgX/xAAdEQACAgEFAAAAAAAAAAAAAAAAAQIDIQQREiJB/9oADAMBAAIRAxEAPwDN5wea7SMHgiCwbcZG8Z/M1S0lrazXrSXVsXlT2OrHZz5wP12qjHq8Yld2uLExqxCDpupJwOQOcdzReKZuysaeES/T+mHUbo5ClUx7u2T8/wAq8li0obE8fUG7Cc5O3v8AVSdGmgsb9UE6TrvWQFARkg8jnzirUd1arBMuJlllLFnUDt4X6+aHYouXYixz3wYilKUoSMkcg4IrSQEmFCTklRyaUoup8Ikf/9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗩𝗜𝗗𝗘𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n    \n> *`➤ Title` :* News 1st: Lunch Time Sinhala News |(27-09-2024 ) දහවල් ප්‍රධාන ප්‍රවෘත්ති\n    \n> *`➤ Views` :* 103149\n    \n> *`➤ Duration` :* 1520 seconds (25:20)\n    \n> *`➤ URL` :* https://youtube.com/watch?v=uyz1tFtrfu0\n    "
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow US\",\"url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\",\"merchant_url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\"}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Normal type videos\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"VAJIRA-MD\",\"rows\":[{\"header\":\"Normal types videos\",\"title\":\"240P VIDEO\",\"description\":\"Download 240 quality video\",\"id\":\".240p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"360P VIDEO\",\"description\":\"Download 360 quality video\",\"id\":\".360p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"480P VIDEO\",\"description\":\"Download 480 quality video\",\"id\":\".480p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"720P VIDEO\",\"description\":\"Download 720 quality video\",\"id\":\".720p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"1080P VIDEO\",\"description\":\"Download 1080 quality video\",\"id\":\".1080p https://youtube.com/watch?v=uyz1tFtrfu0\"}]}]}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Document type videos\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"VAJIRA-MD\",\"rows\":[{\"header\":\"Document type videos\",\"title\":\"240P VIDEO\",\"description\":\"Download 240 quality video\",\"id\":\".24phttps://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"360P VIDEO\",\"description\":\"Download 360 quality video\",\"id\":\".36p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"480P VIDEO\",\"description\":\"Download 480 quality video\",\"id\":\".48p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"720P VIDEO\",\"description\":\"Download 720 quality video\",\"id\":\".72p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"1080P VIDEO\",\"description\":\"Download 1080 quality video\",\"id\":\".108p https://youtube.com/watch?v=uyz1tFtrfu0\"}]}]}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-a0c8bf53-0590-4c61-9c8c-6c418a49bcfe?ccb=9-4&oh=01_Q5AaIBQb8UraKHvvk3WIuLG2pc5Amlx1OZ6fD-gq-voHFpV-&oe=671E2275&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "NQioGcYsSgq3NJ24/2mBbzZorlr52wt8a8hD5YIMAdY=",
+            "fileLength": "74537",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "j5HvL3tGgZ0Q15vXu7RMBDQHQFoAKBvEN7V/EWFgkF4=",
+            "fileEncSha256": "d5QmnJJOlCuIE/rsc+jU5m97OXQHtfADq0CTzG7uQIQ=",
+            "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-a0c8bf53-0590-4c61-9c8c-6c418a49bcfe?ccb=9-4&oh=01_Q5AaIBQb8UraKHvvk3WIuLG2pc5Amlx1OZ6fD-gq-voHFpV-&oe=671E2275&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727449266",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUGA//EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUSIRMxQQYyUXEiYdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgX/xAAdEQACAgEFAAAAAAAAAAAAAAAAAQIDIQQREiJB/9oADAMBAAIRAxEAPwDN5wea7SMHgiCwbcZG8Z/M1S0lrazXrSXVsXlT2OrHZz5wP12qjHq8Yld2uLExqxCDpupJwOQOcdzReKZuysaeES/T+mHUbo5ClUx7u2T8/wAq8li0obE8fUG7Cc5O3v8AVSdGmgsb9UE6TrvWQFARkg8jnzirUd1arBMuJlllLFnUDt4X6+aHYouXYixz3wYilKUoSMkcg4IrSQEmFCTklRyaUoup8Ikf/9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗩𝗜𝗗𝗘𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n    \n> *`➤ Title` :* News 1st: Lunch Time Sinhala News |(27-09-2024 ) දහවල් ප්‍රධාන ප්‍රවෘත්ති\n    \n> *`➤ Views` :* 103149\n    \n> *`➤ Duration` :* 1520 seconds (25:20)\n    \n> *`➤ URL` :* https://youtube.com/watch?v=uyz1tFtrfu0\n    "
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow US\",\"url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\",\"merchant_url\":\"https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z\"}"
+            },
+            {
+              "name": "single_select",
+              "buttonParamsJson": "{\"title\":\"Normal type videos\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"VAJIRA-MD\",\"rows\":[{\"header\":\"Normal types videos\",\"title\":\"240P VIDEO\",\"description\":\"Download 240 quality video\",\"id\":\".240p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"360P VIDEO\",\"description\":\"Download 360 quality video\",\"id\":\".360p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"480P VIDEO\",\"description\":\"Download 480 quality video\",\"id\":\".480p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"720P VIDEO\",\"description\":\"Download 720 quality video\",\"id\":\".720p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"1080P VIDEO\",\"description\":\"Download 1080 quality video\",\"id\":\".1080p https://youtube.com/watch?v=uyz1tFtrfu0\"}]}]}"
+            },
+            {
+              "name": "single_select",
+              "buttonParamsJson": "{\"title\":\"Document type videos\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"VAJIRA-MD\",\"rows\":[{\"header\":\"Document type videos\",\"title\":\"240P VIDEO\",\"description\":\"Download 240 quality video\",\"id\":\".24phttps://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"360P VIDEO\",\"description\":\"Download 360 quality video\",\"id\":\".36p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"480P VIDEO\",\"description\":\"Download 480 quality video\",\"id\":\".48p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"720P VIDEO\",\"description\":\"Download 720 quality video\",\"id\":\".72p https://youtube.com/watch?v=uyz1tFtrfu0\"},{\"header\":\"\",\"title\":\"1080P VIDEO\",\"description\":\"Download 1080 quality video\",\"id\":\".108p https://youtube.com/watch?v=uyz1tFtrfu0\"}]}]}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "FD8DC65DEBA7CCFD43C9E8ABB8FF15C9"
+    },
+    "messageTimestamp": 1727449313,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytdoc https://youtube.com/watch?v=IuGlzZ6bSHA",
+        "selectedDisplayText": "Document 📁",
+        "contextInfo": {
+          "stanzaId": "9269C50A2BB90C9B3ADB4066CF762A87",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-09743e87-0aa3-49bf-a10d-3928be647618?ccb=9-4&oh=01_Q5AaICrdmjBpZAvqHtiJkwO-z_ty9LnbF8iSst7DqnNSJ2Hr&oe=671E3DDA&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "zBAT3L1BRWp9PXb6UFOM4UJ7o6N0Kq+vHgcDC+JkAUc=",
+                  "fileLength": "136080",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "llB6XTrzAO+PkllTr31UZRYJIl4ukNv/Z4fUhBuAHXQ=",
+                  "fileEncSha256": "XNIWlZiWjFXLwyEdovceTAUuiTyE97dzYSr3mNDx67A=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-09743e87-0aa3-49bf-a10d-3928be647618?ccb=9-4&oh=01_Q5AaICrdmjBpZAvqHtiJkwO-z_ty9LnbF8iSst7DqnNSJ2Hr&oe=671E3DDA&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727449305",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESIkFRYYGxExQyNuH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB4RAAICAAcAAAAAAAAAAAAAAAABAhEDEiExQUJR/9oADAMBAAIRAxEAPwDC0zSYZhJJeM8UOAEYbHnkU3eWtgdJuL22jiDCQ4YdR7eOnyz41Z65ptnPZmOaMhAQQU2Iqa0HTYIbzUIJkE0WT0K/lxkj1xXaZRGKpL0kYoWdg0Z/lN/aXdogldE+nL2g9QJ89scVqTTWa3ciJagRKzL2tjO4324wAaXvDFaQSSS2iMpfCMJzncbeG42z70ewChl1bOlX34L7fIqRtP2bUR4BMfFFFbgdh9SNnd1aUBmALHOD60m8sjjpd2YDgE5oopZPI//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Yeh Kya Hua I Broken But Beautiful | Shreya | Dev Negi | Amitabh | Rana Mazumdar @AlttMusic​\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=IuGlzZ6bSHA\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=IuGlzZ6bSHA\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=IuGlzZ6bSHA\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "acpzRSjbrc7ilV8dopI11K2G84fCVmVG6MIeE7nO/mI="
+      }
+    },
+    "id": "FD8DC65DEBA7CCFD43C9E8ABB8FF15C9",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytdoc https://youtube.com/watch?v=IuGlzZ6bSHA",
+      "selectedDisplayText": "Document 📁",
+      "contextInfo": {
+        "stanzaId": "9269C50A2BB90C9B3ADB4066CF762A87",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-09743e87-0aa3-49bf-a10d-3928be647618?ccb=9-4&oh=01_Q5AaICrdmjBpZAvqHtiJkwO-z_ty9LnbF8iSst7DqnNSJ2Hr&oe=671E3DDA&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "zBAT3L1BRWp9PXb6UFOM4UJ7o6N0Kq+vHgcDC+JkAUc=",
+                "fileLength": "136080",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "llB6XTrzAO+PkllTr31UZRYJIl4ukNv/Z4fUhBuAHXQ=",
+                "fileEncSha256": "XNIWlZiWjFXLwyEdovceTAUuiTyE97dzYSr3mNDx67A=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-09743e87-0aa3-49bf-a10d-3928be647618?ccb=9-4&oh=01_Q5AaICrdmjBpZAvqHtiJkwO-z_ty9LnbF8iSst7DqnNSJ2Hr&oe=671E3DDA&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727449305",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESIkFRYYGxExQyNuH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB4RAAICAAcAAAAAAAAAAAAAAAABAhEDEiExQUJR/9oADAMBAAIRAxEAPwDC0zSYZhJJeM8UOAEYbHnkU3eWtgdJuL22jiDCQ4YdR7eOnyz41Z65ptnPZmOaMhAQQU2Iqa0HTYIbzUIJkE0WT0K/lxkj1xXaZRGKpL0kYoWdg0Z/lN/aXdogldE+nL2g9QJ89scVqTTWa3ciJagRKzL2tjO4324wAaXvDFaQSSS2iMpfCMJzncbeG42z70ewChl1bOlX34L7fIqRtP2bUR4BMfFFFbgdh9SNnd1aUBmALHOD60m8sjjpd2YDgE5oopZPI//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Yeh Kya Hua I Broken But Beautiful | Shreya | Dev Negi | Amitabh | Rana Mazumdar @AlttMusic​\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=IuGlzZ6bSHA\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=IuGlzZ6bSHA\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=IuGlzZ6bSHA\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytdoc https://youtube.com/watch?v=IuGlzZ6bSHA",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-09743e87-0aa3-49bf-a10d-3928be647618?ccb=9-4&oh=01_Q5AaICrdmjBpZAvqHtiJkwO-z_ty9LnbF8iSst7DqnNSJ2Hr&oe=671E3DDA&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "zBAT3L1BRWp9PXb6UFOM4UJ7o6N0Kq+vHgcDC+JkAUc=",
+            "fileLength": "136080",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "llB6XTrzAO+PkllTr31UZRYJIl4ukNv/Z4fUhBuAHXQ=",
+            "fileEncSha256": "XNIWlZiWjFXLwyEdovceTAUuiTyE97dzYSr3mNDx67A=",
+            "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-09743e87-0aa3-49bf-a10d-3928be647618?ccb=9-4&oh=01_Q5AaICrdmjBpZAvqHtiJkwO-z_ty9LnbF8iSst7DqnNSJ2Hr&oe=671E3DDA&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727449305",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESIkFRYYGxExQyNuH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB4RAAICAAcAAAAAAAAAAAAAAAABAhEDEiExQUJR/9oADAMBAAIRAxEAPwDC0zSYZhJJeM8UOAEYbHnkU3eWtgdJuL22jiDCQ4YdR7eOnyz41Z65ptnPZmOaMhAQQU2Iqa0HTYIbzUIJkE0WT0K/lxkj1xXaZRGKpL0kYoWdg0Z/lN/aXdogldE+nL2g9QJ89scVqTTWa3ciJagRKzL2tjO4324wAaXvDFaQSSS2iMpfCMJzncbeG42z70ewChl1bOlX34L7fIqRtP2bUR4BMfFFFbgdh9SNnd1aUBmALHOD60m8sjjpd2YDgE5oopZPI//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Yeh Kya Hua I Broken But Beautiful | Shreya | Dev Negi | Amitabh | Rana Mazumdar @AlttMusic​\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=IuGlzZ6bSHA\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=IuGlzZ6bSHA\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=IuGlzZ6bSHA\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

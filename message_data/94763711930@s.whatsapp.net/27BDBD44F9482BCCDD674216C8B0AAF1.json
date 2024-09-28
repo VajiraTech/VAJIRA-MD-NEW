@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "27BDBD44F9482BCCDD674216C8B0AAF1"
+    },
+    "messageTimestamp": 1727449843,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "අද සෑ හදමු තුදූ😗",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "E832C11F95500586CDDBC45E1B9EA7CB",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "බොටා හදන්න"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "27BDBD44F9482BCCDD674216C8B0AAF1",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "අද සෑ හදමු තුදූ😗",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "E832C11F95500586CDDBC45E1B9EA7CB",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "බොටා හදන්න"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "අද සෑ හදමු තුදූ😗",
+    "quoted": {
+      "conversation": "බොටා හදන්න"
+    }
+  }
+]

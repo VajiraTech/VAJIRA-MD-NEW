@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CE05A019D685861EA09C514E70299B30"
+    },
+    "messageTimestamp": 1727444339,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytaud https://youtube.com/watch?v=1n9Hdk-UvRM",
+        "selectedDisplayText": "Audio 🎧",
+        "contextInfo": {
+          "stanzaId": "DC15A3CA44270BF0DE119010A65FFA95",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-025eee14-8f70-41ef-810b-d5eff90f9ce0?ccb=9-4&oh=01_Q5AaIN14vL1BRzIW-2ZKRYD8Kl8WQS6Qks0oUUrmwvvJXONV&oe=671E36B7&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "6VEMYRqjUNlCYwAgXAAVh86OrPUdKk9nTRex8BRNjFo=",
+                  "fileLength": "164618",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "i0x0ZCgf3Uj5McO3XD5Q0tiKx1jMyH2+gnvDUWDQTNo=",
+                  "fileEncSha256": "yV9vIG98vWsy6in/2bcu4i21VZRMs0PMsPCqY69YxDc=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-025eee14-8f70-41ef-810b-d5eff90f9ce0?ccb=9-4&oh=01_Q5AaIN14vL1BRzIW-2ZKRYD8Kl8WQS6Qks0oUUrmwvvJXONV&oe=671E36B7&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727444331",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECA//EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEEQUSMRQhURMiQWFicYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAED/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACAwQRQRIxMnETIVHw/9oADAMBAAIRAxEAPwCbLRvKQwC5IJycYzwK22wxSPGrGSUnAX6+Kh9PtbiYzytd+pbFdyqV44IOP1TMPUW88TXPpyZO5XAILr93nFBkknBILvRIvbHSsVFTaQS0arZz8JXbULXqGWKfqBEUJxCeWHk/yltMjngSW2mZ3RHBhZz7tpHcH8Gs6tcKEgZZY9uSRh8Oe3x5pVdWgFjIYZ4xcqvtRs7h4BHzTGvdrBGVZKBj4PFsVXUvLpFRUuZlXHAcgfNXOwJNnuJJIt5sE0UVm/kO1oeI/YVKvHZ5Iy7FiIxyc0X/AG1VCOxOMnz7aKKUNwlO3X//2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Kids' Song Collection #1 | Sing Along With Tobee | Super Simple Songs\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=1n9Hdk-UvRM\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=1n9Hdk-UvRM\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=1n9Hdk-UvRM\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 0
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "QQ1C6KKH//Cs05X7KHkJ+C3zMfg3aWszFKjveuChYBo="
+      }
+    },
+    "id": "CE05A019D685861EA09C514E70299B30",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytaud https://youtube.com/watch?v=1n9Hdk-UvRM",
+      "selectedDisplayText": "Audio 🎧",
+      "contextInfo": {
+        "stanzaId": "DC15A3CA44270BF0DE119010A65FFA95",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-025eee14-8f70-41ef-810b-d5eff90f9ce0?ccb=9-4&oh=01_Q5AaIN14vL1BRzIW-2ZKRYD8Kl8WQS6Qks0oUUrmwvvJXONV&oe=671E36B7&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "6VEMYRqjUNlCYwAgXAAVh86OrPUdKk9nTRex8BRNjFo=",
+                "fileLength": "164618",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "i0x0ZCgf3Uj5McO3XD5Q0tiKx1jMyH2+gnvDUWDQTNo=",
+                "fileEncSha256": "yV9vIG98vWsy6in/2bcu4i21VZRMs0PMsPCqY69YxDc=",
+                "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-025eee14-8f70-41ef-810b-d5eff90f9ce0?ccb=9-4&oh=01_Q5AaIN14vL1BRzIW-2ZKRYD8Kl8WQS6Qks0oUUrmwvvJXONV&oe=671E36B7&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727444331",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECA//EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEEQUSMRQhURMiQWFicYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAED/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACAwQRQRIxMnETIVHw/9oADAMBAAIRAxEAPwCbLRvKQwC5IJycYzwK22wxSPGrGSUnAX6+Kh9PtbiYzytd+pbFdyqV44IOP1TMPUW88TXPpyZO5XAILr93nFBkknBILvRIvbHSsVFTaQS0arZz8JXbULXqGWKfqBEUJxCeWHk/yltMjngSW2mZ3RHBhZz7tpHcH8Gs6tcKEgZZY9uSRh8Oe3x5pVdWgFjIYZ4xcqvtRs7h4BHzTGvdrBGVZKBj4PFsVXUvLpFRUuZlXHAcgfNXOwJNnuJJIt5sE0UVm/kO1oeI/YVKvHZ5Iy7FiIxyc0X/AG1VCOxOMnz7aKKUNwlO3X//2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Kids' Song Collection #1 | Sing Along With Tobee | Super Simple Songs\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=1n9Hdk-UvRM\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=1n9Hdk-UvRM\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=1n9Hdk-UvRM\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 0
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytaud https://youtube.com/watch?v=1n9Hdk-UvRM",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-025eee14-8f70-41ef-810b-d5eff90f9ce0?ccb=9-4&oh=01_Q5AaIN14vL1BRzIW-2ZKRYD8Kl8WQS6Qks0oUUrmwvvJXONV&oe=671E36B7&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "6VEMYRqjUNlCYwAgXAAVh86OrPUdKk9nTRex8BRNjFo=",
+            "fileLength": "164618",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "i0x0ZCgf3Uj5McO3XD5Q0tiKx1jMyH2+gnvDUWDQTNo=",
+            "fileEncSha256": "yV9vIG98vWsy6in/2bcu4i21VZRMs0PMsPCqY69YxDc=",
+            "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-025eee14-8f70-41ef-810b-d5eff90f9ce0?ccb=9-4&oh=01_Q5AaIN14vL1BRzIW-2ZKRYD8Kl8WQS6Qks0oUUrmwvvJXONV&oe=671E36B7&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727444331",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECA//EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEEQUSMRQhURMiQWFicYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAED/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACAwQRQRIxMnETIVHw/9oADAMBAAIRAxEAPwCbLRvKQwC5IJycYzwK22wxSPGrGSUnAX6+Kh9PtbiYzytd+pbFdyqV44IOP1TMPUW88TXPpyZO5XAILr93nFBkknBILvRIvbHSsVFTaQS0arZz8JXbULXqGWKfqBEUJxCeWHk/yltMjngSW2mZ3RHBhZz7tpHcH8Gs6tcKEgZZY9uSRh8Oe3x5pVdWgFjIYZ4xcqvtRs7h4BHzTGvdrBGVZKBj4PFsVXUvLpFRUuZlXHAcgfNXOwJNnuJJIt5sE0UVm/kO1oeI/YVKvHZ5Iy7FiIxyc0X/AG1VCOxOMnz7aKKUNwlO3X//2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Kids' Song Collection #1 | Sing Along With Tobee | Super Simple Songs\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=1n9Hdk-UvRM\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=1n9Hdk-UvRM\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=1n9Hdk-UvRM\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

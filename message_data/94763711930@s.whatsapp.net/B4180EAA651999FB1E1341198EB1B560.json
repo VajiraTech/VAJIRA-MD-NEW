@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "B4180EAA651999FB1E1341198EB1B560"
+    },
+    "messageTimestamp": 1727436887,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "conversation": "එක පාරම පපුවෙ අමාලුවක් ආව🙂",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "B4180EAA651999FB1E1341198EB1B560",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "එක පාරම පපුවෙ අමාලුවක් ආව🙂",
+    "mentionUser": [],
+    "body": "එක පාරම පපුවෙ අමාලුවක් ආව🙂",
+    "quoted": null
+  }
+]

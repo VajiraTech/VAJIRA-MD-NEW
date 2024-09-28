@@ -1,0 +1,198 @@
+[
+  {
+    "key": {
+      "remoteJid": "94772307959@s.whatsapp.net",
+      "fromMe": false,
+      "id": "24518FECD08D43F070090735BDA45F8C"
+    },
+    "messageTimestamp": 1727499494,
+    "pushName": "DD Sasindu  Pawan 🕊️",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytaud https://youtube.com/watch?v=CEaBc4pw9Yw",
+        "selectedDisplayText": "Audio 🎧",
+        "contextInfo": {
+          "stanzaId": "DCA19EEE0DF12ABE89D48E056F45792E",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-ff542dfa-7134-481d-bca7-ebbf5e3b9715?ccb=9-4&oh=01_Q5AaIJTKx5JWxJAaOuLqqV6QiM1aDAT93LRVMIyIPjrdhmc8&oe=671EF043&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "UPAPrnpP0yr/AG63aI7H4bKujBVapP4ZCH3ke27VIqw=",
+                  "fileLength": "98675",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "l+NTrAkUOlzCzwJwV4C6JIqMU1UI4TmavzB6or+FvjM=",
+                  "fileEncSha256": "dpIP7W6zu9vAl5htREGy8p1mJgI8sG4oDA9yt0NMrCw=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-ff542dfa-7134-481d-bca7-ebbf5e3b9715?ccb=9-4&oh=01_Q5AaIJTKx5JWxJAaOuLqqV6QiM1aDAT93LRVMIyIPjrdhmc8&oe=671EF043&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727499486",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQb/xAAlEAACAgEDAwQDAAAAAAAAAAABAgMRAAQFEhMhQTFTcZIyQlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUE/8QAHREAAwEAAQUAAAAAAAAAAAAAAAECEQMEEiEiMf/aAAwDAQACEQMRAD8A5CNGbsADfpeVLoJJWtSFiq+Z8HyMgScpYIOW7buaQp05gxUtYPrWbLtZ6MYlLzS5dLMNRGzpG0YWzKP28V847xRoKAq8l1G7RcVWHmADZNfl2yY7kzDirk3/AEViYpKfJZ4ep45l9z1swxRmyUUn4wEMXtp9Rhhiye/owhi9pPqMboxAEiNAR54jDDCFH//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Sinhala Teach house Remix Song...(Dj Dance Remix)...HIRU-Sl🎶🇱🇰\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=CEaBc4pw9Yw\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=CEaBc4pw9Yw\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=CEaBc4pw9Yw\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 0
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1725733860",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "gcoeXzHiu9q9Kg0unZZYv62TFeVhBI0/KR+4IOcHleI="
+      }
+    },
+    "id": "24518FECD08D43F070090735BDA45F8C",
+    "chat": "94772307959@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94772307959@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytaud https://youtube.com/watch?v=CEaBc4pw9Yw",
+      "selectedDisplayText": "Audio 🎧",
+      "contextInfo": {
+        "stanzaId": "DCA19EEE0DF12ABE89D48E056F45792E",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-ff542dfa-7134-481d-bca7-ebbf5e3b9715?ccb=9-4&oh=01_Q5AaIJTKx5JWxJAaOuLqqV6QiM1aDAT93LRVMIyIPjrdhmc8&oe=671EF043&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "UPAPrnpP0yr/AG63aI7H4bKujBVapP4ZCH3ke27VIqw=",
+                "fileLength": "98675",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "l+NTrAkUOlzCzwJwV4C6JIqMU1UI4TmavzB6or+FvjM=",
+                "fileEncSha256": "dpIP7W6zu9vAl5htREGy8p1mJgI8sG4oDA9yt0NMrCw=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-ff542dfa-7134-481d-bca7-ebbf5e3b9715?ccb=9-4&oh=01_Q5AaIJTKx5JWxJAaOuLqqV6QiM1aDAT93LRVMIyIPjrdhmc8&oe=671EF043&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727499486",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQb/xAAlEAACAgEDAwQDAAAAAAAAAAABAgMRAAQFEhMhQTFTcZIyQlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUE/8QAHREAAwEAAQUAAAAAAAAAAAAAAAECEQMEEiEiMf/aAAwDAQACEQMRAD8A5CNGbsADfpeVLoJJWtSFiq+Z8HyMgScpYIOW7buaQp05gxUtYPrWbLtZ6MYlLzS5dLMNRGzpG0YWzKP28V847xRoKAq8l1G7RcVWHmADZNfl2yY7kzDirk3/AEViYpKfJZ4ep45l9z1swxRmyUUn4wEMXtp9Rhhiye/owhi9pPqMboxAEiNAR54jDDCFH//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Sinhala Teach house Remix Song...(Dj Dance Remix)...HIRU-Sl🎶🇱🇰\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=CEaBc4pw9Yw\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=CEaBc4pw9Yw\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=CEaBc4pw9Yw\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 0
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytaud https://youtube.com/watch?v=CEaBc4pw9Yw",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-ff542dfa-7134-481d-bca7-ebbf5e3b9715?ccb=9-4&oh=01_Q5AaIJTKx5JWxJAaOuLqqV6QiM1aDAT93LRVMIyIPjrdhmc8&oe=671EF043&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "UPAPrnpP0yr/AG63aI7H4bKujBVapP4ZCH3ke27VIqw=",
+            "fileLength": "98675",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "l+NTrAkUOlzCzwJwV4C6JIqMU1UI4TmavzB6or+FvjM=",
+            "fileEncSha256": "dpIP7W6zu9vAl5htREGy8p1mJgI8sG4oDA9yt0NMrCw=",
+            "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-ff542dfa-7134-481d-bca7-ebbf5e3b9715?ccb=9-4&oh=01_Q5AaIJTKx5JWxJAaOuLqqV6QiM1aDAT93LRVMIyIPjrdhmc8&oe=671EF043&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727499486",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQb/xAAlEAACAgEDAwQDAAAAAAAAAAABAgMRAAQFEhMhQTFTcZIyQlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUE/8QAHREAAwEAAQUAAAAAAAAAAAAAAAECEQMEEiEiMf/aAAwDAQACEQMRAD8A5CNGbsADfpeVLoJJWtSFiq+Z8HyMgScpYIOW7buaQp05gxUtYPrWbLtZ6MYlLzS5dLMNRGzpG0YWzKP28V847xRoKAq8l1G7RcVWHmADZNfl2yY7kzDirk3/AEViYpKfJZ4ep45l9z1swxRmyUUn4wEMXtp9Rhhiye/owhi9pPqMboxAEiNAR54jDDCFH//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Sinhala Teach house Remix Song...(Dj Dance Remix)...HIRU-Sl🎶🇱🇰\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=CEaBc4pw9Yw\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=CEaBc4pw9Yw\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=CEaBc4pw9Yw\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

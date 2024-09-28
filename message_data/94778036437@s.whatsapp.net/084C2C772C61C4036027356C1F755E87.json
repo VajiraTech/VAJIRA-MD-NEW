@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "084C2C772C61C4036027356C1F755E87"
+    },
+    "messageTimestamp": 1727448773,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "conversation": "Moko",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "dUZYNiQGGgwktlEgFCz70ps4el3qKbWngs7XPxgi7jk="
+      }
+    },
+    "id": "084C2C772C61C4036027356C1F755E87",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Moko",
+    "mentionUser": [],
+    "body": "Moko",
+    "quoted": null
+  }
+]

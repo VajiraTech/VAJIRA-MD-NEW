@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "FFC1302ADBE59472E4A3F1A867B4806C"
+    },
+    "messageTimestamp": 1727446905,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytdoc https://youtube.com/watch?v=dLC-TuMyykE",
+        "selectedDisplayText": "Document 📁",
+        "contextInfo": {
+          "stanzaId": "9DB890322975DAC39A3729C6DE63C0B8",
+          "participant": "94778036437@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-06dc1920-993b-4703-9b5e-9c1cb0c3c746?ccb=9-4&oh=01_Q5AaIFP4lfmJV8Cwl3v7VsOWArnd44y2avSb8gmaowiUC727&oe=671CD5B1&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "6dNBFta5GHHf/qn6abdA5foxr2PHj+0RSlhNZlvj4R4=",
+                  "fileLength": "149419",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "gGFZHVJAFVvaT+NAZ4atJhHMyDWtUgU7USrx1u92DgA=",
+                  "fileEncSha256": "r3L1O5TGterp+5r11PkQZDM44ODCPtnxo22piCS3Hqs=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-06dc1920-993b-4703-9b5e-9c1cb0c3c746?ccb=9-4&oh=01_Q5AaIFP4lfmJV8Cwl3v7VsOWArnd44y2avSb8gmaowiUC727&oe=671CD5B1&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727364076",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDAAQRBRIhEyMiMVFhQVJxcoGxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAjEQACAQIEBwAAAAAAAAAAAAAAAQIDMRESIYEiMkFCUbHw/9oADAMBAAIRAxEAPwBFbzC2linaGE3KpgAkbU9/r+qv2sUt7A08asTnnb5VUsNONxjKkJ8xBwKdaXCLbRpele9B2kKjcwUDBH55GeR5U3KlqgUpSisbFSSwulh6ZiYFhyTUmkCKW8JZwHQnbtXKnj1+FObS4ZrV+zMVWRgjSjG5cnBy3tWe0tTHqzI2w4bHgbK59AR7ZrJ43Ci8kuFj+Z3Wzfa7DwL5Gsm7sk0zKxVhISCDgjmiik0LP7yUK3Tf0ieylkmbuyM/3HNc6RxfW2OO6/8ANFFP7UTJc+x//9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* 2023 New Dance Dj Non-stop | Sinhala Party Mix | Sinhala New Dj | Sinhala Dj remix | new dj nonstop\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=dLC-TuMyykE\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=dLC-TuMyykE\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=dLC-TuMyykE\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94778036437@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94778036437@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "d5Ltn60S5YhNdTe6dPqV9BbIldaV5cmtVbFmL3HQeaE="
+      }
+    },
+    "id": "FFC1302ADBE59472E4A3F1A867B4806C",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytdoc https://youtube.com/watch?v=dLC-TuMyykE",
+      "selectedDisplayText": "Document 📁",
+      "contextInfo": {
+        "stanzaId": "9DB890322975DAC39A3729C6DE63C0B8",
+        "participant": "94778036437@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-06dc1920-993b-4703-9b5e-9c1cb0c3c746?ccb=9-4&oh=01_Q5AaIFP4lfmJV8Cwl3v7VsOWArnd44y2avSb8gmaowiUC727&oe=671CD5B1&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "6dNBFta5GHHf/qn6abdA5foxr2PHj+0RSlhNZlvj4R4=",
+                "fileLength": "149419",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "gGFZHVJAFVvaT+NAZ4atJhHMyDWtUgU7USrx1u92DgA=",
+                "fileEncSha256": "r3L1O5TGterp+5r11PkQZDM44ODCPtnxo22piCS3Hqs=",
+                "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-06dc1920-993b-4703-9b5e-9c1cb0c3c746?ccb=9-4&oh=01_Q5AaIFP4lfmJV8Cwl3v7VsOWArnd44y2avSb8gmaowiUC727&oe=671CD5B1&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727364076",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDAAQRBRIhEyMiMVFhQVJxcoGxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAjEQACAQIEBwAAAAAAAAAAAAAAAQIDMRESIYEiMkFCUbHw/9oADAMBAAIRAxEAPwBFbzC2linaGE3KpgAkbU9/r+qv2sUt7A08asTnnb5VUsNONxjKkJ8xBwKdaXCLbRpele9B2kKjcwUDBH55GeR5U3KlqgUpSisbFSSwulh6ZiYFhyTUmkCKW8JZwHQnbtXKnj1+FObS4ZrV+zMVWRgjSjG5cnBy3tWe0tTHqzI2w4bHgbK59AR7ZrJ43Ci8kuFj+Z3Wzfa7DwL5Gsm7sk0zKxVhISCDgjmiik0LP7yUK3Tf0ieylkmbuyM/3HNc6RxfW2OO6/8ANFFP7UTJc+x//9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* 2023 New Dance Dj Non-stop | Sinhala Party Mix | Sinhala New Dj | Sinhala Dj remix | new dj nonstop\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=dLC-TuMyykE\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=dLC-TuMyykE\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=dLC-TuMyykE\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94778036437@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94778036437@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94778036437@s.whatsapp.net"
+    ],
+    "body": ".ytdoc https://youtube.com/watch?v=dLC-TuMyykE",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-06dc1920-993b-4703-9b5e-9c1cb0c3c746?ccb=9-4&oh=01_Q5AaIFP4lfmJV8Cwl3v7VsOWArnd44y2avSb8gmaowiUC727&oe=671CD5B1&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "6dNBFta5GHHf/qn6abdA5foxr2PHj+0RSlhNZlvj4R4=",
+            "fileLength": "149419",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "gGFZHVJAFVvaT+NAZ4atJhHMyDWtUgU7USrx1u92DgA=",
+            "fileEncSha256": "r3L1O5TGterp+5r11PkQZDM44ODCPtnxo22piCS3Hqs=",
+            "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-06dc1920-993b-4703-9b5e-9c1cb0c3c746?ccb=9-4&oh=01_Q5AaIFP4lfmJV8Cwl3v7VsOWArnd44y2avSb8gmaowiUC727&oe=671CD5B1&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727364076",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgEDAwIEBwAAAAAAAAAAAQIDAAQRBRIhEyMiMVFhQVJxcoGxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAjEQACAQIEBwAAAAAAAAAAAAAAAQIDMRESIYEiMkFCUbHw/9oADAMBAAIRAxEAPwBFbzC2linaGE3KpgAkbU9/r+qv2sUt7A08asTnnb5VUsNONxjKkJ8xBwKdaXCLbRpele9B2kKjcwUDBH55GeR5U3KlqgUpSisbFSSwulh6ZiYFhyTUmkCKW8JZwHQnbtXKnj1+FObS4ZrV+zMVWRgjSjG5cnBy3tWe0tTHqzI2w4bHgbK59AR7ZrJ43Ci8kuFj+Z3Wzfa7DwL5Gsm7sk0zKxVhISCDgjmiik0LP7yUK3Tf0ieylkmbuyM/3HNc6RxfW2OO6/8ANFFP7UTJc+x//9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* 2023 New Dance Dj Non-stop | Sinhala Party Mix | Sinhala New Dj | Sinhala Dj remix | new dj nonstop\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=dLC-TuMyykE\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=dLC-TuMyykE\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=dLC-TuMyykE\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94778036437@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

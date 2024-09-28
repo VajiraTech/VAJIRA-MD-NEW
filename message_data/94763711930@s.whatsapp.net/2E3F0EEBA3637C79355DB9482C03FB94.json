@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "2E3F0EEBA3637C79355DB9482C03FB94"
+    },
+    "messageTimestamp": 1727437090,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "😞වෙනවනෙ නවතින්න තාත්ත ත් ගෙදර",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "6431A58A0031FEC39A37B20D8614E68A",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "නවතින්න කිව්වොත් නැවතියන්"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "2E3F0EEBA3637C79355DB9482C03FB94",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "😞වෙනවනෙ නවතින්න තාත්ත ත් ගෙදර",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "6431A58A0031FEC39A37B20D8614E68A",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "නවතින්න කිව්වොත් නැවතියන්"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "😞වෙනවනෙ නවතින්න තාත්ත ත් ගෙදර",
+    "quoted": {
+      "conversation": "නවතින්න කිව්වොත් නැවතියන්"
+    }
+  }
+]

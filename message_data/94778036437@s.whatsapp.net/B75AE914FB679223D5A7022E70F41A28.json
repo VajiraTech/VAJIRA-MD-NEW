@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "B75AE914FB679223D5A7022E70F41A28"
+    },
+    "messageTimestamp": 1727446593,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytdoc https://youtube.com/watch?v=465pWlNV7LM",
+        "selectedDisplayText": "Document 📁",
+        "contextInfo": {
+          "stanzaId": "433BE3A9DE437E38D27DF46C01D0D171",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-69327aa5-43d0-4131-90da-8b8f3186a543?ccb=9-4&oh=01_Q5AaIFuVTogkhaW3cWRLCpdE5xWm5H4cve0PmuywiqBEmaA1&oe=671E215C&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "SEwsTTcVERk11fzDyIiYC21b8EnYoGMSZp1WHRc18w0=",
+                  "fileLength": "130022",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "sLu2LGl+9vDuWtmzhHv4nk/ykTZNpM6/giJlIgENBJQ=",
+                  "fileEncSha256": "pSU+Qsykr3UzB1lbFTuTO2DUwNyJ2bp7onz2cHsv+4U=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-69327aa5-43d0-4131-90da-8b8f3186a543?ccb=9-4&oh=01_Q5AaIFuVTogkhaW3cWRLCpdE5xWm5H4cve0PmuywiqBEmaA1&oe=671E215C&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727446530",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKBAAAgECBQMDBQAAAAAAAAAAAQIDABEEBRIhMRMiQVFhcWKBobHB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBAX/xAAZEQADAQEBAAAAAAAAAAAAAAAAASECETH/2gAMAwEAAhEDEQA/AOenWMpLKVu7mbf4K2/Zq3MBCMqhkSaZJtMaFA3ay2va3nf3rJDLJO4w8QBZy43+qx/lbYMNOkraobtEBpQjffYEX+9dXTTnTLxqovy6XqyzPd1VmZow6XF25+NvNLML0kywSdJDJqADkbju5HvtT3BCUYa6ws4dLKbg6fBpPmx6WJljEPRSTS6oBYL6/mjtJuEY7YKiSNwbGtWHJbXck8c0UUWXE4hj27nk+aoPNFFNeBP/2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Roop Tera Mastana Remix | DJ Anshul | Amit Gupta | Music Cover | Kumaar | VJ Philip Gordon\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=465pWlNV7LM\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=465pWlNV7LM\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=465pWlNV7LM\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "zC0WodMmvpnbTMdLcjzFYr/2VPkNaz7nXnrv3NzTJbY="
+      }
+    },
+    "id": "B75AE914FB679223D5A7022E70F41A28",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytdoc https://youtube.com/watch?v=465pWlNV7LM",
+      "selectedDisplayText": "Document 📁",
+      "contextInfo": {
+        "stanzaId": "433BE3A9DE437E38D27DF46C01D0D171",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-69327aa5-43d0-4131-90da-8b8f3186a543?ccb=9-4&oh=01_Q5AaIFuVTogkhaW3cWRLCpdE5xWm5H4cve0PmuywiqBEmaA1&oe=671E215C&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "SEwsTTcVERk11fzDyIiYC21b8EnYoGMSZp1WHRc18w0=",
+                "fileLength": "130022",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "sLu2LGl+9vDuWtmzhHv4nk/ykTZNpM6/giJlIgENBJQ=",
+                "fileEncSha256": "pSU+Qsykr3UzB1lbFTuTO2DUwNyJ2bp7onz2cHsv+4U=",
+                "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-69327aa5-43d0-4131-90da-8b8f3186a543?ccb=9-4&oh=01_Q5AaIFuVTogkhaW3cWRLCpdE5xWm5H4cve0PmuywiqBEmaA1&oe=671E215C&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727446530",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKBAAAgECBQMDBQAAAAAAAAAAAQIDABEEBRIhMRMiQVFhcWKBobHB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBAX/xAAZEQADAQEBAAAAAAAAAAAAAAAAASECETH/2gAMAwEAAhEDEQA/AOenWMpLKVu7mbf4K2/Zq3MBCMqhkSaZJtMaFA3ay2va3nf3rJDLJO4w8QBZy43+qx/lbYMNOkraobtEBpQjffYEX+9dXTTnTLxqovy6XqyzPd1VmZow6XF25+NvNLML0kywSdJDJqADkbju5HvtT3BCUYa6ws4dLKbg6fBpPmx6WJljEPRSTS6oBYL6/mjtJuEY7YKiSNwbGtWHJbXck8c0UUWXE4hj27nk+aoPNFFNeBP/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Roop Tera Mastana Remix | DJ Anshul | Amit Gupta | Music Cover | Kumaar | VJ Philip Gordon\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=465pWlNV7LM\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=465pWlNV7LM\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=465pWlNV7LM\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytdoc https://youtube.com/watch?v=465pWlNV7LM",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-69327aa5-43d0-4131-90da-8b8f3186a543?ccb=9-4&oh=01_Q5AaIFuVTogkhaW3cWRLCpdE5xWm5H4cve0PmuywiqBEmaA1&oe=671E215C&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "SEwsTTcVERk11fzDyIiYC21b8EnYoGMSZp1WHRc18w0=",
+            "fileLength": "130022",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "sLu2LGl+9vDuWtmzhHv4nk/ykTZNpM6/giJlIgENBJQ=",
+            "fileEncSha256": "pSU+Qsykr3UzB1lbFTuTO2DUwNyJ2bp7onz2cHsv+4U=",
+            "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-69327aa5-43d0-4131-90da-8b8f3186a543?ccb=9-4&oh=01_Q5AaIFuVTogkhaW3cWRLCpdE5xWm5H4cve0PmuywiqBEmaA1&oe=671E215C&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727446530",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKBAAAgECBQMDBQAAAAAAAAAAAQIDABEEBRIhMRMiQVFhcWKBobHB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBAX/xAAZEQADAQEBAAAAAAAAAAAAAAAAASECETH/2gAMAwEAAhEDEQA/AOenWMpLKVu7mbf4K2/Zq3MBCMqhkSaZJtMaFA3ay2va3nf3rJDLJO4w8QBZy43+qx/lbYMNOkraobtEBpQjffYEX+9dXTTnTLxqovy6XqyzPd1VmZow6XF25+NvNLML0kywSdJDJqADkbju5HvtT3BCUYa6ws4dLKbg6fBpPmx6WJljEPRSTS6oBYL6/mjtJuEY7YKiSNwbGtWHJbXck8c0UUWXE4hj27nk+aoPNFFNeBP/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Roop Tera Mastana Remix | DJ Anshul | Amit Gupta | Music Cover | Kumaar | VJ Philip Gordon\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=465pWlNV7LM\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=465pWlNV7LM\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=465pWlNV7LM\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

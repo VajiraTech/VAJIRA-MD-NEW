@@ -1,0 +1,138 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F8FC2A74BE815F6E6802BEDF77CC780C"
+    },
+    "messageTimestamp": 1727449032,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Addo",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "17515DEB01971B8E8E82760740C7F0FD",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "videoMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7161-24/26967776_1193857471903913_6358551226943809805_n.enc?ccb=11-4&oh=01_Q5AaIGtpU9SoV_SuSvV32qT9v5pzo-ucDtA77ObL8n_sjzId&oe=671D1BFE&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "video/mp4",
+              "fileSha256": "lmTc98yo1fkTmlxMvRyEEQfvjE1RtQLchWpQgu3HRFk=",
+              "fileLength": "2238498",
+              "seconds": 19,
+              "mediaKey": "fSGhmRZH15Wo4eWUFY143O5YXPLUph790qnDfjOu7AI=",
+              "caption": "😊𝙶𝙽 𝚕𝚊𝚜𝚜𝚊𝚗𝚊 𝚕𝚊𝚖𝚊𝚢𝚘💗☝️",
+              "height": 640,
+              "width": 360,
+              "fileEncSha256": "U+XQfDQcC0YjYQyJxl/pCWgbF/1cai1uTKlujM6gaTQ=",
+              "directPath": "/v/t62.7161-24/26967776_1193857471903913_6358551226943809805_n.enc?ccb=11-4&oh=01_Q5AaIGtpU9SoV_SuSvV32qT9v5pzo-ucDtA77ObL8n_sjzId&oe=671D1BFE&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1727372980",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkKCQoLCwoODw0PDhUTERETFR8WGBYYFh8wHiMeHiMeMCozKScpMypMOzU1O0xXSUVJV2pfX2qFf4WuruoBCQkJCQoJCgsLCg4PDQ8OFRMRERMVHxYYFhgWHzAeIx4eIx4wKjMpJykzKkw7NTU7TFdJRUlXal9faoV/ha6u6v/CABEIAKAAWgMBIgACEQEDEQH/xAAtAAEBAQEAAwAAAAAAAAAAAAAAAQIFAwYHAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA+HAAAFOr0vWB1uZgQAAAFQAAAAAAAAAAAAAAAAADRkAAAADWaQAAAAFIAW5GmdBBWaVKZahFCwJRFEaq4eQYsqM6EWCyG7irrIv/xAAkEAACAQMDBAMBAAAAAAAAAAABEQIABAUQEzADEiFABjFgYf/aAAgBAQABPwDgweMOXytrjxOcN6RDhDcIUX9ONZf41LG5PrWJuUIQjLcuYi3bDcQZSYCTFHFEdPpzN7auc+3t3PMUQD3A+QnU4CM5RExIAkCQaP8AQ0fWf6w8Y9nxwPV+oNFSpUhS0ep1dPR6Olyf/8QAFBEBAAAAAAAAAAAAAAAAAAAAUP/aAAgBAgEBPwBz/8QAGBEAAgMAAAAAAAAAAAAAAAAAARARIFD/2gAIAQMBAT8A1YqF/9k=",
+              "contextInfo": {
+                "mentionedJid": [
+                  ""
+                ]
+              },
+              "streamingSidecar": "pK0B/YcRxSt4kGku78op2KNSWKZej4Ajo7rtkR3WAuEbPtqecE82GaiOeN3sIDie2slI+J8+rlmSXoEc1Ruulwo+a5iXwkBY/D2HC7pULTjncFGTojIG54GOTwd/TAPH15xCRupmNbFSSx/x/ltRAT+WzY2YuoX9uOJG5xtm9Q+yJF42HdONMHC/fo+pw7/vn1FHye8LiiGjyVxgz6WVgJfKlvZmzdJaDoaKB5jgVAAeGdL49s2fAIH1IuTKj1etKSgbO5t9SQpD+4ieUF+LGvbUQRLF81EyR4sArdEKs39gUbDxkwGp/1Ojuwgzpfs72IGZKMtzG3BXON0mqplS5+dorxRrlfE4CcwyLkh21nPMTHbpkfOFF1oXtO0bT9+vdCuo9PVJw0vDEljo8sID6QXGO+MxEpJSeBr5KfSKtSv2VpBkK3FdLAC53OekEGen2i1bo1YaGO5sFMCoYOc=",
+              "thumbnailDirectPath": "/v/t62.36147-24/19381202_1177285466689647_6893555450857081237_n.enc?ccb=11-4&oh=01_Q5AaILxS_B3-_z0CgltjJsCfThPQmQnC4hv0aV6_GxAZfond&oe=671D1633&_nc_sid=5e03e0",
+              "thumbnailSha256": "k6mmD1O9cvht4z3dFj/8a6mcRlyFOm/Fvzlg7GMwv1I=",
+              "thumbnailEncSha256": "G7gELue2xywPNd/DSL7laM4fOZR1FAgE0ZUo9pICgMM="
+            }
+          },
+          "remoteJid": "status@broadcast",
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "iJZmEsuVQJxyPBKEN/V+Xc+SH+2LcU1SS0yENMQVTV8="
+      }
+    },
+    "id": "F8FC2A74BE815F6E6802BEDF77CC780C",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Addo",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "17515DEB01971B8E8E82760740C7F0FD",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7161-24/26967776_1193857471903913_6358551226943809805_n.enc?ccb=11-4&oh=01_Q5AaIGtpU9SoV_SuSvV32qT9v5pzo-ucDtA77ObL8n_sjzId&oe=671D1BFE&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "lmTc98yo1fkTmlxMvRyEEQfvjE1RtQLchWpQgu3HRFk=",
+            "fileLength": "2238498",
+            "seconds": 19,
+            "mediaKey": "fSGhmRZH15Wo4eWUFY143O5YXPLUph790qnDfjOu7AI=",
+            "caption": "😊𝙶𝙽 𝚕𝚊𝚜𝚜𝚊𝚗𝚊 𝚕𝚊𝚖𝚊𝚢𝚘💗☝️",
+            "height": 640,
+            "width": 360,
+            "fileEncSha256": "U+XQfDQcC0YjYQyJxl/pCWgbF/1cai1uTKlujM6gaTQ=",
+            "directPath": "/v/t62.7161-24/26967776_1193857471903913_6358551226943809805_n.enc?ccb=11-4&oh=01_Q5AaIGtpU9SoV_SuSvV32qT9v5pzo-ucDtA77ObL8n_sjzId&oe=671D1BFE&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1727372980",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkKCQoLCwoODw0PDhUTERETFR8WGBYYFh8wHiMeHiMeMCozKScpMypMOzU1O0xXSUVJV2pfX2qFf4WuruoBCQkJCQoJCgsLCg4PDQ8OFRMRERMVHxYYFhgWHzAeIx4eIx4wKjMpJykzKkw7NTU7TFdJRUlXal9faoV/ha6u6v/CABEIAKAAWgMBIgACEQEDEQH/xAAtAAEBAQEAAwAAAAAAAAAAAAAAAQIFAwYHAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA+HAAAFOr0vWB1uZgQAAAFQAAAAAAAAAAAAAAAAADRkAAAADWaQAAAAFIAW5GmdBBWaVKZahFCwJRFEaq4eQYsqM6EWCyG7irrIv/xAAkEAACAQMDBAMBAAAAAAAAAAABEQIABAUQEzADEiFABjFgYf/aAAgBAQABPwDgweMOXytrjxOcN6RDhDcIUX9ONZf41LG5PrWJuUIQjLcuYi3bDcQZSYCTFHFEdPpzN7auc+3t3PMUQD3A+QnU4CM5RExIAkCQaP8AQ0fWf6w8Y9nxwPV+oNFSpUhS0ep1dPR6Olyf/8QAFBEBAAAAAAAAAAAAAAAAAAAAUP/aAAgBAgEBPwBz/8QAGBEAAgMAAAAAAAAAAAAAAAAAARARIFD/2gAIAQMBAT8A1YqF/9k=",
+            "contextInfo": {
+              "mentionedJid": [
+                ""
+              ]
+            },
+            "streamingSidecar": "pK0B/YcRxSt4kGku78op2KNSWKZej4Ajo7rtkR3WAuEbPtqecE82GaiOeN3sIDie2slI+J8+rlmSXoEc1Ruulwo+a5iXwkBY/D2HC7pULTjncFGTojIG54GOTwd/TAPH15xCRupmNbFSSx/x/ltRAT+WzY2YuoX9uOJG5xtm9Q+yJF42HdONMHC/fo+pw7/vn1FHye8LiiGjyVxgz6WVgJfKlvZmzdJaDoaKB5jgVAAeGdL49s2fAIH1IuTKj1etKSgbO5t9SQpD+4ieUF+LGvbUQRLF81EyR4sArdEKs39gUbDxkwGp/1Ojuwgzpfs72IGZKMtzG3BXON0mqplS5+dorxRrlfE4CcwyLkh21nPMTHbpkfOFF1oXtO0bT9+vdCuo9PVJw0vDEljo8sID6QXGO+MxEpJSeBr5KfSKtSv2VpBkK3FdLAC53OekEGen2i1bo1YaGO5sFMCoYOc=",
+            "thumbnailDirectPath": "/v/t62.36147-24/19381202_1177285466689647_6893555450857081237_n.enc?ccb=11-4&oh=01_Q5AaILxS_B3-_z0CgltjJsCfThPQmQnC4hv0aV6_GxAZfond&oe=671D1633&_nc_sid=5e03e0",
+            "thumbnailSha256": "k6mmD1O9cvht4z3dFj/8a6mcRlyFOm/Fvzlg7GMwv1I=",
+            "thumbnailEncSha256": "G7gELue2xywPNd/DSL7laM4fOZR1FAgE0ZUo9pICgMM="
+          }
+        },
+        "remoteJid": "status@broadcast",
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "Addo",
+    "quoted": {
+      "videoMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7161-24/26967776_1193857471903913_6358551226943809805_n.enc?ccb=11-4&oh=01_Q5AaIGtpU9SoV_SuSvV32qT9v5pzo-ucDtA77ObL8n_sjzId&oe=671D1BFE&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "video/mp4",
+        "fileSha256": "lmTc98yo1fkTmlxMvRyEEQfvjE1RtQLchWpQgu3HRFk=",
+        "fileLength": "2238498",
+        "seconds": 19,
+        "mediaKey": "fSGhmRZH15Wo4eWUFY143O5YXPLUph790qnDfjOu7AI=",
+        "caption": "😊𝙶𝙽 𝚕𝚊𝚜𝚜𝚊𝚗𝚊 𝚕𝚊𝚖𝚊𝚢𝚘💗☝️",
+        "height": 640,
+        "width": 360,
+        "fileEncSha256": "U+XQfDQcC0YjYQyJxl/pCWgbF/1cai1uTKlujM6gaTQ=",
+        "directPath": "/v/t62.7161-24/26967776_1193857471903913_6358551226943809805_n.enc?ccb=11-4&oh=01_Q5AaIGtpU9SoV_SuSvV32qT9v5pzo-ucDtA77ObL8n_sjzId&oe=671D1BFE&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1727372980",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkKCQoLCwoODw0PDhUTERETFR8WGBYYFh8wHiMeHiMeMCozKScpMypMOzU1O0xXSUVJV2pfX2qFf4WuruoBCQkJCQoJCgsLCg4PDQ8OFRMRERMVHxYYFhgWHzAeIx4eIx4wKjMpJykzKkw7NTU7TFdJRUlXal9faoV/ha6u6v/CABEIAKAAWgMBIgACEQEDEQH/xAAtAAEBAQEAAwAAAAAAAAAAAAAAAQIFAwYHAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA+HAAAFOr0vWB1uZgQAAAFQAAAAAAAAAAAAAAAAADRkAAAADWaQAAAAFIAW5GmdBBWaVKZahFCwJRFEaq4eQYsqM6EWCyG7irrIv/xAAkEAACAQMDBAMBAAAAAAAAAAABEQIABAUQEzADEiFABjFgYf/aAAgBAQABPwDgweMOXytrjxOcN6RDhDcIUX9ONZf41LG5PrWJuUIQjLcuYi3bDcQZSYCTFHFEdPpzN7auc+3t3PMUQD3A+QnU4CM5RExIAkCQaP8AQ0fWf6w8Y9nxwPV+oNFSpUhS0ep1dPR6Olyf/8QAFBEBAAAAAAAAAAAAAAAAAAAAUP/aAAgBAgEBPwBz/8QAGBEAAgMAAAAAAAAAAAAAAAAAARARIFD/2gAIAQMBAT8A1YqF/9k=",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ]
+        },
+        "streamingSidecar": "pK0B/YcRxSt4kGku78op2KNSWKZej4Ajo7rtkR3WAuEbPtqecE82GaiOeN3sIDie2slI+J8+rlmSXoEc1Ruulwo+a5iXwkBY/D2HC7pULTjncFGTojIG54GOTwd/TAPH15xCRupmNbFSSx/x/ltRAT+WzY2YuoX9uOJG5xtm9Q+yJF42HdONMHC/fo+pw7/vn1FHye8LiiGjyVxgz6WVgJfKlvZmzdJaDoaKB5jgVAAeGdL49s2fAIH1IuTKj1etKSgbO5t9SQpD+4ieUF+LGvbUQRLF81EyR4sArdEKs39gUbDxkwGp/1Ojuwgzpfs72IGZKMtzG3BXON0mqplS5+dorxRrlfE4CcwyLkh21nPMTHbpkfOFF1oXtO0bT9+vdCuo9PVJw0vDEljo8sID6QXGO+MxEpJSeBr5KfSKtSv2VpBkK3FdLAC53OekEGen2i1bo1YaGO5sFMCoYOc=",
+        "thumbnailDirectPath": "/v/t62.36147-24/19381202_1177285466689647_6893555450857081237_n.enc?ccb=11-4&oh=01_Q5AaILxS_B3-_z0CgltjJsCfThPQmQnC4hv0aV6_GxAZfond&oe=671D1633&_nc_sid=5e03e0",
+        "thumbnailSha256": "k6mmD1O9cvht4z3dFj/8a6mcRlyFOm/Fvzlg7GMwv1I=",
+        "thumbnailEncSha256": "G7gELue2xywPNd/DSL7laM4fOZR1FAgE0ZUo9pICgMM="
+      }
+    }
+  }
+]

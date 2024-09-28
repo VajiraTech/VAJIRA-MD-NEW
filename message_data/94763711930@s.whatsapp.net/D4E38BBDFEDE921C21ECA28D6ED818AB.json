@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "D4E38BBDFEDE921C21ECA28D6ED818AB"
+    },
+    "messageTimestamp": 1727485688,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "conversation": "VAJIRA-MD=udd0EBDS#hBRsy2T4EjSaBdjAFkBIp_JUU8qE9hWftI8OzriLl-c",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "cA3GpsdOMyuBFg==",
+          "senderTimestamp": "1727485637",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "D4E38BBDFEDE921C21ECA28D6ED818AB",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "VAJIRA-MD=udd0EBDS#hBRsy2T4EjSaBdjAFkBIp_JUU8qE9hWftI8OzriLl-c",
+    "mentionUser": [],
+    "body": "VAJIRA-MD=udd0EBDS#hBRsy2T4EjSaBdjAFkBIp_JUU8qE9hWftI8OzriLl-c",
+    "quoted": null
+  }
+]

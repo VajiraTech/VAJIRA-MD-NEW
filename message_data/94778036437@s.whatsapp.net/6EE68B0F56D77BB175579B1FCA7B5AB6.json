@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6EE68B0F56D77BB175579B1FCA7B5AB6"
+    },
+    "messageTimestamp": 1727449652,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytaud https://youtube.com/watch?v=nFgsBxw-zWQ",
+        "selectedDisplayText": "Audio 🎧",
+        "contextInfo": {
+          "stanzaId": "C7EB32BD0A3477CD0070CE29AA8FAD73",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-d37ca8fb-98b8-4700-b25d-e2d6305be04c?ccb=9-4&oh=01_Q5AaIAUAGJSOL9Ehy-yRDy7ThOoD-RA1fQnPY34iAkQN5sCa&oe=671E5281&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "I45BE4Js1sHI5IJB5YYasN9wRc7Tw4Ruk+yyDGvo9RQ=",
+                  "fileLength": "168512",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "NBEn4iODbNUU1s9a65b9bY76PHgX8M0jN/y7ilGSdys=",
+                  "fileEncSha256": "fjUxSv6HfrOq34+uBicofYAB03zif8KuJcKCrXWhvpg=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-d37ca8fb-98b8-4700-b25d-e2d6305be04c?ccb=9-4&oh=01_Q5AaIAUAGJSOL9Ehy-yRDy7ThOoD-RA1fQnPY34iAkQN5sCa&oe=671E5281&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727449630",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMBBAIFBv/EACgQAAIBAgUCBgMAAAAAAAAAAAECAwARBBITITEFQRQiMlFhcYGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIx/9oADAMBAAIRAxEAPwCvHGl0SSZMosqt22+RS5MIRdo2dZGPlkj3HawJ7f2humyRYFcTr4cmGFXVNM8W4+eeanp/VIocOI8UJEO5abix2sB77CqTjXbWdHLGFUXWMqQqyDMWkHqtyPmlrJh5MGhOikrR5wpQefe31+6XN4JJ0Y6+nJuzlQCoIuABx9/iqWIfCpIEw+YRoALt6jvR8JR9DbVZ5j0sIZZCukRbMbWtXPOzFWFzbfvRRTmTr6zLnKBfa1VZCfeiiiS2/9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Aayi Nai -Stree 2 | Shraddha Kapoor | Rajkummar Rao | Sachin-Jigar |Pawan Singh,Simran,Divya,Amitabh\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=nFgsBxw-zWQ\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=nFgsBxw-zWQ\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=nFgsBxw-zWQ\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 0
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "HDiDUSICVxChZO6mhzvbQG64KSbmN7yFSaW/IKl+5SU="
+      }
+    },
+    "id": "6EE68B0F56D77BB175579B1FCA7B5AB6",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytaud https://youtube.com/watch?v=nFgsBxw-zWQ",
+      "selectedDisplayText": "Audio 🎧",
+      "contextInfo": {
+        "stanzaId": "C7EB32BD0A3477CD0070CE29AA8FAD73",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-d37ca8fb-98b8-4700-b25d-e2d6305be04c?ccb=9-4&oh=01_Q5AaIAUAGJSOL9Ehy-yRDy7ThOoD-RA1fQnPY34iAkQN5sCa&oe=671E5281&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "I45BE4Js1sHI5IJB5YYasN9wRc7Tw4Ruk+yyDGvo9RQ=",
+                "fileLength": "168512",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "NBEn4iODbNUU1s9a65b9bY76PHgX8M0jN/y7ilGSdys=",
+                "fileEncSha256": "fjUxSv6HfrOq34+uBicofYAB03zif8KuJcKCrXWhvpg=",
+                "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-d37ca8fb-98b8-4700-b25d-e2d6305be04c?ccb=9-4&oh=01_Q5AaIAUAGJSOL9Ehy-yRDy7ThOoD-RA1fQnPY34iAkQN5sCa&oe=671E5281&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727449630",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMBBAIFBv/EACgQAAIBAgUCBgMAAAAAAAAAAAECAwARBBITITEFQRQiMlFhcYGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIx/9oADAMBAAIRAxEAPwCvHGl0SSZMosqt22+RS5MIRdo2dZGPlkj3HawJ7f2humyRYFcTr4cmGFXVNM8W4+eeanp/VIocOI8UJEO5abix2sB77CqTjXbWdHLGFUXWMqQqyDMWkHqtyPmlrJh5MGhOikrR5wpQefe31+6XN4JJ0Y6+nJuzlQCoIuABx9/iqWIfCpIEw+YRoALt6jvR8JR9DbVZ5j0sIZZCukRbMbWtXPOzFWFzbfvRRTmTr6zLnKBfa1VZCfeiiiS2/9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Aayi Nai -Stree 2 | Shraddha Kapoor | Rajkummar Rao | Sachin-Jigar |Pawan Singh,Simran,Divya,Amitabh\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=nFgsBxw-zWQ\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=nFgsBxw-zWQ\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=nFgsBxw-zWQ\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 0
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytaud https://youtube.com/watch?v=nFgsBxw-zWQ",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-d37ca8fb-98b8-4700-b25d-e2d6305be04c?ccb=9-4&oh=01_Q5AaIAUAGJSOL9Ehy-yRDy7ThOoD-RA1fQnPY34iAkQN5sCa&oe=671E5281&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "I45BE4Js1sHI5IJB5YYasN9wRc7Tw4Ruk+yyDGvo9RQ=",
+            "fileLength": "168512",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "NBEn4iODbNUU1s9a65b9bY76PHgX8M0jN/y7ilGSdys=",
+            "fileEncSha256": "fjUxSv6HfrOq34+uBicofYAB03zif8KuJcKCrXWhvpg=",
+            "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-d37ca8fb-98b8-4700-b25d-e2d6305be04c?ccb=9-4&oh=01_Q5AaIAUAGJSOL9Ehy-yRDy7ThOoD-RA1fQnPY34iAkQN5sCa&oe=671E5281&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727449630",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMBBAIFBv/EACgQAAIBAgUCBgMAAAAAAAAAAAECAwARBBITITEFQRQiMlFhcYGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIx/9oADAMBAAIRAxEAPwCvHGl0SSZMosqt22+RS5MIRdo2dZGPlkj3HawJ7f2humyRYFcTr4cmGFXVNM8W4+eeanp/VIocOI8UJEO5abix2sB77CqTjXbWdHLGFUXWMqQqyDMWkHqtyPmlrJh5MGhOikrR5wpQefe31+6XN4JJ0Y6+nJuzlQCoIuABx9/iqWIfCpIEw+YRoALt6jvR8JR9DbVZ5j0sIZZCukRbMbWtXPOzFWFzbfvRRTmTr6zLnKBfa1VZCfeiiiS2/9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Aayi Nai -Stree 2 | Shraddha Kapoor | Rajkummar Rao | Sachin-Jigar |Pawan Singh,Simran,Divya,Amitabh\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=nFgsBxw-zWQ\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=nFgsBxw-zWQ\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=nFgsBxw-zWQ\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

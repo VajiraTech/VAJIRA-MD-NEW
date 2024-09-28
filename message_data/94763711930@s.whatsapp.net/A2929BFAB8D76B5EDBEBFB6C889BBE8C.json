@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "A2929BFAB8D76B5EDBEBFB6C889BBE8C"
+    },
+    "messageTimestamp": 1727484469,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "message": {
+      "conversation": "උයන්න මල්ලි අම්මට බෙහෙත් එහෙමත් බොන්න ඇති නෙ",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "A2929BFAB8D76B5EDBEBFB6C889BBE8C",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "උයන්න මල්ලි අම්මට බෙහෙත් එහෙමත් බොන්න ඇති නෙ",
+    "mentionUser": [],
+    "body": "උයන්න මල්ලි අම්මට බෙහෙත් එහෙමත් බොන්න ඇති නෙ",
+    "quoted": null
+  }
+]

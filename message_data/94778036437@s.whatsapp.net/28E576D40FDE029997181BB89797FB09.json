@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "28E576D40FDE029997181BB89797FB09"
+    },
+    "messageTimestamp": 1727444172,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytaud https://youtube.com/watch?v=8Sg6VU2n_Io",
+        "selectedDisplayText": "Audio 🎧",
+        "contextInfo": {
+          "stanzaId": "299E16F603D01408D15016990A3494EA",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-349458d9-4382-42c9-a92b-fbdf8fa0eaa3?ccb=9-4&oh=01_Q5AaIJ1sNG1rypQixadUCuf9Pfv7T6ZVwTtpR15uF6DjnuZW&oe=671E0A5A&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "lSJlR/w4eyrKldhqapsbZJ7shhSjQ5/tv/zdL1CQZh4=",
+                  "fileLength": "153898",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "hRRjt2twx3wHM8ymV3oRpdGBQ3g5X3cUaRD+QfbwOF0=",
+                  "fileEncSha256": "fQi3FVge6nUa8kqqM8FssizspcohOZfz+OnKPrec3yo=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-349458d9-4382-42c9-a92b-fbdf8fa0eaa3?ccb=9-4&oh=01_Q5AaIJ1sNG1rypQixadUCuf9Pfv7T6ZVwTtpR15uF6DjnuZW&oe=671E0A5A&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727444164",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABBEhBRIiMUFREzJhcaHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAgP/xAAcEQACAgMBAQAAAAAAAAAAAAAAAgERAxIxIXH/2gAMAwEAAhEDEQA/AJfDuEOYhLMuEZAYyGG8/n+3TUvCmWMyIcMvUS7axjxgUrwq6jhtg95dOcSEIrTHQAGsDwc/qsX93ayzxSW7MVSPlOSwzs+KSVs7ZdbqPnhi6Y4W6MXASInEhIcrvHbPejiVt8SKwXpdSDj379eq7QPDdwO/SGg5SuT3J1XdoY3s5HncSKWCtHG219MPvTst7UkVI0uIIVz0xgjRx3FJ5PKNmiijJVODFszDOCdkeao/TGxGjjxRRRXoMnD/2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* नॉनस्टॉप कडक वाजणारी डीजे गाणी 2024 Marathi DJ song | DJ Remix | New Marathi Hindi DJ Songs\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=8Sg6VU2n_Io\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=8Sg6VU2n_Io\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=8Sg6VU2n_Io\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 0
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "ECHjsOG3Tf7bbvX5VNG2CrghV2ViDXqrAY38IfUPZBQ="
+      }
+    },
+    "id": "28E576D40FDE029997181BB89797FB09",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytaud https://youtube.com/watch?v=8Sg6VU2n_Io",
+      "selectedDisplayText": "Audio 🎧",
+      "contextInfo": {
+        "stanzaId": "299E16F603D01408D15016990A3494EA",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-349458d9-4382-42c9-a92b-fbdf8fa0eaa3?ccb=9-4&oh=01_Q5AaIJ1sNG1rypQixadUCuf9Pfv7T6ZVwTtpR15uF6DjnuZW&oe=671E0A5A&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "lSJlR/w4eyrKldhqapsbZJ7shhSjQ5/tv/zdL1CQZh4=",
+                "fileLength": "153898",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "hRRjt2twx3wHM8ymV3oRpdGBQ3g5X3cUaRD+QfbwOF0=",
+                "fileEncSha256": "fQi3FVge6nUa8kqqM8FssizspcohOZfz+OnKPrec3yo=",
+                "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-349458d9-4382-42c9-a92b-fbdf8fa0eaa3?ccb=9-4&oh=01_Q5AaIJ1sNG1rypQixadUCuf9Pfv7T6ZVwTtpR15uF6DjnuZW&oe=671E0A5A&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727444164",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABBEhBRIiMUFREzJhcaHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAgP/xAAcEQACAgMBAQAAAAAAAAAAAAAAAgERAxIxIXH/2gAMAwEAAhEDEQA/AJfDuEOYhLMuEZAYyGG8/n+3TUvCmWMyIcMvUS7axjxgUrwq6jhtg95dOcSEIrTHQAGsDwc/qsX93ayzxSW7MVSPlOSwzs+KSVs7ZdbqPnhi6Y4W6MXASInEhIcrvHbPejiVt8SKwXpdSDj379eq7QPDdwO/SGg5SuT3J1XdoY3s5HncSKWCtHG219MPvTst7UkVI0uIIVz0xgjRx3FJ5PKNmiijJVODFszDOCdkeao/TGxGjjxRRRXoMnD/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* नॉनस्टॉप कडक वाजणारी डीजे गाणी 2024 Marathi DJ song | DJ Remix | New Marathi Hindi DJ Songs\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=8Sg6VU2n_Io\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=8Sg6VU2n_Io\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=8Sg6VU2n_Io\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 0
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytaud https://youtube.com/watch?v=8Sg6VU2n_Io",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-349458d9-4382-42c9-a92b-fbdf8fa0eaa3?ccb=9-4&oh=01_Q5AaIJ1sNG1rypQixadUCuf9Pfv7T6ZVwTtpR15uF6DjnuZW&oe=671E0A5A&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "lSJlR/w4eyrKldhqapsbZJ7shhSjQ5/tv/zdL1CQZh4=",
+            "fileLength": "153898",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "hRRjt2twx3wHM8ymV3oRpdGBQ3g5X3cUaRD+QfbwOF0=",
+            "fileEncSha256": "fQi3FVge6nUa8kqqM8FssizspcohOZfz+OnKPrec3yo=",
+            "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-349458d9-4382-42c9-a92b-fbdf8fa0eaa3?ccb=9-4&oh=01_Q5AaIJ1sNG1rypQixadUCuf9Pfv7T6ZVwTtpR15uF6DjnuZW&oe=671E0A5A&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727444164",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABBEhBRIiMUFREzJhcaHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAgP/xAAcEQACAgMBAQAAAAAAAAAAAAAAAgERAxIxIXH/2gAMAwEAAhEDEQA/AJfDuEOYhLMuEZAYyGG8/n+3TUvCmWMyIcMvUS7axjxgUrwq6jhtg95dOcSEIrTHQAGsDwc/qsX93ayzxSW7MVSPlOSwzs+KSVs7ZdbqPnhi6Y4W6MXASInEhIcrvHbPejiVt8SKwXpdSDj379eq7QPDdwO/SGg5SuT3J1XdoY3s5HncSKWCtHG219MPvTst7UkVI0uIIVz0xgjRx3FJ5PKNmiijJVODFszDOCdkeao/TGxGjjxRRRXoMnD/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* नॉनस्टॉप कडक वाजणारी डीजे गाणी 2024 Marathi DJ song | DJ Remix | New Marathi Hindi DJ Songs\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=8Sg6VU2n_Io\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=8Sg6VU2n_Io\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=8Sg6VU2n_Io\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

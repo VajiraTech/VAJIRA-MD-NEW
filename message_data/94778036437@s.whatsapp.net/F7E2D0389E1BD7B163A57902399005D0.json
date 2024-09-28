@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F7E2D0389E1BD7B163A57902399005D0"
+    },
+    "messageTimestamp": 1727448208,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytdoc https://youtube.com/watch?v=JUzCf5fDXPc",
+        "selectedDisplayText": "Document 📁",
+        "contextInfo": {
+          "stanzaId": "1C286B371C1C0CF43BAEF58765AD1A13",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-d1033e79-4e90-43bc-b430-f533a023668d?ccb=9-4&oh=01_Q5AaIOT317cDMyj9LXBJdZIWOUOKrvyWyyXN5EYjveSgmhJl&oe=671E4F76&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "sIj16nfCo/h5iSTTmLotbnRkoaRAaJNAeWmBQXBZlCc=",
+                  "fileLength": "87564",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "qliLlPS99E8+HAJBttpLk+p2UlXfd1ZXTWvTTLnUm9Y=",
+                  "fileEncSha256": "bcBbxCuP4efBpRWAXCxBzniS8+WXWpWmPlu7ECblXS0=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-d1033e79-4e90-43bc-b430-f533a023668d?ccb=9-4&oh=01_Q5AaIOT317cDMyj9LXBJdZIWOUOKrvyWyyXN5EYjveSgmhJl&oe=671E4F76&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727448198",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAnEAABAwMCBQUBAAAAAAAAAAABAAIDBAURITESQVFhgRMzNHGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwDIMaI28GSTndaGyV00NlqI6Z4bMJDguG2g66cioT2tIPXsqNoMb7a+KcuY/wBQuBG50/PCuhc6NXqqlqLXCyocHzcQLnt0HPT7UDhxkqtdZGOpmtjkLiH4Lc7KRk90d0SlTxHVp0VS2/BmPMOCEJINeCNZ77/H8SxQhEZ//9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* 👑Appa 💥 #djsound #dj #viral #shortsfeed #soundchek #trend #trending #sound #sounds #viralshorts\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=JUzCf5fDXPc\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=JUzCf5fDXPc\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=JUzCf5fDXPc\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "q9EAFeRGyXJLkNAb7na35KcTM/f2BR3CuVAMaOtNcg4="
+      }
+    },
+    "id": "F7E2D0389E1BD7B163A57902399005D0",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytdoc https://youtube.com/watch?v=JUzCf5fDXPc",
+      "selectedDisplayText": "Document 📁",
+      "contextInfo": {
+        "stanzaId": "1C286B371C1C0CF43BAEF58765AD1A13",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-d1033e79-4e90-43bc-b430-f533a023668d?ccb=9-4&oh=01_Q5AaIOT317cDMyj9LXBJdZIWOUOKrvyWyyXN5EYjveSgmhJl&oe=671E4F76&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "sIj16nfCo/h5iSTTmLotbnRkoaRAaJNAeWmBQXBZlCc=",
+                "fileLength": "87564",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "qliLlPS99E8+HAJBttpLk+p2UlXfd1ZXTWvTTLnUm9Y=",
+                "fileEncSha256": "bcBbxCuP4efBpRWAXCxBzniS8+WXWpWmPlu7ECblXS0=",
+                "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-d1033e79-4e90-43bc-b430-f533a023668d?ccb=9-4&oh=01_Q5AaIOT317cDMyj9LXBJdZIWOUOKrvyWyyXN5EYjveSgmhJl&oe=671E4F76&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727448198",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAnEAABAwMCBQUBAAAAAAAAAAABAAIDBAURITESQVFhgRMzNHGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwDIMaI28GSTndaGyV00NlqI6Z4bMJDguG2g66cioT2tIPXsqNoMb7a+KcuY/wBQuBG50/PCuhc6NXqqlqLXCyocHzcQLnt0HPT7UDhxkqtdZGOpmtjkLiH4Lc7KRk90d0SlTxHVp0VS2/BmPMOCEJINeCNZ77/H8SxQhEZ//9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* 👑Appa 💥 #djsound #dj #viral #shortsfeed #soundchek #trend #trending #sound #sounds #viralshorts\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=JUzCf5fDXPc\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=JUzCf5fDXPc\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=JUzCf5fDXPc\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytdoc https://youtube.com/watch?v=JUzCf5fDXPc",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-d1033e79-4e90-43bc-b430-f533a023668d?ccb=9-4&oh=01_Q5AaIOT317cDMyj9LXBJdZIWOUOKrvyWyyXN5EYjveSgmhJl&oe=671E4F76&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "sIj16nfCo/h5iSTTmLotbnRkoaRAaJNAeWmBQXBZlCc=",
+            "fileLength": "87564",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "qliLlPS99E8+HAJBttpLk+p2UlXfd1ZXTWvTTLnUm9Y=",
+            "fileEncSha256": "bcBbxCuP4efBpRWAXCxBzniS8+WXWpWmPlu7ECblXS0=",
+            "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-d1033e79-4e90-43bc-b430-f533a023668d?ccb=9-4&oh=01_Q5AaIOT317cDMyj9LXBJdZIWOUOKrvyWyyXN5EYjveSgmhJl&oe=671E4F76&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727448198",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAnEAABAwMCBQUBAAAAAAAAAAABAAIDBAURITESQVFhgRMzNHGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwDIMaI28GSTndaGyV00NlqI6Z4bMJDguG2g66cioT2tIPXsqNoMb7a+KcuY/wBQuBG50/PCuhc6NXqqlqLXCyocHzcQLnt0HPT7UDhxkqtdZGOpmtjkLiH4Lc7KRk90d0SlTxHVp0VS2/BmPMOCEJINeCNZ77/H8SxQhEZ//9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* 👑Appa 💥 #djsound #dj #viral #shortsfeed #soundchek #trend #trending #sound #sounds #viralshorts\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=JUzCf5fDXPc\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=JUzCf5fDXPc\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=JUzCf5fDXPc\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

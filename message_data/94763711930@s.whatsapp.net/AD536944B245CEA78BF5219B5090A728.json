@@ -1,0 +1,95 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "AD536944B245CEA78BF5219B5090A728"
+    },
+    "messageTimestamp": 1727437344,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/29755882_1088850855992824_5266571348345935480_n.enc?ccb=11-4&oh=01_Q5AaIOs7jPap3Vhcsf6raeJX8bVZcIZx8QvlRcrjywTm5HcW&oe=671DF2E0&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "zaDmWms3gnetY0NeXKxbVn+OCXvvB1T3PqbztnWpRtA=",
+        "fileEncSha256": "lSb0KYlY2ugKh4X0MKOb/wQTRb3dIDi+/ZfPROez67g=",
+        "mediaKey": "ynpo9U9AlKrcuFRl7RrE1OI/9w0ZEeWjNsuEO2c+OXY=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/29755882_1088850855992824_5266571348345935480_n.enc?ccb=11-4&oh=01_Q5AaIOs7jPap3Vhcsf6raeJX8bVZcIZx8QvlRcrjywTm5HcW&oe=671DF2E0&_nc_sid=5e03e0",
+        "fileLength": "263386",
+        "mediaKeyTimestamp": "1727437341",
+        "firstFrameLength": 8138,
+        "firstFrameSidecar": "7QZPmtjPEaYmvA==",
+        "isAnimated": true,
+        "contextInfo": {
+          "stanzaId": "A14EE9A7352E45C47C1ECB8947D44791",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "තොටනම් බොරලු දාලා අරින්නෙ ඈ ගොන් කතා කියන්නෙ"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1727437340976",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "AD536944B245CEA78BF5219B5090A728",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/29755882_1088850855992824_5266571348345935480_n.enc?ccb=11-4&oh=01_Q5AaIOs7jPap3Vhcsf6raeJX8bVZcIZx8QvlRcrjywTm5HcW&oe=671DF2E0&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "zaDmWms3gnetY0NeXKxbVn+OCXvvB1T3PqbztnWpRtA=",
+      "fileEncSha256": "lSb0KYlY2ugKh4X0MKOb/wQTRb3dIDi+/ZfPROez67g=",
+      "mediaKey": "ynpo9U9AlKrcuFRl7RrE1OI/9w0ZEeWjNsuEO2c+OXY=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/29755882_1088850855992824_5266571348345935480_n.enc?ccb=11-4&oh=01_Q5AaIOs7jPap3Vhcsf6raeJX8bVZcIZx8QvlRcrjywTm5HcW&oe=671DF2E0&_nc_sid=5e03e0",
+      "fileLength": "263386",
+      "mediaKeyTimestamp": "1727437341",
+      "firstFrameLength": 8138,
+      "firstFrameSidecar": "7QZPmtjPEaYmvA==",
+      "isAnimated": true,
+      "contextInfo": {
+        "stanzaId": "A14EE9A7352E45C47C1ECB8947D44791",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "තොටනම් බොරලු දාලා අරින්නෙ ඈ ගොන් කතා කියන්නෙ"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1727437340976",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "තොටනම් බොරලු දාලා අරින්නෙ ඈ ගොන් කතා කියන්නෙ"
+    }
+  }
+]
