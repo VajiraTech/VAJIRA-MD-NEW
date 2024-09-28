@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "40771C622B32B118A7153A28FACEA16C"
+    },
+    "messageTimestamp": 1727437355,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "මම මම😗",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "8D7167B38E1FA6CB0F1A5BDB3E1F6811",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "සිතුයි අම්මයි තාත්තයි බලාගන්නෙ මමද😒"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "40771C622B32B118A7153A28FACEA16C",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "මම මම😗",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "8D7167B38E1FA6CB0F1A5BDB3E1F6811",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "සිතුයි අම්මයි තාත්තයි බලාගන්නෙ මමද😒"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "මම මම😗",
+    "quoted": {
+      "conversation": "සිතුයි අම්මයි තාත්තයි බලාගන්නෙ මමද😒"
+    }
+  }
+]

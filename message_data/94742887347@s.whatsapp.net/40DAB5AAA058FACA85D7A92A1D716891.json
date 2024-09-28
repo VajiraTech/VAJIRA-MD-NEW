@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94742887347@s.whatsapp.net",
+      "fromMe": false,
+      "id": "40DAB5AAA058FACA85D7A92A1D716891"
+    },
+    "messageTimestamp": 1727486236,
+    "pushName": "💖🕊️°SHENALYY°🕊️💖",
+    "broadcast": false,
+    "message": {
+      "conversation": "Good morning",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "rTW0L1XR7NwGMMlg7vosG4PR+cNS1Wq4dByyuFaD3Uw="
+      }
+    },
+    "id": "40DAB5AAA058FACA85D7A92A1D716891",
+    "chat": "94742887347@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94742887347@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Good morning",
+    "mentionUser": [],
+    "body": "Good morning",
+    "quoted": null
+  }
+]

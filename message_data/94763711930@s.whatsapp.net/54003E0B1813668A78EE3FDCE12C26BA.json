@@ -1,0 +1,146 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "54003E0B1813668A78EE3FDCE12C26BA"
+    },
+    "messageTimestamp": 1727486822,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "viewOnceMessage": {
+        "message": {
+          "messageContextInfo": {
+            "deviceListMetadata": {},
+            "deviceListMetadataVersion": 2
+          },
+          "interactiveMessage": {
+            "header": {
+              "title": "",
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-203d3e9e-a22a-4eb7-9e40-24174156d262?ccb=9-4&oh=01_Q5AaIAjZ76LwO_6cxHe70VQ1AcKxqyNMIP-AQ0gF-XLIXryF&oe=671ECC90&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "ngj+zoyTGpQCigEXFGGcIGOaAfJ1QsC/LB1GoUadiK0=",
+                "fileLength": "56483",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "ocuaaZvP+AxA0QjFLpd3YU437kFtREgbEpbAJnDoMDA=",
+                "fileEncSha256": "6Z5Mb8e7pmpJ8zLOo6TBTkVURgbUrw7TeU0sl3z4X1Q=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-203d3e9e-a22a-4eb7-9e40-24174156d262?ccb=9-4&oh=01_Q5AaIAjZ76LwO_6cxHe70VQ1AcKxqyNMIP-AQ0gF-XLIXryF&oe=671ECC90&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727486820",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAfEAACAwACAgMAAAAAAAAAAAABAgADESExBBJBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4JWUDCgJ+9l1VS3OfZGUZ8HJmkg7KQQxBHR2BdZSEzEJ4O6ZUzqQQqAQztY2kn2I5O9yEBERA1MoHiVMANJ5OfsynuIgf//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* කොල්ලෝ රහසින් අාදරය කරන කෙල්ලෝ කරන පුoචි දේවල් 3ක්...\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=x3PXua4hM9A\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=x3PXua4hM9A\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=x3PXua4hM9A\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true,
+              "externalAdReply": {
+                "mediaType": "IMAGE",
+                "sourceUrl": "https://youtube.com/@gamingewingyt6216",
+                "renderLargerThumbnail": false
+              },
+              "forwardedNewsletterMessageInfo": {
+                "newsletterJid": "120363290448968237@newsletter",
+                "serverMessageId": 143,
+                "newsletterName": "VAJIRA MD"
+              }
+            }
+          }
+        }
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "54003E0B1813668A78EE3FDCE12C26BA",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "viewOnceMessage",
+    "msg": {
+      "header": {
+        "title": "",
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-203d3e9e-a22a-4eb7-9e40-24174156d262?ccb=9-4&oh=01_Q5AaIAjZ76LwO_6cxHe70VQ1AcKxqyNMIP-AQ0gF-XLIXryF&oe=671ECC90&_nc_sid=e6ed6c&mms3=true",
+          "mimetype": "image/jpeg",
+          "fileSha256": "ngj+zoyTGpQCigEXFGGcIGOaAfJ1QsC/LB1GoUadiK0=",
+          "fileLength": "56483",
+          "height": 720,
+          "width": 1280,
+          "mediaKey": "ocuaaZvP+AxA0QjFLpd3YU437kFtREgbEpbAJnDoMDA=",
+          "fileEncSha256": "6Z5Mb8e7pmpJ8zLOo6TBTkVURgbUrw7TeU0sl3z4X1Q=",
+          "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-203d3e9e-a22a-4eb7-9e40-24174156d262?ccb=9-4&oh=01_Q5AaIAjZ76LwO_6cxHe70VQ1AcKxqyNMIP-AQ0gF-XLIXryF&oe=671ECC90&_nc_sid=e6ed6c",
+          "mediaKeyTimestamp": "1727486820",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAfEAACAwACAgMAAAAAAAAAAAABAgADESExBBJBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4JWUDCgJ+9l1VS3OfZGUZ8HJmkg7KQQxBHR2BdZSEzEJ4O6ZUzqQQqAQztY2kn2I5O9yEBERA1MoHiVMANJ5OfsynuIgf//Z"
+        },
+        "hasMediaAttachment": true
+      },
+      "body": {
+        "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* කොල්ලෝ රහසින් අාදරය කරන කෙල්ලෝ කරන පුoචි දේවල් 3ක්...\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=x3PXua4hM9A\n"
+      },
+      "footer": {
+        "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+      },
+      "nativeFlowMessage": {
+        "buttons": [
+          {
+            "name": "quick_reply",
+            "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=x3PXua4hM9A\"}"
+          },
+          {
+            "name": "quick_reply",
+            "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=x3PXua4hM9A\"}"
+          }
+        ],
+        "messageParamsJson": ""
+      },
+      "contextInfo": {
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net",
+          ""
+        ],
+        "forwardingScore": 999,
+        "isForwarded": true,
+        "externalAdReply": {
+          "mediaType": "IMAGE",
+          "sourceUrl": "https://youtube.com/@gamingewingyt6216",
+          "renderLargerThumbnail": false
+        },
+        "forwardedNewsletterMessageInfo": {
+          "newsletterJid": "120363290448968237@newsletter",
+          "serverMessageId": 143,
+          "newsletterName": "VAJIRA MD"
+        }
+      }
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": null
+  }
+]

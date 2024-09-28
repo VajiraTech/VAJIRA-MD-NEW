@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CE14CAD02539A549DFDCED52908B397E"
+    },
+    "messageTimestamp": 1727446901,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytdoc https://youtube.com/watch?v=P6QRdi_cIoM",
+        "selectedDisplayText": "Document 📁",
+        "contextInfo": {
+          "stanzaId": "256FEDE8C17D8A6C40DCB9322AB01B12",
+          "participant": "94778036437@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-b3f35b2b-f1f6-4c22-aec9-fef44a8d6d78?ccb=9-4&oh=01_Q5AaICW8C9WAn5zSSDE4idqa2S0N9V29jBBkpm0TFLzEDEYV&oe=671CE02E&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "IjRA04zFqgXCdRWdFq840cftCvpJCKjEuFib78dU0aM=",
+                  "fileLength": "164755",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "P/jSUoqr1I+AvPq73HPG3U1asa/JXAZXXAggkz7pu+g=",
+                  "fileEncSha256": "tL+0bM4UX9WtRAHZnfpH54aGPSX30jMwI3TBO8Idnww=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-b3f35b2b-f1f6-4c22-aec9-fef44a8d6d78?ccb=9-4&oh=01_Q5AaICW8C9WAn5zSSDE4idqa2S0N9V29jBBkpm0TFLzEDEYV&oe=671CE02E&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727364053",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECBv/EACgQAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMUFRYQUUIiMkgYKh0v/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB4RAAMAAQQDAAAAAAAAAAAAAAABAgMhMTJBYYHB/9oADAMBAAIRAxEAPwDnrJrWOCBR6cJZmQ5bUc/epImtkmUiyiUqTkGTIOeOaRIkEYiQEaAukM2243ye+cAeK1aT5pcld8bLsvXx0rdU5WhJOSrrwPeW01Z9pG64AAEpxnPPNRbi/sIVdYLALNpK6yxOk9/NZMhwCWz2xn+ahXeZXw1xGAOjcj9UayPseZLKVVj9QsggC/TqfhGNyg3qpmkdX2dhsODRRW72J8XL19YszSgbSOPyNJYknJOTRRRorR//2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Sinhala songs collection | Sinhala old songs | ලස්සන ගීත පෙළක්\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=P6QRdi_cIoM\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=P6QRdi_cIoM\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=P6QRdi_cIoM\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94778036437@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94778036437@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "kU2loOYGjGhrpxE26Mxib7k4KYAv47DCE7AFlLCMJ6c="
+      }
+    },
+    "id": "CE14CAD02539A549DFDCED52908B397E",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytdoc https://youtube.com/watch?v=P6QRdi_cIoM",
+      "selectedDisplayText": "Document 📁",
+      "contextInfo": {
+        "stanzaId": "256FEDE8C17D8A6C40DCB9322AB01B12",
+        "participant": "94778036437@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-b3f35b2b-f1f6-4c22-aec9-fef44a8d6d78?ccb=9-4&oh=01_Q5AaICW8C9WAn5zSSDE4idqa2S0N9V29jBBkpm0TFLzEDEYV&oe=671CE02E&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "IjRA04zFqgXCdRWdFq840cftCvpJCKjEuFib78dU0aM=",
+                "fileLength": "164755",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "P/jSUoqr1I+AvPq73HPG3U1asa/JXAZXXAggkz7pu+g=",
+                "fileEncSha256": "tL+0bM4UX9WtRAHZnfpH54aGPSX30jMwI3TBO8Idnww=",
+                "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-b3f35b2b-f1f6-4c22-aec9-fef44a8d6d78?ccb=9-4&oh=01_Q5AaICW8C9WAn5zSSDE4idqa2S0N9V29jBBkpm0TFLzEDEYV&oe=671CE02E&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727364053",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECBv/EACgQAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMUFRYQUUIiMkgYKh0v/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB4RAAMAAQQDAAAAAAAAAAAAAAABAgMhMTJBYYHB/9oADAMBAAIRAxEAPwDnrJrWOCBR6cJZmQ5bUc/epImtkmUiyiUqTkGTIOeOaRIkEYiQEaAukM2243ye+cAeK1aT5pcld8bLsvXx0rdU5WhJOSrrwPeW01Z9pG64AAEpxnPPNRbi/sIVdYLALNpK6yxOk9/NZMhwCWz2xn+ahXeZXw1xGAOjcj9UayPseZLKVVj9QsggC/TqfhGNyg3qpmkdX2dhsODRRW72J8XL19YszSgbSOPyNJYknJOTRRRorR//2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Sinhala songs collection | Sinhala old songs | ලස්සන ගීත පෙළක්\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=P6QRdi_cIoM\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=P6QRdi_cIoM\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=P6QRdi_cIoM\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94778036437@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94778036437@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94778036437@s.whatsapp.net"
+    ],
+    "body": ".ytdoc https://youtube.com/watch?v=P6QRdi_cIoM",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-b3f35b2b-f1f6-4c22-aec9-fef44a8d6d78?ccb=9-4&oh=01_Q5AaICW8C9WAn5zSSDE4idqa2S0N9V29jBBkpm0TFLzEDEYV&oe=671CE02E&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "IjRA04zFqgXCdRWdFq840cftCvpJCKjEuFib78dU0aM=",
+            "fileLength": "164755",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "P/jSUoqr1I+AvPq73HPG3U1asa/JXAZXXAggkz7pu+g=",
+            "fileEncSha256": "tL+0bM4UX9WtRAHZnfpH54aGPSX30jMwI3TBO8Idnww=",
+            "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-b3f35b2b-f1f6-4c22-aec9-fef44a8d6d78?ccb=9-4&oh=01_Q5AaICW8C9WAn5zSSDE4idqa2S0N9V29jBBkpm0TFLzEDEYV&oe=671CE02E&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727364053",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECBv/EACgQAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMUFRYQUUIiMkgYKh0v/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB4RAAMAAQQDAAAAAAAAAAAAAAABAgMhMTJBYYHB/9oADAMBAAIRAxEAPwDnrJrWOCBR6cJZmQ5bUc/epImtkmUiyiUqTkGTIOeOaRIkEYiQEaAukM2243ye+cAeK1aT5pcld8bLsvXx0rdU5WhJOSrrwPeW01Z9pG64AAEpxnPPNRbi/sIVdYLALNpK6yxOk9/NZMhwCWz2xn+ahXeZXw1xGAOjcj9UayPseZLKVVj9QsggC/TqfhGNyg3qpmkdX2dhsODRRW72J8XL19YszSgbSOPyNJYknJOTRRRorR//2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* Sinhala songs collection | Sinhala old songs | ලස්සන ගීත පෙළක්\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=P6QRdi_cIoM\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=P6QRdi_cIoM\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=P6QRdi_cIoM\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94778036437@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

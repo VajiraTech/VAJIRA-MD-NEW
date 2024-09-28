@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "810211386B9AE39A5454D3DC16D3CE73"
+    },
+    "messageTimestamp": 1727449806,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "conversation": ". song dj roop",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "TjXXfxqtCb0E9EemfKrk40W3daTzH4W7F+f2rxJOgTA="
+      }
+    },
+    "id": "810211386B9AE39A5454D3DC16D3CE73",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ". song dj roop",
+    "mentionUser": [],
+    "body": ". song dj roop",
+    "quoted": null
+  }
+]

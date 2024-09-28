@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "DD57FA5FD98F21B17BD8F59F7E827394"
+    },
+    "messageTimestamp": 1727486812,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song  පුකරි පුකාරේ",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "cA3GpsdOMyuBFg==",
+          "senderTimestamp": "1727485637",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "DD57FA5FD98F21B17BD8F59F7E827394",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song  පුකරි පුකාරේ",
+    "mentionUser": [],
+    "body": ".song  පුකරි පුකාරේ",
+    "quoted": null
+  }
+]

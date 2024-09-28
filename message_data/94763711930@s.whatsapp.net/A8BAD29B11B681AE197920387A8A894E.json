@@ -1,0 +1,82 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "A8BAD29B11B681AE197920387A8A894E"
+    },
+    "messageTimestamp": 1727487231,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7114-24/30442330_560291746426412_6780050962497929597_n.enc?ccb=11-4&oh=01_Q5AaIN7qUMvocdqUaBXXXfk6WbfiCQGgRNDLQFb4m0rYy6mK&oe=671EDEDD&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/mpeg",
+        "fileSha256": "ROm/fCF2meCzHnIwn4uoLnfh9VOlRHOkziwgXj3ujk8=",
+        "fileLength": "4070223",
+        "seconds": 254,
+        "mediaKey": "pLfFBISeE67zm4I0vEP4MdA9092bbwu0tiN2+TBV+fY=",
+        "fileEncSha256": "czju1NsOsso9eX7vgKKmkb9KhIkYfBwqleKHckUA7cg=",
+        "directPath": "/v/t62.7114-24/30442330_560291746426412_6780050962497929597_n.enc?ccb=11-4&oh=01_Q5AaIN7qUMvocdqUaBXXXfk6WbfiCQGgRNDLQFb4m0rYy6mK&oe=671EDEDD&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1727487231",
+        "contextInfo": {
+          "stanzaId": "5B74BF172C467E695D5E6C5BB0FABDFA",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "templateButtonReplyMessage": {
+              "selectedId": ".ytaud https://youtube.com/watch?v=vh51pxSPGdY",
+              "selectedDisplayText": "Audio 🎧",
+              "selectedIndex": 0
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "A8BAD29B11B681AE197920387A8A894E",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/30442330_560291746426412_6780050962497929597_n.enc?ccb=11-4&oh=01_Q5AaIN7qUMvocdqUaBXXXfk6WbfiCQGgRNDLQFb4m0rYy6mK&oe=671EDEDD&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mpeg",
+      "fileSha256": "ROm/fCF2meCzHnIwn4uoLnfh9VOlRHOkziwgXj3ujk8=",
+      "fileLength": "4070223",
+      "seconds": 254,
+      "mediaKey": "pLfFBISeE67zm4I0vEP4MdA9092bbwu0tiN2+TBV+fY=",
+      "fileEncSha256": "czju1NsOsso9eX7vgKKmkb9KhIkYfBwqleKHckUA7cg=",
+      "directPath": "/v/t62.7114-24/30442330_560291746426412_6780050962497929597_n.enc?ccb=11-4&oh=01_Q5AaIN7qUMvocdqUaBXXXfk6WbfiCQGgRNDLQFb4m0rYy6mK&oe=671EDEDD&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727487231",
+      "contextInfo": {
+        "stanzaId": "5B74BF172C467E695D5E6C5BB0FABDFA",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "templateButtonReplyMessage": {
+            "selectedId": ".ytaud https://youtube.com/watch?v=vh51pxSPGdY",
+            "selectedDisplayText": "Audio 🎧",
+            "selectedIndex": 0
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytaud https://youtube.com/watch?v=vh51pxSPGdY",
+        "selectedDisplayText": "Audio 🎧",
+        "selectedIndex": 0
+      }
+    }
+  }
+]

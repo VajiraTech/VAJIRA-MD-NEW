@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "97334B5BE6171961AB8793B3E430DFBD"
+    },
+    "messageTimestamp": 1727486335,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "conversation": ".ping",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "cA3GpsdOMyuBFg==",
+          "senderTimestamp": "1727485637",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "97334B5BE6171961AB8793B3E430DFBD",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".ping",
+    "mentionUser": [],
+    "body": ".ping",
+    "quoted": null
+  }
+]

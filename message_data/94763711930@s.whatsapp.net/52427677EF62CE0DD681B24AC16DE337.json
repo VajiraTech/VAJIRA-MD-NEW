@@ -1,0 +1,77 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "52427677EF62CE0DD681B24AC16DE337"
+    },
+    "messageTimestamp": 1727484473,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/19145685_1274611063886858_7152759928766295824_n.enc?ccb=11-4&oh=01_Q5AaIHymbt27j0UiKMK8NWrFankU3F4_iIEdGb9HDMHBZ6Cn&oe=671E50E5&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "මල්ලි මුව දන්නවද",
+        "fileSha256": "TjG+yug8CAYDfEDj0UVAvYDLFJ7YK1LzO5+0hj7cbfY=",
+        "fileLength": "20896",
+        "height": 303,
+        "width": 359,
+        "mediaKey": "ZrpsT16issa8zCfOJK9R+jkdi2/tKoCanpTNdEJoc8k=",
+        "fileEncSha256": "6LZz+L/wGY62YsZKt+mzUFJkdics4UvssWWdOUNmbXs=",
+        "directPath": "/v/t62.7118-24/19145685_1274611063886858_7152759928766295824_n.enc?ccb=11-4&oh=01_Q5AaIHymbt27j0UiKMK8NWrFankU3F4_iIEdGb9HDMHBZ6Cn&oe=671E50E5&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1727455284",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwASAMBIgACEQEDEQH/xAAwAAADAQEBAQAAAAAAAAAAAAADBAUAAgEGAQADAQEAAAAAAAAAAAAAAAACAwQAAf/aAAwDAQACEAMQAAAAX7rcyrn9OE2+f7s9Mp+e1lTqZuPu8sEl5XagpoNy4oBgntFn7E7g5MqzYSvL3kwBZFM7PaT5ItATYx8ucIpJKdX84QILEnsy3KOAoixfHy5f/8QAJhAAAgMAAgIBAwUBAAAAAAAAAQIAAxEEIRIxEyIyQRRCUVJhgf/aAAgBAQABPwBa7ShLepVUG9LDV/Inwof2mNxfLkY3SRuEyuBUdBlyMpzI/VdZye19zwQjMngEGATGGHISB3kdV+7N6lL7n0CXcb5GLHoy/jOK1A7yLx7XBxYvIXNJE+dZ8y4e4OUhPjBcjDB3F2qwt5EjfUNw36vRgKsuqdE9eovHYA9wrYITYB6iKxf0dMFvifFZW1buPfU57AVKVE4dp9RrRpBlTv8AIQR1NWeAf0I9VdVbf2MHnW5LCCxu2/Mo5NV6mu0ROM1Lgp2s5FTC3R+YKmwkd6YlRHbnI19aLixWLksROfWDUrQjr/kxlOicflvHu8gp2frPhXSdEe9WIZm9xLuP4/YWMHJRSV9R8toJ0RiO+4AT/glVWruYBPE7LGZvEEywaK1JiAKoA9ZGf5HbR6nActaEPamNx61sbBLEFbDJUfKkzJ//xAAeEQACAgEFAQAAAAAAAAAAAAAAAQISEQMQITFRE//aAAgBAgEBPwC+RzFqNoU0yy9KI+aYoVT5KpxztNci4E7IaceujIoIcI+CjXJLb//EAB4RAAICAgMBAQAAAAAAAAAAAAECACEQEQMSMSJR/9oACAEDAQE/ANYRQVh9OBqEXU416xkUkjVwzqxNCaXjs20Q7inZv2PTmM5bHH+Qj5bH/9k=",
+        "scansSidecar": "oliy4MifC7i6j5+0SvkCtkQj44wiOfQlKOwaA3jAi5g1n2ZZ6IWdGw==",
+        "scanLengths": [
+          1902,
+          8445,
+          4182,
+          6367
+        ],
+        "midQualityFileSha256": "sDTJncDVIsn5oE8ilq7ThAs47WACQ4ZE2BWWR1AYrOU="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "52427677EF62CE0DD681B24AC16DE337",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/19145685_1274611063886858_7152759928766295824_n.enc?ccb=11-4&oh=01_Q5AaIHymbt27j0UiKMK8NWrFankU3F4_iIEdGb9HDMHBZ6Cn&oe=671E50E5&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "මල්ලි මුව දන්නවද",
+      "fileSha256": "TjG+yug8CAYDfEDj0UVAvYDLFJ7YK1LzO5+0hj7cbfY=",
+      "fileLength": "20896",
+      "height": 303,
+      "width": 359,
+      "mediaKey": "ZrpsT16issa8zCfOJK9R+jkdi2/tKoCanpTNdEJoc8k=",
+      "fileEncSha256": "6LZz+L/wGY62YsZKt+mzUFJkdics4UvssWWdOUNmbXs=",
+      "directPath": "/v/t62.7118-24/19145685_1274611063886858_7152759928766295824_n.enc?ccb=11-4&oh=01_Q5AaIHymbt27j0UiKMK8NWrFankU3F4_iIEdGb9HDMHBZ6Cn&oe=671E50E5&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727455284",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwASAMBIgACEQEDEQH/xAAwAAADAQEBAQAAAAAAAAAAAAADBAUAAgEGAQADAQEAAAAAAAAAAAAAAAACAwQAAf/aAAwDAQACEAMQAAAAX7rcyrn9OE2+f7s9Mp+e1lTqZuPu8sEl5XagpoNy4oBgntFn7E7g5MqzYSvL3kwBZFM7PaT5ItATYx8ucIpJKdX84QILEnsy3KOAoixfHy5f/8QAJhAAAgMAAgIBAwUBAAAAAAAAAQIAAxEEIRIxEyIyQRRCUVJhgf/aAAgBAQABPwBa7ShLepVUG9LDV/Inwof2mNxfLkY3SRuEyuBUdBlyMpzI/VdZye19zwQjMngEGATGGHISB3kdV+7N6lL7n0CXcb5GLHoy/jOK1A7yLx7XBxYvIXNJE+dZ8y4e4OUhPjBcjDB3F2qwt5EjfUNw36vRgKsuqdE9eovHYA9wrYITYB6iKxf0dMFvifFZW1buPfU57AVKVE4dp9RrRpBlTv8AIQR1NWeAf0I9VdVbf2MHnW5LCCxu2/Mo5NV6mu0ROM1Lgp2s5FTC3R+YKmwkd6YlRHbnI19aLixWLksROfWDUrQjr/kxlOicflvHu8gp2frPhXSdEe9WIZm9xLuP4/YWMHJRSV9R8toJ0RiO+4AT/glVWruYBPE7LGZvEEywaK1JiAKoA9ZGf5HbR6nActaEPamNx61sbBLEFbDJUfKkzJ//xAAeEQACAgEFAQAAAAAAAAAAAAAAAQISEQMQITFRE//aAAgBAgEBPwC+RzFqNoU0yy9KI+aYoVT5KpxztNci4E7IaceujIoIcI+CjXJLb//EAB4RAAICAgMBAQAAAAAAAAAAAAECACEQEQMSMSJR/9oACAEDAQE/ANYRQVh9OBqEXU416xkUkjVwzqxNCaXjs20Q7inZv2PTmM5bHH+Qj5bH/9k=",
+      "scansSidecar": "oliy4MifC7i6j5+0SvkCtkQj44wiOfQlKOwaA3jAi5g1n2ZZ6IWdGw==",
+      "scanLengths": [
+        1902,
+        8445,
+        4182,
+        6367
+      ],
+      "midQualityFileSha256": "sDTJncDVIsn5oE8ilq7ThAs47WACQ4ZE2BWWR1AYrOU="
+    },
+    "mentionUser": [],
+    "body": "මල්ලි මුව දන්නවද",
+    "quoted": null
+  }
+]

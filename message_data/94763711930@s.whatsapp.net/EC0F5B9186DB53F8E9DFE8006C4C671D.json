@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "EC0F5B9186DB53F8E9DFE8006C4C671D"
+    },
+    "messageTimestamp": 1727484486,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "message": {
+      "extendedTextMessage": {
+        "text": "හ්ම්ම්☺️",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "F6DED356FBC52253074D6DE1B58B6FA4",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "මහන්සි වෙන්න එපා"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "EC0F5B9186DB53F8E9DFE8006C4C671D",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "හ්ම්ම්☺️",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "F6DED356FBC52253074D6DE1B58B6FA4",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "මහන්සි වෙන්න එපා"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "හ්ම්ම්☺️",
+    "quoted": {
+      "conversation": "මහන්සි වෙන්න එපා"
+    }
+  }
+]

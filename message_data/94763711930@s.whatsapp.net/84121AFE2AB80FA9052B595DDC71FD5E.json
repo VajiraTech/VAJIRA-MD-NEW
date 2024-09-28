@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "84121AFE2AB80FA9052B595DDC71FD5E"
+    },
+    "messageTimestamp": 1727484482,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "message": {
+      "extendedTextMessage": {
+        "text": "කෑව මල්ලි කාල බෙහෙත් බීල මේ නිදි",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "2510686D24D942709E822F0B44D9FD0F",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ඔයා"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "84121AFE2AB80FA9052B595DDC71FD5E",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "කෑව මල්ලි කාල බෙහෙත් බීල මේ නිදි",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "2510686D24D942709E822F0B44D9FD0F",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ඔයා"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "කෑව මල්ලි කාල බෙහෙත් බීල මේ නිදි",
+    "quoted": {
+      "conversation": "ඔයා"
+    }
+  }
+]

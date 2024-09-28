@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94714340437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "FAFBD0988B700BC1BA67B743DD092F45"
+    },
+    "messageTimestamp": 1727440518,
+    "pushName": "😍😍Yalinjith Hasinindu 😍😍",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/13785612_1481448082562193_5808914571032781927_n.enc?ccb=11-4&oh=01_Q5AaIKk-r-ZG5cMzyqKz2QzqlLzIz5FVN5Q_aRXl0Kb2C9Hu&oe=671DFB73&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "AHPS+2nNASVFkjBm9Q5P2inNgv52R9tDAl6VFLqP+a4=",
+        "fileEncSha256": "p3Bxp/YFtfw9oAHBERL23alK8v+cYByvz7yJVUVjK68=",
+        "mediaKey": "fYxtDVblwPhKW01z/ldAqL78tjmEA8jylAwbjxYw8qs=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/13785612_1481448082562193_5808914571032781927_n.enc?ccb=11-4&oh=01_Q5AaIKk-r-ZG5cMzyqKz2QzqlLzIz5FVN5Q_aRXl0Kb2C9Hu&oe=671DFB73&_nc_sid=5e03e0",
+        "fileLength": "45300",
+        "mediaKeyTimestamp": "1727440516",
+        "isAnimated": false,
+        "stickerSentTs": "1727440516025",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "FAFBD0988B700BC1BA67B743DD092F45",
+    "chat": "94714340437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94714340437@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/13785612_1481448082562193_5808914571032781927_n.enc?ccb=11-4&oh=01_Q5AaIKk-r-ZG5cMzyqKz2QzqlLzIz5FVN5Q_aRXl0Kb2C9Hu&oe=671DFB73&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "AHPS+2nNASVFkjBm9Q5P2inNgv52R9tDAl6VFLqP+a4=",
+      "fileEncSha256": "p3Bxp/YFtfw9oAHBERL23alK8v+cYByvz7yJVUVjK68=",
+      "mediaKey": "fYxtDVblwPhKW01z/ldAqL78tjmEA8jylAwbjxYw8qs=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/13785612_1481448082562193_5808914571032781927_n.enc?ccb=11-4&oh=01_Q5AaIKk-r-ZG5cMzyqKz2QzqlLzIz5FVN5Q_aRXl0Kb2C9Hu&oe=671DFB73&_nc_sid=5e03e0",
+      "fileLength": "45300",
+      "mediaKeyTimestamp": "1727440516",
+      "isAnimated": false,
+      "stickerSentTs": "1727440516025",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

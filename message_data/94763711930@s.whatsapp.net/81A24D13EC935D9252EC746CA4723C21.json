@@ -1,0 +1,95 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "81A24D13EC935D9252EC746CA4723C21"
+    },
+    "messageTimestamp": 1727436929,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/30760788_3538254136464887_8707693829061242171_n.enc?ccb=11-4&oh=01_Q5AaIG9LqHe7uUxP0amtLXazpTmaShMvQ2Kd9vwr2-8seh57&oe=671DED9D&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "GKDUSRUEBvAKjRTdqJaEXoPMPLBSDvo6w0W1451itLw=",
+        "fileEncSha256": "ZD5srvjRD8tWT+yMjAtzx8yI53Z+hjiXrfd/hE/83qo=",
+        "mediaKey": "BIaWVbAgQ6JJCrp5CBLob6ypCUFt6bLlcNzinpGZW4Q=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/30760788_3538254136464887_8707693829061242171_n.enc?ccb=11-4&oh=01_Q5AaIG9LqHe7uUxP0amtLXazpTmaShMvQ2Kd9vwr2-8seh57&oe=671DED9D&_nc_sid=5e03e0",
+        "fileLength": "184556",
+        "mediaKeyTimestamp": "1727375043",
+        "firstFrameLength": 5218,
+        "firstFrameSidecar": "SG7p6LOjFWCebQ==",
+        "isAnimated": true,
+        "contextInfo": {
+          "stanzaId": "D021914C1FC4EB55992FD80C373F1816",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "තෝ බල්ල නිකම්වත් කිව්වෙ නෑනේ"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1727436927205",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "81A24D13EC935D9252EC746CA4723C21",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/30760788_3538254136464887_8707693829061242171_n.enc?ccb=11-4&oh=01_Q5AaIG9LqHe7uUxP0amtLXazpTmaShMvQ2Kd9vwr2-8seh57&oe=671DED9D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "GKDUSRUEBvAKjRTdqJaEXoPMPLBSDvo6w0W1451itLw=",
+      "fileEncSha256": "ZD5srvjRD8tWT+yMjAtzx8yI53Z+hjiXrfd/hE/83qo=",
+      "mediaKey": "BIaWVbAgQ6JJCrp5CBLob6ypCUFt6bLlcNzinpGZW4Q=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/30760788_3538254136464887_8707693829061242171_n.enc?ccb=11-4&oh=01_Q5AaIG9LqHe7uUxP0amtLXazpTmaShMvQ2Kd9vwr2-8seh57&oe=671DED9D&_nc_sid=5e03e0",
+      "fileLength": "184556",
+      "mediaKeyTimestamp": "1727375043",
+      "firstFrameLength": 5218,
+      "firstFrameSidecar": "SG7p6LOjFWCebQ==",
+      "isAnimated": true,
+      "contextInfo": {
+        "stanzaId": "D021914C1FC4EB55992FD80C373F1816",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "තෝ බල්ල නිකම්වත් කිව්වෙ නෑනේ"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1727436927205",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "තෝ බල්ල නිකම්වත් කිව්වෙ නෑනේ"
+    }
+  }
+]

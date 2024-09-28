@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94765437973@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F41C6ABBA1A70E61718DE434525B18D6"
+    },
+    "messageTimestamp": 1727442033,
+    "pushName": "🩷 chanuka 🩷",
+    "broadcast": false,
+    "message": {
+      "conversation": "Hi",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F41C6ABBA1A70E61718DE434525B18D6",
+    "chat": "94765437973@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94765437973@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Hi",
+    "mentionUser": [],
+    "body": "Hi",
+    "quoted": null
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "59571341C7A6482C343D8C9E1A58F7BB"
+    },
+    "messageTimestamp": 1727436772,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/25472176_2106825973104198_4027409268449472837_n.enc?ccb=11-4&oh=01_Q5AaIOm1w-i1U6yH12kOy2QtaUJgXx9KCLxa06qKeixD0aMj&oe=671E0843&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "😞",
+        "fileSha256": "5eJX53lamTd1iu4Qh2B1KZ86+740UXSXCQ4UQ0ALm4I=",
+        "fileLength": "72052",
+        "height": 1280,
+        "width": 720,
+        "mediaKey": "EFX9b8SjLxEBTEWGMnYqgh2K9h3MkpBzYqOTOrrYecs=",
+        "fileEncSha256": "NdLnQmPriiXWSR9ECL//03BFPHmq/eHK0L5/ywJOTrk=",
+        "directPath": "/v/t62.7118-24/25472176_2106825973104198_4027409268449472837_n.enc?ccb=11-4&oh=01_Q5AaIOm1w-i1U6yH12kOy2QtaUJgXx9KCLxa06qKeixD0aMj&oe=671E0843&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1727436767",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD4AIwMBIgACEQEDEQH/xAAsAAADAQEBAAAAAAAAAAAAAAAAAgQDAQUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAACSlpo2RWOAGz1RrNTvEiCFV2QErQV3VGYhqZRp7aRsRmhL/8QAJBAAAgMAAQQCAgMAAAAAAAAAAQIAAxEhEBITMQQiMlFBUmH/2gAIAQEAAT8AVmr9wMDDD0atc0xV+24e2CzntnB9dLVdPq54/tHZK6wB7M8ecnmBMXvYgfoTyH9QMlowy2lq/Q1JUKmUMMwS+3vb/B6ijiBsOiJaGHMsRQWKHB/IlVT/ACLCAeBPEw4C9NImljh9QVJTSwA/L2Z53XhWwCb0pQD7GXWF9G8RlGwtgJj3ts+Le7IVMcw7s//EABoRAAICAwAAAAAAAAAAAAAAAAIRACABECH/2gAIAQIBAT8AdFURczzX/8QAGREAAgMBAAAAAAAAAAAAAAAAARAAESAx/9oACAEDAQE/AH3NQl//2Q==",
+        "scansSidecar": "LukSIupg8DGedhjlaB5MOsMcdpkfrdRLY3K7W7pCitBu/c0U+3OMHg==",
+        "scanLengths": [
+          8969,
+          23668,
+          13994,
+          25421
+        ],
+        "midQualityFileSha256": "T+sIMFjERGnGZdHY0eZWnYQniwy9r1AZ0V9CiujevC8="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "59571341C7A6482C343D8C9E1A58F7BB",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/25472176_2106825973104198_4027409268449472837_n.enc?ccb=11-4&oh=01_Q5AaIOm1w-i1U6yH12kOy2QtaUJgXx9KCLxa06qKeixD0aMj&oe=671E0843&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "😞",
+      "fileSha256": "5eJX53lamTd1iu4Qh2B1KZ86+740UXSXCQ4UQ0ALm4I=",
+      "fileLength": "72052",
+      "height": 1280,
+      "width": 720,
+      "mediaKey": "EFX9b8SjLxEBTEWGMnYqgh2K9h3MkpBzYqOTOrrYecs=",
+      "fileEncSha256": "NdLnQmPriiXWSR9ECL//03BFPHmq/eHK0L5/ywJOTrk=",
+      "directPath": "/v/t62.7118-24/25472176_2106825973104198_4027409268449472837_n.enc?ccb=11-4&oh=01_Q5AaIOm1w-i1U6yH12kOy2QtaUJgXx9KCLxa06qKeixD0aMj&oe=671E0843&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727436767",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD4AIwMBIgACEQEDEQH/xAAsAAADAQEBAAAAAAAAAAAAAAAAAgQDAQUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAACSlpo2RWOAGz1RrNTvEiCFV2QErQV3VGYhqZRp7aRsRmhL/8QAJBAAAgMAAQQCAgMAAAAAAAAAAQIAAxEhEBITMQQiMlFBUmH/2gAIAQEAAT8AVmr9wMDDD0atc0xV+24e2CzntnB9dLVdPq54/tHZK6wB7M8ecnmBMXvYgfoTyH9QMlowy2lq/Q1JUKmUMMwS+3vb/B6ijiBsOiJaGHMsRQWKHB/IlVT/ACLCAeBPEw4C9NImljh9QVJTSwA/L2Z53XhWwCb0pQD7GXWF9G8RlGwtgJj3ts+Le7IVMcw7s//EABoRAAICAwAAAAAAAAAAAAAAAAIRACABECH/2gAIAQIBAT8AdFURczzX/8QAGREAAgMBAAAAAAAAAAAAAAAAARAAESAx/9oACAEDAQE/AH3NQl//2Q==",
+      "scansSidecar": "LukSIupg8DGedhjlaB5MOsMcdpkfrdRLY3K7W7pCitBu/c0U+3OMHg==",
+      "scanLengths": [
+        8969,
+        23668,
+        13994,
+        25421
+      ],
+      "midQualityFileSha256": "T+sIMFjERGnGZdHY0eZWnYQniwy9r1AZ0V9CiujevC8="
+    },
+    "mentionUser": [],
+    "body": "😞",
+    "quoted": null
+  }
+]

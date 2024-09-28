@@ -1,0 +1,42 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "8A51549283BABEE031794D09A2846D08"
+    },
+    "messageTimestamp": 1727486465,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "94763711930@s.whatsapp.net",
+          "fromMe": true,
+          "id": "F9CA72C7B6F7B28E2FA86581D4EEA5EE"
+        },
+        "text": "🎧",
+        "senderTimestampMs": "1727486465211"
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "8A51549283BABEE031794D09A2846D08",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "94763711930@s.whatsapp.net",
+        "fromMe": true,
+        "id": "F9CA72C7B6F7B28E2FA86581D4EEA5EE"
+      },
+      "text": "🎧",
+      "senderTimestampMs": "1727486465211"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

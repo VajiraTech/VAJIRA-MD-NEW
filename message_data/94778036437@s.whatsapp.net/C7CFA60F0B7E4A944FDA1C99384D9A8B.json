@@ -1,0 +1,199 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778036437@s.whatsapp.net",
+      "fromMe": false,
+      "id": "C7CFA60F0B7E4A944FDA1C99384D9A8B"
+    },
+    "messageTimestamp": 1727444604,
+    "pushName": "ravinduvidusara92",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".ytaud https://youtube.com/watch?v=6LIxNV-X6tI",
+        "selectedDisplayText": "Audio 🎧",
+        "contextInfo": {
+          "stanzaId": "F52102C6481D0C2F43B455FB9867D6FF",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-e7d8527b-fb5c-409e-92d4-0dbf78be546a?ccb=9-4&oh=01_Q5AaIHgHMAWqxJwMqCAU4FVUsQGUKaxY97Emhwq98aGSZ3fM&oe=671E0F77&_nc_sid=e6ed6c&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "xYl7wy8DixYm/esmyaWHUCzqTeKDeu4cC3SI8uPq0S0=",
+                  "fileLength": "130611",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "kVCRml2dIqS5zlH6losw+pdbHgDcaDYcGWvJP8FcMxE=",
+                  "fileEncSha256": "zUMmLtW+GnAfF6snbI4s6YSoKZbIoritLzoWh4TeDjo=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-e7d8527b-fb5c-409e-92d4-0dbf78be546a?ccb=9-4&oh=01_Q5AaIHgHMAWqxJwMqCAU4FVUsQGUKaxY97Emhwq98aGSZ3fM&oe=671E0F77&_nc_sid=e6ed6c",
+                  "mediaKeyTimestamp": "1727444570",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAnEAACAQMEAAUFAAAAAAAAAAABAgMABBESITFBBRMUIlEjMmGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAzEREiH/2gAMAwEAAhEDEQA/AOUtLOSYDSnO+c/FPGyuFaIiLQQC2ptgw6pbwq5m9T9NyCFOkKM/yqagyEJdm8dQCVJjAxjvn81mc1jZJV+vrEvExcMkYdcHPfH7qcy3PlMH2TJByMDIqqBcNCsgilZ4yQqBdQ2O2R1zUua9unZ47j3EOxwR9rd0Vyi1zo3FpiiOyAsjFW+QcGj1VxnPny5Hes0UVOzTohhpJdXCudM8ozucOdzWKsSSSSSeTRRRVorMP//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* shaa fm sindu kamare nonstop 2023 | nonstop sinhala | live band show | old song\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=6LIxNV-X6tI\n"
+              },
+              "footer": {
+                "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=6LIxNV-X6tI\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=6LIxNV-X6tI\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              },
+              "contextInfo": {
+                "mentionedJid": [
+                  "94760472379@s.whatsapp.net",
+                  ""
+                ],
+                "forwardingScore": 999,
+                "isForwarded": true
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 0
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "DHIqKHMLvOoyrQ==",
+          "senderTimestamp": "1727347614",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "yGeT7wxB/ceqYZopgoLPRZU/4dbaKW85jyrSkYVqA30="
+      }
+    },
+    "id": "C7CFA60F0B7E4A944FDA1C99384D9A8B",
+    "chat": "94778036437@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778036437@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".ytaud https://youtube.com/watch?v=6LIxNV-X6tI",
+      "selectedDisplayText": "Audio 🎧",
+      "contextInfo": {
+        "stanzaId": "F52102C6481D0C2F43B455FB9867D6FF",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-e7d8527b-fb5c-409e-92d4-0dbf78be546a?ccb=9-4&oh=01_Q5AaIHgHMAWqxJwMqCAU4FVUsQGUKaxY97Emhwq98aGSZ3fM&oe=671E0F77&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "xYl7wy8DixYm/esmyaWHUCzqTeKDeu4cC3SI8uPq0S0=",
+                "fileLength": "130611",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "kVCRml2dIqS5zlH6losw+pdbHgDcaDYcGWvJP8FcMxE=",
+                "fileEncSha256": "zUMmLtW+GnAfF6snbI4s6YSoKZbIoritLzoWh4TeDjo=",
+                "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-e7d8527b-fb5c-409e-92d4-0dbf78be546a?ccb=9-4&oh=01_Q5AaIHgHMAWqxJwMqCAU4FVUsQGUKaxY97Emhwq98aGSZ3fM&oe=671E0F77&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1727444570",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAnEAACAQMEAAUFAAAAAAAAAAABAgMABBESITFBBRMUIlEjMmGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAzEREiH/2gAMAwEAAhEDEQA/AOUtLOSYDSnO+c/FPGyuFaIiLQQC2ptgw6pbwq5m9T9NyCFOkKM/yqagyEJdm8dQCVJjAxjvn81mc1jZJV+vrEvExcMkYdcHPfH7qcy3PlMH2TJByMDIqqBcNCsgilZ4yQqBdQ2O2R1zUua9unZ47j3EOxwR9rd0Vyi1zo3FpiiOyAsjFW+QcGj1VxnPny5Hes0UVOzTohhpJdXCudM8ozucOdzWKsSSSSSeTRRRVorMP//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* shaa fm sindu kamare nonstop 2023 | nonstop sinhala | live band show | old song\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=6LIxNV-X6tI\n"
+            },
+            "footer": {
+              "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=6LIxNV-X6tI\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=6LIxNV-X6tI\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            },
+            "contextInfo": {
+              "mentionedJid": [
+                "94760472379@s.whatsapp.net",
+                ""
+              ],
+              "forwardingScore": 999,
+              "isForwarded": true
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 0
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": ".ytaud https://youtube.com/watch?v=6LIxNV-X6tI",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-e7d8527b-fb5c-409e-92d4-0dbf78be546a?ccb=9-4&oh=01_Q5AaIHgHMAWqxJwMqCAU4FVUsQGUKaxY97Emhwq98aGSZ3fM&oe=671E0F77&_nc_sid=e6ed6c&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "xYl7wy8DixYm/esmyaWHUCzqTeKDeu4cC3SI8uPq0S0=",
+            "fileLength": "130611",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "kVCRml2dIqS5zlH6losw+pdbHgDcaDYcGWvJP8FcMxE=",
+            "fileEncSha256": "zUMmLtW+GnAfF6snbI4s6YSoKZbIoritLzoWh4TeDjo=",
+            "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-e7d8527b-fb5c-409e-92d4-0dbf78be546a?ccb=9-4&oh=01_Q5AaIHgHMAWqxJwMqCAU4FVUsQGUKaxY97Emhwq98aGSZ3fM&oe=671E0F77&_nc_sid=e6ed6c",
+            "mediaKeyTimestamp": "1727444570",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAnEAACAQMEAAUFAAAAAAAAAAABAgMABBESITFBBRMUIlEjMmGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAzEREiH/2gAMAwEAAhEDEQA/AOUtLOSYDSnO+c/FPGyuFaIiLQQC2ptgw6pbwq5m9T9NyCFOkKM/yqagyEJdm8dQCVJjAxjvn81mc1jZJV+vrEvExcMkYdcHPfH7qcy3PlMH2TJByMDIqqBcNCsgilZ4yQqBdQ2O2R1zUua9unZ47j3EOxwR9rd0Vyi1zo3FpiiOyAsjFW+QcGj1VxnPny5Hes0UVOzTohhpJdXCudM8ozucOdzWKsSSSSSeTRRRVorMP//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "`✦ 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ✦`\n\n> *`➤ Title` :* shaa fm sindu kamare nonstop 2023 | nonstop sinhala | live band show | old song\n\n> *`➤ Size` :* undefined\n\n> *`➤ Duration` :* undefined\n\n> *`➤ Quality` :* 128kbps\t\t\t\t   \n\n> *`➤ URL` :* https://youtube.com/watch?v=6LIxNV-X6tI\n"
+        },
+        "footer": {
+          "text": "ᴠᴀᴊɪʀᴀ-ᴍᴅ ʙʏ ᴠᴀᴊɪʀᴀᴛᴇᴄʜ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio 🎧\",\"id\":\".ytaud https://youtube.com/watch?v=6LIxNV-X6tI\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document 📁\",\"id\":\".ytdoc https://youtube.com/watch?v=6LIxNV-X6tI\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        },
+        "contextInfo": {
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net",
+            ""
+          ],
+          "forwardingScore": 999,
+          "isForwarded": true
+        }
+      }
+    }
+  }
+]

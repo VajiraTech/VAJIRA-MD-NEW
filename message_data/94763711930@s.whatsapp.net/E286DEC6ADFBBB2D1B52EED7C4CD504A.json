@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763711930@s.whatsapp.net",
+      "fromMe": false,
+      "id": "E286DEC6ADFBBB2D1B52EED7C4CD504A"
+    },
+    "messageTimestamp": 1727437051,
+    "pushName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "හරි බේත් ටික අරගෙන මන් යන්නම්😞",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "8172DEB002A1C9F9AF3B41FF65EC3E16",
+          "participant": "94760472379@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ඉස්සරවෙලා ලෙඩේ හොදකරගනිම්"
+          },
+          "mentionedJid": [
+            "94760472379@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fU9gD5384ChfUg==",
+          "senderTimestamp": "1727171041",
+          "recipientKeyHash": "lkfRdkINhziiZQ==",
+          "recipientTimestamp": "1727434997"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝓝𝓲𝓵𝓪𝓴𝓼𝓱𝓪 𝓪𝓷𝓭 𝓼𝓲𝓽𝓱𝓾",
+    "id": "E286DEC6ADFBBB2D1B52EED7C4CD504A",
+    "chat": "94763711930@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763711930@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "හරි බේත් ටික අරගෙන මන් යන්නම්😞",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "8172DEB002A1C9F9AF3B41FF65EC3E16",
+        "participant": "94760472379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ඉස්සරවෙලා ලෙඩේ හොදකරගනිම්"
+        },
+        "mentionedJid": [
+          "94760472379@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94760472379@s.whatsapp.net"
+    ],
+    "body": "හරි බේත් ටික අරගෙන මන් යන්නම්😞",
+    "quoted": {
+      "conversation": "ඉස්සරවෙලා ලෙඩේ හොදකරගනිම්"
+    }
+  }
+]
