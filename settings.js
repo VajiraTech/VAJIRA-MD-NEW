@@ -38,7 +38,7 @@ MATHS_AI: process.env.MATHS_AI || 'true'  ,
 WELCOME: process.env.WELCOME || 'true'  ,    
 HEROKU_API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,    
 HEROKU_APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME,         
-LOGO: process.env.LOGO || `https://telegra.ph/file/cce13b56a460afc9f4139.jpg` ,
+LOGO: process.env.LOGO || `https://i.imgur.com/UrGfqRI.jpeg` ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,    
 ANTI_DELETE : process.env.ANTI_DELETE || 'true' ,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO        
