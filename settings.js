@@ -5,6 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
+    
 SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
 OWNER_NUMBER: process.env.OWNER_NUMBER === undefined ? '' : process.env.OWNER_NUMBER,   
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
@@ -40,4 +41,5 @@ LOGO: process.env.LOGO || `https://telegra.ph/file/cce13b56a460afc9f4139.jpg` ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,    
 ANTI_DELETE : process.env.ANTI_DELETE || false ,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO        
+    
 };
