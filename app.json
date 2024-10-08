@@ -16,16 +16,6 @@
             "required": true,
             "value": "button"
         },
-    "HEROKU_APP_NAME": {
-            "description": "Put Heroku app name here / හෙරොකු හි ඩිප්ලොයි කරන විට මුලි දැමු app name එක නැවද දමන්න",
-            "required": true,
-            "value": ""
-        },
-    "HEROKU_API_KEY": {
-            "description": "Put Heroku Api key here / හෙරොකු api key එක දමන්න",
-            "required": true,
-            "value": ""
-        },
     "POSTGRESQL_URL": {
             "description": "Put Any postgres url here",
             "required": true,
