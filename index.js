@@ -11,7 +11,7 @@
 
 
 * Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
+* Author - Joshuamambo1x1x
 * Team - Technical Cybers 
 * Version - V6
 
