@@ -77,7 +77,7 @@
 
 ## 🎀 STEP 02 -  Get Session
 
-<a href="https://vajirapairmd-77bc6f8caf84.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://vajira-session-id-wsed.onrender.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 `Not come session id use a vpn and try again`
 
